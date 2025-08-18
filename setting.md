@@ -2,21 +2,27 @@
 
 ## Setting
 
-The land of Mithryn stands on a high plateau surrounded by the slopes of Mount Amaroth. Our History is simple: we began as a fortress on the plateau, ruled in the old days by an evil, tyrant king. In Year 1 of the current era, the High Council’s armies defeated him and "freed" the people.
+The land of Mithryn rises on a plateau ringed by the slopes of Mount Amaroth, a fire-mountain long fallen quiet. Ask the scribes of distant courts and they will tell you the story is plain: once, an evil, tyrant king ruled here. In the first year of this era, the High Council brought their armies, toppled his rule, and delivered freedom.
 
-But life here has never felt free. For generations, our roads have been watched, the markets searched, the wrong word punished. Most folk keep their heads down and their voices low.
-The world looked away, told there was nothing here to see: Mithryn was a backwater fortress on poor soil, notable only for the evil it once harbored.
+That is the tale the world accepts. A simple story. A closed book.
 
-Yet... There has always been something in the air here. 
+Yet life in Mithryn has never tasted of freedom. For generations, our roads have been watched, the markets searched, the wrong word punished. Most folk keep their heads down and their voices low.
 
-Starting with the people: elsewhere in the world, folk cling to strict divisions: Men, dwarves, elves, halflings. Such divisions here are meaningless. It's in the faces that pass on the street: Eyes shaped like no two others. Ears that taper subtly or curl in curious arcs. Skin runs the full span from the palest white to the deepest black, and then further into undertones and hues: bronze, copper, rose, the greens of olive and soft moss.
+The world looked away, told there was nothing here to see: Mithryn was a plateau of poor soil and poorer fortunes,  notable only for the evil it once harbored.
+
+But the plateau whispers otherwise.
+
+The people themselves carry that mystery. Elsewhere, bloodlines are guarded and categorized — dwarf and elf, man and halfling. Here such words mean little. It's in the faces that pass on the street: Eyes shaped like no two others. Ears that taper subtly or curl in curious arcs. Skin runs the full span from the palest white to the deepest black, and then further into undertones and hues: bronze, copper, rose, the greens of olive and soft moss.
 No one is entirely one thing, yet each bears a look that marks them as from this plateau.
 
 And then there are the things that shouldn’t exist, yet sometimes do.
 
 A shard of pottery with a painting and glaze unlike anything made today. A fragment of fabric that seems to shimmer in ways dye cannot explain... Such items are rare — and dangerous. The law demands they be surrendered; to keep one is a capital crime. Yet they are hidden — in false walls, beneath floorboards, inside bread ovens gone cold. Because everyone feels it: they are pieces of something greater, something that does not match the story we’ve been told.
 
-Nearly three thousand years have passed since the Council’s war. Their soldiers no longer march here; their interest in this place has waned. And in that quiet, something has begun to stir.
+Nearly three millennia have passed since the Council’s war. The world no longer spares Mithryn a thought: their soldiers no longer march here; their interest in this place has waned.
+
+And in that quiet, something has begun to stir.
+
 It is not spoken of, yet it is everywhere — It shows in the songs hummed on the walk home that no one quite remembers learning. In the sudden warmth of the sun breaking through a long grey sky. In the feeling that the air itself carries a promise.
 No one names it, but all can feel it. Something is awakening.
 And with it, hope.
@@ -33,16 +39,20 @@ As GM, you might want to conceal the full truth at first (Players already start 
 
 ## The secrets of Mithryn
 
-There was a time when Mithryn was the beating heart of the known world. Standing on a high plateau surrounded by the slopes of Mount Amaroth, the sleeping fire-mountain whose soil was richer than any valley. Terraces climbed the mountain’s sides — not gentle, pastoral gardens, but soaring, vertical orchards in sheer defiance of gravity, each one a hanging garden overflowing with fruit, vegetables, and grain. The fruit grown here was famed for its sweetness; vegetables, herbs, and grains were prized across the lands.
+There was a time when Mithryn was the beating heart of the known world. Standing on a high plateau surrounded by the slopes of Mount Amaroth, the sleeping fire-mountain whose soil was richer than any valley. 
+Imposible terraces climbed the mountain’s sides — not gentle, pastoral gardens, but soaring vertical orchards and hanging fields in sheer defiance of gravity, overflowing with fruit, vegetables, and grain. The fruit grown here was famed for its sweetness; vegetables, herbs, and grains were prized across the lands.
 
 Within the city walls, light from crystalline lamps spilled into broad plazas where orators debated beneath flowering trees.
+
 Magic was not hoarded in hidden towers, nor knowledge locked behind guarded gates. Spellwrights sat alongside carpenters in the tea houses, trading charms for better chisels. The universities welcomed anyone with questions to ask. Here, science and magic danced together like lifelong friends.
 
-It was a land of many peoples — Orcs, men, dwarves, halflings and others — bound not by conquest but by choice.
+Mithryn was a land of many peoples, bound not by conquest but by choice. Orcs, halflings, dwarves, elves, men — they wove their bloodlines and cultures into something richer than any one heritage could hold. A living tapestry of union and change.
 
 And then came the silencing.
 
-Clad in humility and speaking the language of caution, the wizard Tharuk-Un (the Grey Vulture) whispered to kings and high lords beyond the plateau. He told them change was dangerous, that the pace of Mithryn’s progress was a threat to the old balances. Through his counsel, alliances shifted in shadow. The day came when the armies of distant realms — Elves in bright mail, Men bearing the crests of old kingdoms — marched on the city.
+Clad in humility and speaking the language of caution, the wizard Tharuk-Un (the Grey Vulture) whispered to kings and high lords beyond the plateau. He told them change was dangerous, that the pace of Mithryn’s progress was a threat to the old balances. If left unchecked, it might spread and consume all tradition. Through his counsel, alliances shifted in shadow. The day came when the armies of distant realms — Elves in bright mail, Men bearing the crests of old kingdoms — marched on the city.
+
+This is the truth beneath the lie the players begin with. The plateau is not poor; its air is not empty. The bloodlines, the strange relics, the half-remembered songs — all are echoes of Mithryn’s forgotten brilliance.
 
 ### The Amulet
 
@@ -57,7 +67,10 @@ The amulet is a knowledge vault. A seed that holds the potential to transform th
 
 The King of Mithryn fell; the libraries burned. Towers that had taken lifetimes to build toppled in hours. What remained, the conquerors claimed for themselves.
 
-But the amulet survived. In the very moment it was ripped from King Nairon's hands, its taker had a profound realization, and spared no effort in hidding it away. Now, three thousend years later, it wants to be found.
+But the amulet survived. When it was torn from King Nairon’s hand, the one who took it was struck with a sudden, shattering realization. Something within the amulet opened the truth of Mithryn to them. In that moment, they turned away from destruction and hid it, sparing it from those who would seek to use or destroy it.
+
+Centuries became millennia. The conquerors’ version of history hardened into stone: Mithryn was a fortress, its king a tyrant, its defeat a liberation. The true story was buried, outlawed, forgotten.
+Yet the amulet endures, and it stirs. It has waited three thousand years. It wants to be found.
 
 ## The real power of the amulet
 
@@ -70,7 +83,6 @@ Deeper, it contains the secrets of the social architecture — the contracts and
 At its heart, the amulet guards the most luminous truth: that magic belongs to everyone. Not as a platitude, but as practical knowledge — the specific words, gestures, and mindsets that awaken the dormant spark in any person. A farmer could learn to sing to crops so they grow healthier and stronger. A carpenter could discover the runes that make wood stronger than steel. The amulet doesn't grant power; it reminds people they always had it.
 
 To Tharuk-Un, the Grey Vulture, the amulet represents unmaking: a key that would open every locked door he keeps, a voice that would teach every tongue the words he forbids. He hunts it without rest and will do everything in his power to destroy it.
-
 
 ## Adventure hook: The Chains of the Grey Vulture
 
