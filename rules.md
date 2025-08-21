@@ -28,7 +28,7 @@ When a character attempts an action that is risky, dramatic, or challenging, the
 
 ### Dificulty penalties
 
-When the GM deem some action to be particularly difficult, they can impose a "difficulty penalty", a number that subtracts from your **2d12** rolls, making it harder to reach the TN.
+When the GM deem some action to be particularly difficult, they can impose a "difficulty penalty", a number that adds to the TN, making it harder to reach.
 
 
 ### Critical Success
@@ -73,10 +73,10 @@ Hit points can be restored medical attention, potions, magic or rest. Rests can 
 ### Short Rest
 
 A short rest represents a pause in the action — a chance to patch wounds and catch a breath.
-If the PC is not in the Critical range of hit points, they regain hit points equal to their rank.
+If the PC is not in the Critical range of hit points, they regain hit points equal to their Rank + 1d4.
 A PC in Critical condition can only have their hit points restored through magic/potions or through a long rest.
 
 ### Long Rest
 
 A long rest represents uninterrupted sleep, safe shelter, and proper care.
-PCs roll 2D4 to determine how many hit points they recover.
+PCs roll Rank + 3D4 to determine how many hit points they recover.

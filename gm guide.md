@@ -33,8 +33,6 @@
 - Give players a solid choice to force outcomes when the situation lulls.
 - Work together using this conversational method to keep the game moving.
 
-
-
 ## Setting
 
 “History is written by the victors”
@@ -146,6 +144,30 @@ Instead of “no,” say: “That feels a bit too broad. What if we trim it down
 
 Remind players that tags can evolve. It’s fine to start rough narrow and reshape/ broaden as the character develops.
 
+## Dificulty Modifiers
+
+Not every challenge is equal. Sometimes the task is straightforward, other times it’s complicated by poor conditions, bad timing, or sheer impossibility. By default, a player’s Ability Score and Target Number (TN) already reflect how easy or hard something is for their character. Difficulty Modifiers exist only to make a task harder than usual.
+
+This penalty adds to the Target Number (TN), making it harder to reach.
+
+### Guidelines:
+
+- Use penalties sparingly: Difficulty penalties are there to represent extraordinary obstacles, not to punish normal attempts.
+- Narrative first: Always tie the penalty to something in the world the players can see, anticipate, and work around. Telegraph difficulty before they roll.
+
+### Common Difficulty Penalties
+
+- Hard (TN +2): The task is complicated but not extreme.
+Examples:
+Picking a lock in dim light.
+Persuading someone who is distracted or in a hurry.
+
+- Moderate Penalty (TN + 3 / TN + 4): Conditions make success unlikely without preparation.
+Examples:
+Sneaking past guards in a brightly lit hall.
+Scaling a sheer cliff face in a storm.
+
+Impossible: If the fiction makes success literally impossible, don’t ask for a roll. No amount of dice can change that.
 
 ## Combat
 
@@ -158,5 +180,6 @@ Combat in this game is designed to be sharp, dangerous, and easy to run. It shou
 ### Tips for Running Combat
 
 - **Track Reactions.** If a PC takes a Reaction, remember they start their next turn with only one action. Note it clearly to avoid confusion.  
-- **Use the Environment.** Give zones descriptive names (*Collapsed Archway, Burning Brazier, Flooded Chamber*). Encourage players to interact with them.  
+- **Use the Environment.** Give zones descriptive names (*Collapsed Archway, Burning Brazier, Flooded Chamber*). Encourage players to interact with them.
+- **Assume characters move and act smartly.** They will avoid obvious hazards or unneeded opportunity attacks. Don’t surprise the players with gotchas.
 - **Offer Surrender.** Enemies can flee, yield, or bargain. Not every fight needs to end in blood. These choices create more story.  
