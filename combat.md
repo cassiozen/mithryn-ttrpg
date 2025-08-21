@@ -23,17 +23,35 @@ The next round begins with the PCs taking their turn, followed by their opponent
 
 ## Actions
 
-On their turn, a character may choose one action. This may be attacking, moving to a neighboring zone, or anything else within reason (grapple, shove, interact with the environment, etc.)
+On their turn, a character has two actions. An action can be attacking, moving to a neighboring zone, or anything else within reason (grapple, shove, interact with the environment, etc.)
 
-## Attacking and Damage
+These are all examples of valid actions during a player's turn:
+
+- Move to another neighboring zone and attack
+- Move two adjacent zones
+
+### Attacking and Damage
 
 To attack, choose a target and roll the number of dice a weapon grants. Each die that equals or exceeds the target’s To Hit (TH) score deals 1 hit.
 
-### Exploding Dice
+### Auto hit and Exploding Dice
 
-Any die showing a 12 may be rolled again for another chance to score a hit. These extra rolls can also explode.
+Any die showing a 12 is always a hit (regardless of the target's TH). Plus, it may be rolled again for another chance to score a hit. These extra rolls can also explode.
 
+### Double attacks
 
-## Dual Weapons
+If the player wants to use both their actions to perform two attacks, resolve the first attack normally. The second attack suffers a penalty: each die must meet or beat TH+2.
 
-If you attack with two weapons, resolve the first attack normally. The second attack suffers a penalty to its rolls equal to the target’s Rank.
+## Reactions
+
+Reactions are actions performed out of the player's turn. PCs are free to take a reaction at any time during combat, but they do count as one action: they will start their turn with only 1 action.
+The reactions are:
+
+### Interpose
+
+If a creature in the same zone would be struck with an attack, you can push them out of the way and become the new target of the attack.
+
+### Help
+
+Grant an ally automatic hits if the player can reasonably explain to the GM how you could help in a given situation. The GM may call for an attribute check or grant it automatically, depending on how good the idea is. The GM then determines how many of the ally's weapon dice hit automatically without having to roll. 
+

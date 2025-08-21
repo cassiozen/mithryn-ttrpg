@@ -24,7 +24,12 @@ TN = 20 - Ability Score
 
 ## Ability Checks
 
-When a character attempts an action that is risky, dramatic, or challenging, the GM asks for a specific ability check. The player then rolls **2d12** and add or subtract any applicable **Rank bonus/penalty** from Tags/Complications. If the result is **equal to or greater than** that abilitie's TN, the action succeeds.
+When a character attempts an action that is risky, dramatic, or challenging, the GM asks for a specific ability check. The player then rolls **2d12** and adds any applicable **Rank bonus** from Tags. If the result is **equal to or greater than** that abilitie's TN, the action succeeds.
+
+### Dificulty penalties
+
+When the GM deem some action to be particularly difficult, they can impose a "difficulty penalty", a number that subtracts from your **2d12** rolls, making it harder to reach the TN.
+
 
 ### Critical Success
 
@@ -35,23 +40,31 @@ If the player rolls **doubles** (both dice showing the same number), it is a **c
 Sometimes characters have situational benefits or hindrances (environmental effects, clever planning, etc...). At the GM discration, they can ask the players to roll with advantage or disadvantage.
 
 - **Advantage:** Roll **3d12** and take the two highest dice before summing.
+
+Example: Michael rolls 3d12 for a 6, 6 and 9: His sum is 15 (9+6). Note that even though Michael had doubles (double 6), they don't count as a Critical Success because they were not the 2 highest rolls. If Michel had rolled 6, 9 and 9 (double 9s) then it would have counted as a critical success.
+
 - **Disadvantage:** Roll **3d12** and take the two lowest dice before summing.
 
 ---
 
 ## Hit Points and damage tiers
 
-A character's hit points are represented as boxes spread through three tiers: Normal, Wounded and Critical. When the character checks the first box within the Wounded or Critical tiers, they are subject to penalties:
+A character's hit points are represented as boxes spread through three tiers: Normal, Wounded and Critical. 
+There are two boxes within critical, two within wounded, and two or more on Normal.
+When the character checks the first box within the Wounded or Critical tiers, they are subject to penalties:
 
 ### Wounded — “Badly hurt.”
 
-Effect: Roll all ability checks with disadvantage.
+Effects: 
+
+Ability Checks: Roll all ability checks with disadvantage.
+Combat: You only have one action per turn.
 
 ### Critical — “Clinging to Life”
 
 Effects:
-Roll all checks with disadvantage.
-At the start of each of the PC turns in combat, roll a 1d12. If less than the strengh's score (not the Strengths TR, the Strength ability score), they collapse and become incapacitated until stabilized or healed.
+Same as wounded
+At the start of each of the PC turns in combat, roll a a strength ability check. If fail, they collapse and become incapacitated until stabilized or healed.
 
 ## Healing and Recovery
 
@@ -66,4 +79,4 @@ A PC in Critical condition can only have their hit points restored through magic
 ### Long Rest
 
 A long rest represents uninterrupted sleep, safe shelter, and proper care.
-PCs can regain hit points equal to half their Strength score (rounded up).
+PCs roll 2D4 to determine how many hit points they recover.

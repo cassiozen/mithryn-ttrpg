@@ -2,16 +2,16 @@
 
 | Weapon             | Min STR | Damage Dice | Price (silver) | Notes |
 |--------------------|---------|-------------|----------------|-------|
-| Dagger             | 3       | 1d12        | 5              | concealable, throwable |
+| Dagger             | 2       | 1d12        | 5              | concealable, throwable |
 | Short Sword        | 4       | 2d12        | 12             |  |
-| Spear              | 4       | 3d12        | 10             |  |
-| Longbow            | 5       | 2d12        | 25             | Ranged, requires free hands |
+| Spear              | 5       | 3d12        | 10             |  |
+| Longbow            | 5       | 2d12        | 25             | Ranged, bulky, requires free hands |
 | Shortbow           | 4       | 1d12        | 15             | Ranged, requires free hands |
-| Broadsword         | 6       | 4d12        | 30             | bulky, two-handed |
-| Battleaxe          | 6       | 4d12        | 40             | bulky, two-handed |
+| Broadsword         | 7       | 4d12        | 30             | bulky, two-handed |
+| Battleaxe          | 7       | 4d12        | 40             | bulky, two-handed |
 | Sling              | 2       | 1d12        | 2              | Ranged, requires free hands |
-| Light Crossbow     | 3       | 2d12        | 15             | Ranged, requires free hands |
-| Heavy Crossbow     | 5       | 3d12        | 28             | Ranged, bulky, requires free hands |
+| Light Crossbow     | 5       | 2d12        | 15             | Ranged, requires free hands |
+| Heavy Crossbow     | 6       | 3d12        | 28             | Ranged, bulky, requires free hands |
 
 ---
 
@@ -19,12 +19,11 @@
 
 | Armor Type     | TH Bonus | Price (silver) | Notes |
 |----------------|----------|----------------|-------|
-| Padded Vest    | +5       | 10             |       |
-| Gambeson / reinforced leather | +6  | 15   |       |
-| Chainmail      | +8       | 25             | Bulky |
-| Scale Mail     | +10      | 40             | Bulky |
-| Shield         | +2       | 15             | Can be combined with armor |
-| Buckler        | +1       | 10             | Can be combined with armor |
+| Padded Vest    | +2       | 10             |       |
+| Gambeson / reinforced leather | +4  | 15   |       |
+| Chainmail      | +5       | 25             | Bulky |
+| Scale Mail     | +6      | 40             | Bulky |
+| Shield         | +1       | 15             | Can be combined with armor |
 
 ---
 
