@@ -144,6 +144,82 @@ Instead of “no,” say: “That feels a bit too broad. What if we trim it down
 
 Remind players that tags can evolve. It’s fine to start rough narrow and reshape/ broaden as the character develops.
 
+### Complications
+
+Complications are the shadow side of tags. They make characters more interesting, the story more dynamic, and success feel earned. If tags are a spotlight, complications are the dramatic shadows that give the scene depth.
+
+#### Why Complications Matter
+
+- They keep things moving. Complications create friction, forcing choices and drama that simple success can’t.
+- They tie characters to the world. A debt, a curse, or a flaw isn’t just personal — it’s a hook for NPCs, factions, and story arcs.
+- They make victories feel sweeter. Overcoming a setback has more weight than cruising through unopposed.
+
+A well-designed complication is never just a penalty. It’s an invitation to play.
+
+#### Putting complications to play
+
+- Keep track of your PCs complications and keep them active. Look for natural opportunities to bring it into play.
+- Use complicaton as spotlight tools. Triggering someone’s complication isn’t about punishing them — it’s about pulling them into the center of the story.
+
+### Awarding New Tags
+
+Tags aren’t only chosen at character creation — they can also be earned in play. When a player does something extraordinary, the story itself can leave a mark on their character sheet.
+
+#### When to Grant a New Tag
+
+Give a player a new tag when three things line up:
+
+- **A Defining Moment**: The action is memorable, dramatic, or consequential for the whole table. It changes how the group sees the character, or how the world will remember them.
+- **Narrative creativity and problem-solving**: The player leaned on clever thinking, bold risks, or unique use of resources rather than just numbers on the sheet. This signals that their approach deserves to be codified.
+- **Lasting Significance**: The outcome changes the character’s story going forward — either a new strength, a reputation, or even a scar that follows them.
+
+If all three apply, you may award a new tag that captures the essence of what just happened.
+
+#### How to Phrase the Tag
+
+- Keep it grounded in the fiction: “Stared Down the Crimson Duke” instead of “Intimidation”.
+- Use the table’s words: if the group is joking that the character “always finds the back door,” that might become the tag.
+- Make it clear and situational: the tag should suggest when it applies without being so broad it could fit anywhere.
+
+#### Example Moments
+
+- A rogue talks down a mob ready to lynch a stranger → gains the tag Voice of the Crowd.
+- A fighter leaps from a burning tower with a hostage in their arms, somehow surviving → gains Fallbreaker.
+- A healer sacrifices their safety to shield villagers from a monster → gains Guardian of the Helpless.
+
+#### Limits and Balance
+
+Tags are rewards, not participation trophies. A character might earn one every few sessions, or only a handful across a whole campaign.
+Don’t overdo it — too many tags dilute their value. When the sheet starts feeling crowded, encourage players to retire or evolve older tags.
+
+#### "Awarding" a complicatgion
+
+Remember that complications can also emerge during gameplay. If the defining moment carried a cost or consequence, make the new tag a complication instead.
+
+##### When to Add a Complication
+
+A complication should be awarded when an action or outcome leaves behind a scar, promise, or twist that will echo forward. Ask yourself:
+
+- Did the moment leave a cost? Even in victory, did the character take on a burden?
+- Does it change how the world sees them? Reputation, notoriety, or obligation can stick.
+- Will it add tension later? If it creates fun hooks for you as GM, it’s a good complication.
+
+##### Group Complications
+
+Not all complications belong to a single character. Sometimes the fallout of an event is so big, or the stain on reputation so loud, that it clings to everyone involved. In these moments, you can award a group complication — a tag that sits on every character sheet at the table. Some examples include:
+
+- Shared Guilt or Blame: The party acted together, and the world sees them as one.
+- Collective Scar: Everyone was present for a defining moment.
+- Ongoing Stakes: The complication will shape how all of their adventures are received, not just one person’s.
+
+##### Tips for awarding a complication:
+
+Be generous but fair. Complications should arise from character choices, not random cruelty.
+
+- Ask for buy-in. When you award one, frame it as: “This feels like it might leave a mark. How about we write it as a complication?”
+- Keep them active. A complication that never shows up is wasted ink. Look for natural opportunities to bring it into play.
+- Use them as spotlight tools. Triggering someone’s complication isn’t about punishing them — it’s about pulling them into the center of the story.
+
 ## Dificulty Modifiers
 
 Not every challenge is equal. Sometimes the task is straightforward, other times it’s complicated by poor conditions, bad timing, or sheer impossibility. By default, a player’s Ability Score and Target Number (TN) already reflect how easy or hard something is for their character. Difficulty Modifiers exist only to make a task harder than usual.
@@ -179,7 +255,7 @@ Combat in this game is designed to be sharp, dangerous, and easy to run. It shou
 
 ### Tips for Running Combat
 
-- **Track Reactions.** If a PC takes a Reaction, remember they start their next turn with only one action. Note it clearly to avoid confusion.  
+- **Keep Track of Reactions.** If a PC takes a Reaction, remember they start their next turn with only one action. 
 - **Use the Environment.** Give zones descriptive names (*Collapsed Archway, Burning Brazier, Flooded Chamber*). Encourage players to interact with them.
 - **Assume characters move and act smartly.** They will avoid obvious hazards or unneeded opportunity attacks. Don’t surprise the players with gotchas.
-- **Offer Surrender.** Enemies can flee, yield, or bargain. Not every fight needs to end in blood. These choices create more story.  
+- **Offer Surrender.** Enemies can flee, yield, or bargain. Not every fight needs to end in blood. These choices create more story. 

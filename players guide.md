@@ -258,7 +258,7 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
 
 ##### Knight Errant – A wandering champion sworn to a cause.
 
-Broadsword (Min STR 7, 4D12, Two-handed/Bulky)
+Broadsword: Min STR 7, 3D12 (1D12 Rushed), Two-handed/Bulky
 Shield (+1 TH)
 Chainmail (+5 TH, bulky)
 Lantern & 3 flasks of oil
@@ -266,8 +266,8 @@ Lantern & 3 flasks of oil
 
 ##### Warden of the Wilds – Ranger, scout, and protector of the borderlands.
 
-Longbow (Min STR 5, 2D12, Two-handed/Bulky)
-Hunting knife (Min STR 2, 1D12)
+Longbow: Min STR 5, 2D12 (1D12 Rushed), Two-handed/Bulky.
+Hunting knife: Min STR 2, 1D12 (1D12 Rushed)
 Reinforced Leather Armor (+4 TH)
 Rope (50 ft)
 Snare kit
@@ -275,8 +275,8 @@ Snare kit
 
 ##### Streetwise Rogue – A quick-handed trickster from the city’s underbelly.
 
-Short sword (Min STR 4, 2D12)
-Dagger (Min STR 2, 1D12)
+Short sword: Min STR 4, 2D12 (1D12 rushed)
+Dagger: Min STR 2, 1D12 (1D12 Rushed)
 Padded armor (+2 TH)
 Thieves’ tools
 Lockpicks (bundle)
@@ -284,15 +284,15 @@ Lockpicks (bundle)
 
 ##### Mercenary Veteran – Hardened fighter for hire.
 
-Battleaxe (Min STR 7, 4D12, Two-handed/Bulky)
-Shortbow (Min STR 4, 1D12)
+Battleaxe: Min STR 7, 3D12 (1D12 rushed), Two-handed/Bulky
+Shortbow: Min STR 4, 1D12 (1D12 rushed), Two-handed
 Scale Mail (+6 TH, bulky)
 Whetstone & repair kit
 5 silver remaining
 
 ##### Healer – Wandering cleric or monk devoted to aiding others.
 
-Mace (Min STR 5, 3D12)
+Mace: Min STR 5, 2D12 (1D12 rushed)
 Leather Armor (+3 TH)
 Healer’s kit (3 uses)
 15 silver remaining
@@ -312,3 +312,24 @@ HP represents your ability to keep going despite damage.
 Your starting HP is either equal to 6 or to your STRENGTH score - whichever is bigger.
 
 In the character sheet, your HP is represented as boxes that you tick as you get hit. Notice that it already has 6 fully drawn boxes spread accross three regions: normal, wounded and critical. You will learn more about what they mean in the rules section, for now simply draw extra boxes in the empty spaces to the left until you match your total HP.
+
+## Leveling Up
+
+Your character levels up whenever the GM decides you’ve reached a narrative milestone (usually about every 3 sessions).
+
+There are a total of 10 PC levels divided into 4 ranks:
+→ Rank 1 encompasses levels 1-2.
+→ Rank 2 encompasses levels 3–5.
+→ Rank 3 encompasses levels 6–8.
+→ Rank 4 encompasses levels 9–10.
+
+For every level increase, choose to increase either one of your ability scores or your hit points by 1.
+
+If you choose to add increase an ability, update that score in the character sheet (don't forget to update that ability's TR as well.)
+
+If you choose to add 1 Hit Point slot: Darken the outline of the next rectangle to the left in the Hit Point section of your character sheet.
+
+Every time you reach a new rank, in addition to the steps above:
+
+- Update your TH (To Hit): new Rank + TH bonus from your armor.
+- Add a new Tag to your character or broaden an existing one.

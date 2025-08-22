@@ -23,10 +23,11 @@ These are all examples of valid actions during a player's turn:
 
 - Move to another neighboring zone and attack
 - Move two adjacent zones
+- Attacking twice
 
 ### Attacking and Damage
 
-To attack, choose a target and roll the number of dice a weapon grants. Each die that equals or exceeds the target’s To Hit (TH) score deals 1 hit.
+To attack, choose a target and roll the number of dice listed in your weapon’s Damage entry. Each die that equals or exceeds the target’s To Hit (TH) score deals 1 hit.
 
 ### Auto hit and Exploding Dice
 
@@ -34,7 +35,12 @@ Any die showing a 12 is always a hit (regardless of the target's TH). Plus, it m
 
 ### Double attacks
 
-If the player wants to use both their actions to perform two attacks, resolve the first attack normally. The second attack is considered rushed and suffers a penalty: each die must meet or beat TH+2.
+If the player wants to use both their actions to perform two attacks, the second attack is considered "rushed":
+
+- The first attack uses the weapon’s normal Damage dice.
+- The second attack is rushed and uses the weapon’s Rushed Damage dice instead.
+
+Players don't have to resolve each attack in sequence - they can add the number of dice listed in both "Damage" and "Rushed Damage" entries and roll at once.
 
 ## Reactions
 
