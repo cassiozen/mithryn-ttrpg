@@ -2,36 +2,33 @@
 
 ## Principles for GMs
 
-### Information
+### Trust
 
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
-
-### Difficulty
-
-- Default to context and realism rather than numbers and mechanics.
-- If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Ability checks cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+- This is not GM versus players. Everyone is here to create a collective story and have fun together.
+- Share full, fair information with players — never trick them by omission.
+- Be helpful and direct with your answers to their questions, and always let them know they can keep asking questions.
+- Build trust by being consistent and honest; once players trust you, they’ll engage deeply.
 
 ### Narrative Focus
 
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
+- The rules exist to support the story, not to constrain it.
+- When mechanics slow things down or don’t fit the situation, make a ruling that moves the story forward.
 - A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
 
-### Danger
+### Challenge
 
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
-- Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+- When a player’s approach is sensible and leverages the situation, let it work.
+- Ability checks should resolve uncertain, risky actions—but they’re not always needed.
+- Always telegraph serious danger clearly; the more deadly, the more obvious.
+- Show traps and hazards openly, giving players the chance to think, prepare, and solve.
 
-### Choice
+### Collaboration
 
-- Give players a solid choice to force outcomes when the situation lulls.
-- Work together using this conversational method to keep the game moving.
+- Encourage input from the players about tone, pacing, and stakes.
+- Allow players to shape the world through their questions, backstories, and choices.
+- Remember: you’re playing too.
+
 
 ## Setting
 

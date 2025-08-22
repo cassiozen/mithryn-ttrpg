@@ -24,3 +24,24 @@ And in that quiet, something has begun to stir.
 It is not spoken of, yet it is everywhere — It shows in the songs hummed on the walk home that no one quite remembers learning. In the sudden warmth of the sun breaking through a long grey sky. In the feeling that the air itself carries a promise.
 No one names it, but all can feel it. Something is awakening.
 And with it, hope.
+
+## What This Game Is About
+
+As players in Mithryn, you are stepping into a land full of contradictions. The world says it is barren and broken, but everywhere you look there are signs of something deeper: fragments of beauty, echoes of brilliance, and mysteries that don’t fit the stories you’ve been told.
+
+The central themes you’ll explore are:
+
+### Lost History
+
+Much of what you see around you doesn’t add up. Your journey is as much about uncovering the forgotten truthas it is about deciding what should come next.
+
+### Control and Freedom
+
+This is a land where silence has been enforced for generations, but where people still find ways to resist — through quiet defiance, whispered stories, or simply surviving. You’ll face questions about power: who holds it, how it is maintained, and what happens when it begins to slip.
+
+### Awakening
+
+There are forces at play that cannot be fully explained with the knowledge you have — a shimmer in the corner of your eye, a warmth in the air that feels like promise.
+
+As the campaign unfolds, this “awakening” will move from background atmosphere into the heart of your journey. Together, you’ll shape how it unravels — and what kind of future it might bring.
+
