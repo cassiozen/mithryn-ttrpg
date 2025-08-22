@@ -33,11 +33,11 @@ The central themes you’ll explore are:
 
 ### Lost History
 
-Much of what you see around you doesn’t add up. Your journey is as much about uncovering the forgotten truthas it is about deciding what should come next.
+Much of what you see around you doesn’t add up. Your journey is as much about uncovering the forgotten truth as it is about deciding what should come next.
 
 ### Control and Freedom
 
-This is a land where silence has been enforced for generations, but where people still find ways to resist — through quiet defiance, whispered stories, or simply surviving. You’ll face questions about power: who holds it, how it is maintained, and what happens when it begins to slip.
+This is a land where history was erased and silence has been enforced for generations, but where people still find ways to resist — through quiet defiance, whispered stories, or simply surviving. You’ll face questions about power: who holds it, how it is maintained, and what happens when it begins to slip.
 
 ### Awakening
 
