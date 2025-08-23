@@ -3,23 +3,26 @@
 Weapons are distinguished not only by how much damage they deal, but also by how well they handle when used in rapid succession. Fast weapons like daggers can be swung again without loosing effectiveness, so their Rushed Damage is the same as their normal Damage. Weapons such as short swords and handaxes remain effective but suffer a modest drop in power when used for a second attack in the same turn. 
 Heavy, slow or unwieldy weapons like battleaxes, broadswords and crossbows strike with devastating force on the first attack but are far less effective when rushed.
 
-| Weapon             | Min STR | Damage Dice | Rushed Damage | Price (silver) | Notes |
-|--------------------|---------|-------------|---------------|----------------|-------|
-| Dagger             | 2       | 1d12        | 1d12          | 5              | Concealable, throwable |
-| Short Sword        | 4       | 2d12        | 1d12          | 12             |  |
-| Handaxe            | 3       | 2d12        | 1d12          | 10             | Throwable |
-| Spear              | 5       | 3d12        | 1d12          | 10             | throwable |
-| Broadsword         | 7       | 3d12        | 1d12          | 30             | Bulky, two-handed |
-| Battleaxe          | 7       | 3d12        | 1d12          | 40             | Bulky, two-handed |
-| Shortbow           | 5       | 1d12        | 1d12          | 15             | Ranged, requires free hands |
-| Longbow            | 6       | 2d12        | 1d12          | 25             | Ranged, bulky, requires free hands |
-| Crossbow           | 4       | 3d12        | None (slow reload) | 25        | Ranged, bulky, requires free hands  |
+
+| Weapon            | Min STR | Damage Dice     | Rushed Damage | Price (silver) | Notes                                                                       |
+| ----------------- | ------- | --------------- | ------------- | -------------- | ------------------------------------ |
+| Dagger            | 2       | **1d10**        | **1d10**      | 5              | Concealable, throwable  |
+| Short Sword       | 4       | **2d12**        | **1d12**      | 12             | —  |
+| Handaxe           | 4       | **1d20**        | **1d12**      | 10             | Throwable |
+| Spear             | 5       | **2d12**        | **1d12**      | 10             | Throwable  |
+| Broadsword (2-H)  | 8       | **3d12**        | **1d10**      | 30             | Bulky, two-handed  |
+| Battleaxe (2-H)   | 8       | **3d12**        | **1d10**      | 40             | Bulky, two-handed   |
+| Mace              | 5       | **2d12**        | **1d10**      | 12             | —   |
+| Shortbow          | 5       | **1d12**        | **1d10**      | 15             | Ranged, requires free hands  |
+| Longbow           | 7       | **1d20**        | **1d12**      | 25             | Ranged, bulky, requires free hands |
+| Crossbow          | 4       | **2d12**        | — *(reload)*  | 30             | Ranged, bulky, requires free hands |
+
 
 ---
 
 ## Armor
 
-| Armor Type     | TH Bonus | Price (silver) | Notes |
+| Armor Type     | DF Bonus | Price (silver) | Notes |
 |----------------|----------|----------------|-------|
 | Padded Vest    | +2       | 10             |       |
 | Gambeson / reinforced leather | +4  | 15   |       |

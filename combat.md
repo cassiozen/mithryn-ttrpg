@@ -27,11 +27,11 @@ These are all examples of valid actions during a player's turn:
 
 ### Attacking and Damage
 
-To attack, choose a target and roll the number of dice listed in your weapon’s Damage entry. Each die that equals or exceeds the target’s To Hit (TH) score deals 1 hit.
+To attack, choose a target and roll the number of dice listed in your weapon’s Damage entry. Each die that equals or exceeds the target’s Defense (DF) score deals 1 hit.
 
 ### Auto hit and Exploding Dice
 
-Any die showing a 12 is always a hit (regardless of the target's TH). Plus, it may be rolled again for another chance to score a hit. These extra rolls can also explode.
+Any die showing a 12 is always a hit (regardless of the target's DF). Plus, it may be rolled again for another chance to score a hit. These extra rolls can also explode.
 
 ### Double attacks
 
@@ -62,17 +62,17 @@ Grant an ally automatic hits if the player can reasonably explain to the GM how 
 Party of 3 PCs:
 
 - Kael (Rank 1, Strength 7, Agility 6, Tag: Streetwise Survivor). HP = 7.
-- Sira (Rank 1, Presence 7, Agility 6, Tag: Animal Whisperer). HP = 6. TH = 5.
+- Sira (Rank 1, Presence 7, Agility 6, Tag: Animal Whisperer). HP = 6. DF = 5.
 - Borin (Rank 1, Strength 6, Agility 8, Tag: Battlefield Healer). HP = 6.
 
 They decided to face the brigands in the ruined causeway blocking the passage:
 
 Brigand Leader
-HP: 8, TH: 5
+HP: 8, DF: 5
 Weapon: Sword (2d12)
 
 Brigand Minion
-HP: 4, TH: 5
+HP: 4, DF: 5
 Weapon: Club (1d12)
 
 The GM declares: “We’re in combat. Zones are: Collapsed Archway (where brigands are), Causeway (where you stand), Rubble Pile (to the side, difficult footing).”
@@ -96,7 +96,7 @@ Rolls: 12 (hit+explode) and 3. Rolls explosion die → 11 (another hit). Total o
 #### Enemy turns
 
 Brigand leader attacks Sira.
-Brigand sword: 2d12 against Sira’s TH = 5 (1 Rank + 4 armor)
+Brigand sword: 2d12 against Sira’s DF = 5 (1 Rank + 4 armor)
 Rolls: 12 (auto-hit, explodes), then 8 → two hits. Rolls explosion die → 11 (another hit).
 Sira takes 3 damage (HP drops from 6 → 3). GM: “The blade cuts deep. You’re Wounded now — you’ll roll with disadvantage until healed.”
 
@@ -124,7 +124,7 @@ Enemy brigand drops to 0 HP (down).
 
 The GM announces that the Brigand Leader, bloodied but stubborn, tries to finish Sira.
 Kael: Uses reaction Interpose to push Sira away and take the leader’s attack (costs one of his next turn’s actions).
-Brigand Leader: Rolls 2d12 = 9 and 10 = both hits (≥5 TH).
+Brigand Leader: Rolls 2d12 = 9 and 10 = both hits (≥5 DF).
 Kael takes takes two damage (HP drops from 7 → 5).
 
 #### Round 3

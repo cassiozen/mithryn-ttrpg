@@ -61,7 +61,7 @@ Write down your chatacter's name and traits on the top of your character sheet.
 Every character has two core measures of progression:
 
 - **Level** — Your broad measure of experience and growth. Level increases at key story or gameplay milestones, much like in most TTRPGs. Level is important for long-term development, but it’s not a number you’ll reference often during regular play.
-- **Rank** — A measure of your immediate effectiveness as well as your stakes in the adventure. Rank has direct mechanical impact: it’s the number you’ll add or subtract from rolls when your tags applies (more on tags below).
+- **Rank** — A measure of your immediate effectiveness as well as your stakes in the adventure.
 
 Starting out: Characters begin at Level 1 with Rank 1. You’ll track both at the top of your character sheet.
 
@@ -234,13 +234,13 @@ Unlucky with Animals — They bite, buck, or flee at your presence.
 Your equipment defines not only how you fight but also how you defend yourself. At character creation, you’ll choose your starting weapons and armor (plus and other gear you may see fit):
 
 - **Weapons** determine how many dice you roll when attacking. Weapons can have a minimum strength requirement.
-- **Armor** helps avoid incoming attacks by increasing your character's To Hit (TH) score, a number that determines how high an attacker must roll for you to take damage (More on TH below).
+- **Armor** helps avoid incoming attacks by increasing your character's Defense (DF) score, a number that determines how high an attacker must roll for you to take damage (More on DF below).
 
 #### Inventory
 
 Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
 For game purposes, each character starts with a Bag, Backpack or similar that can hold up to six slots. 
-Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 TH (To Hit, see below). A character cannot fill more than ten slots.
+Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 DF (Defense, see below). A character cannot fill more than ten slots.
 
 ##### Inventory Slots
 
@@ -259,8 +259,8 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
 ##### Knight Errant – A wandering champion sworn to a cause.
 
 Broadsword: Min STR 7, 3D12 (1D12 Rushed), Two-handed/Bulky
-Shield (+1 TH)
-Chainmail (+5 TH, bulky)
+Shield (+1 DF)
+Chainmail (+5 DF, bulky)
 Lantern & 3 flasks of oil
 10 silver remaining
 
@@ -268,7 +268,7 @@ Lantern & 3 flasks of oil
 
 Longbow: Min STR 5, 2D12 (1D12 Rushed), Two-handed/Bulky.
 Hunting knife: Min STR 2, 1D12 (1D12 Rushed)
-Reinforced Leather Armor (+4 TH)
+Reinforced Leather Armor (+4 DF)
 Rope (50 ft)
 Snare kit
 15 silver remaining
@@ -277,7 +277,7 @@ Snare kit
 
 Short sword: Min STR 4, 2D12 (1D12 rushed)
 Dagger: Min STR 2, 1D12 (1D12 Rushed)
-Padded armor (+2 TH)
+Padded armor (+2 DF)
 Thieves’ tools
 Lockpicks (bundle)
 20 silver remaining
@@ -286,24 +286,24 @@ Lockpicks (bundle)
 
 Battleaxe: Min STR 7, 3D12 (1D12 rushed), Two-handed/Bulky
 Shortbow: Min STR 4, 1D12 (1D12 rushed), Two-handed
-Scale Mail (+6 TH, bulky)
+Scale Mail (+6 DF, bulky)
 Whetstone & repair kit
 5 silver remaining
 
 ##### Healer – Wandering cleric or monk devoted to aiding others.
 
 Mace: Min STR 5, 2D12 (1D12 rushed)
-Leather Armor (+3 TH)
+Leather Armor (+3 DF)
 Healer’s kit (3 uses)
 15 silver remaining
 
-### Step 6 – Your Vital Stats: Hit Points and To Hit (TH) score
+### Step 6 – Your Vital Stats: Hit Points and Defense (DF) score
 
-#### To Hit (TH) score
+#### Defense (DF) score
 
-TH reflects the character’s ability to avoid damage in combat. When someone swings at you, they’ll need to roll equal to or higher than your TH to land a hit.
+DF reflects the character’s ability to avoid damage in combat. When someone swings at you, they’ll need to roll equal to or higher than your DF to land a hit.
 
-To calculate your TH, add your Rank to the total TH bonus from your armor.
+To calculate your DF, add your Rank to the total DF bonus from your armor.
 
 #### Hit Points (HP)
 
@@ -331,5 +331,6 @@ If you choose to add 1 Hit Point slot: Darken the outline of the next rectangle 
 
 Every time you reach a new rank:
 
-- Choose between increasing one ability score by 1, Your hit points (also by 1) OR Add a new Tag to your character or broaden an existing one.
-- Update your TH (To Hit): new Rank + TH bonus from your armor.
+- Gain one more inventory slot
+- Add a new Tag to your character or broaden an existing one.
+- Update your DF (Defense): new Rank + DF bonus from your armor.
