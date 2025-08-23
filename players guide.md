@@ -1,4 +1,4 @@
-# Player's Guide
+# Player’s Guide
 
 ## Principles for Players
 
@@ -15,7 +15,7 @@
 
 ### Exploration
 
-- Asking questions and listening to detail is more useful than any stats, items, or skills you have.
+- Asking questions and listening to details is more useful than any stats, items, or skills you have.
 - Take the GM’s description without suspicion, but don’t shy away from seeking more information.
 - There is no single correct way forward.
 
@@ -36,13 +36,13 @@
 
 ## Character Creation Guide
 
-### Setp 1 - Name and heritage traits
+### Step 1 - Name and heritage traits
 
-For your character, the real history of Mithryn is yet to be uncovered, but as a player you can know that this is a land where differences were welcomed and celebrated. During generations, a tapestry of cultures, features, and traditions were woven so tightly that notions like “pure” bloodlines or rigid racial divisions are now meaningless. Love and marriage happen without regard to skin color, stature, or whether your ears are round or pointy, your feet are cloaked in hair, or your beard refuses to be tamed.
+For your character, the real history of Mithryn is yet to be uncovered, but as a player, you can know that this is a land where differences were welcomed and celebrated. Over generations, a tapestry of cultures, features, and traditions was woven so tightly that notions like “pure” bloodlines or rigid racial divisions are now meaningless. Love and marriage happen without regard to skin color, stature, or whether your ears are round or pointy, your feet are cloaked in hair, or your beard refuses to be tamed.
 
 If you were born here, your ancestry is shared — Your appearance may echo one heritage more than another, but your bloodline belongs to all.
 
-For your character, this means you don’t choose an heritage like “elf” or “dwarf.” Instead, you simply describe the traits that matter to you — the features others might notice first, or that you feel define you.
+For your character, this means you don’t choose a heritage like “elf” or “dwarf.” Instead, you simply describe the traits that matter to you — the features others might notice first, or that you feel define you.
 
 #### Traits to Consider:
 
@@ -54,13 +54,13 @@ For your character, this means you don’t choose an heritage like “elf” or 
 - **Eyes** — Almond, round, or narrow in shape; colors from common browns and blues to gold-flecked hazel, leaf-green, or jewel-bright amber
 - **Other Features** — Birthmarks, tusks, or other distinctive characteristics
 
-Write down your chatacter's name and traits on the top of your character sheet.
+Write down your character’s name and traits at the top of your character sheet.
 
 ### Step 2 - Record your character level and Rank
 
 Every character has two core measures of progression:
 
-- **Level** — Your broad measure of experience and growth. Level increases at key story or gameplay milestones, much like in most TTRPGs. Level is important for long-term development, but it’s not a number you’ll reference often during regular play.
+- **Level** — Your broad measure of experience and growth. Level increases at key story or gameplay milestones, much like in most TTRPGs. Level is essential for long-term development, but it’s not a number you’ll reference often during regular play.
 - **Rank** — A measure of your immediate effectiveness as well as your stakes in the adventure.
 
 Starting out: Characters begin at Level 1 with Rank 1. You’ll track both at the top of your character sheet.
@@ -71,7 +71,7 @@ Starting out: Characters begin at Level 1 with Rank 1. You’ll track both at th
 
 Your character is defined by six Ability Scores — numbers that represent their natural talents and aptitudes. These scores shape how well they perform in challenges, from swinging a sword to persuading a crowd.
 
-There are six Ability Scores: three physical (Agility, Strength and Finesse) and three mental (Insight, Presence and Knowledge).
+There are six Ability Scores: three physical (Agility, Strength, and Finesse) and three mental (Insight, Presence, and Knowledge).
 
 - **Agility** — Speed, nimbleness, quick reactions to danger  
   *Examples: Sprint, Leap, Maneuver*
@@ -79,11 +79,11 @@ There are six Ability Scores: three physical (Agility, Strength and Finesse) and
   *Examples: Lift, Smash, Grapple*
 - **Finesse** — Precision, accuracy, and delicate or stealthy work  
   *Examples: Control, Hide, Tinker*
-- **Insight** — Intuition, ability to read people and environments  
+- **Insight** — Intuition, the ability to read people and environments  
   *Examples: Perceive, Sense, Navigate*
 - **Presence** — Force of personality, confidence, persuasion, social command  
   *Examples: Charm, Perform, Deceive*
-- **Knowledge** — Education, reasoning and comprehension.
+- **Knowledge** — Education, reasoning, and comprehension.
   *Examples: Recall, Analyze*
 
 Ability scores range from 1 to 12 (or more, for legendary creatures). For reference, most healthy adult humans have scores in the 2-10 range.
@@ -96,7 +96,7 @@ To assign your ability scores, distribute the following numbers between your att
 
 #### Calculate the Target Numbers (TNs)
 
-Whenever you try something risky, dramatic, or simply difficult within the game, you’ll roll dice to see if your character pulls it off.
+Whenever you try something risky, dramatic, or simply difficult within the game, you’ll roll the dice to see if your character pulls it off.
 
 The Target Number (TN) is the threshold you need to meet or beat with your roll for your action to succeed.
 
@@ -131,7 +131,7 @@ You start the game with four tags:
 
 When a tag is clearly relevant to your action, it gives a bonus to the ability check roll equal to your rank (making success easier).
 
-Example: Ariad has Rank 2 and the tag Animal Whisperer. Calming a frightened horse normally calls for a Presence roll with TN 14. She rolls 12, but since her tag applies, she applies +2 to the roll and succeds.
+Example: Ariad has Rank 2 and the tag Animal Whisperer. Calming a frightened horse normally calls for a Presence roll with TN 14. She rolls 12, but since her tag applies, she applies +2 to the roll and succeeds.
 
 #### Complications
 
@@ -142,7 +142,7 @@ Sometimes, a complication might actively work against you in a roll. When this h
 
 #### Choosing Good Tags
 
-There is no list of tags to choose from - you create them freely, but avoid vague, catch-all words like "talented", "strong", or "focused" — they can fit too many situations and dilute the game. Instead, pick tags that clearly suggest when and how they apply. If you can picture exactly when it would help (or hurt), you’ve got a good tag.
+There is no list of tags to choose from - you create them freely, but avoid vague, catch-all words like “talented”, “strong”, or “focused” — they can fit too many situations and dilute the game. Instead, pick tags that clearly suggest when and how they apply. If you can picture exactly when it would help (or hurt), you’ve got a good tag.
 
 ##### Tag Examples
 
@@ -152,7 +152,7 @@ Use these lists for inspiration — they’re not exhaustive, but they can help 
 
 Animal Whisperer — Calms the skittish, riles the dangerous.
 Battlefield Healer — Calm hands, even in chaos.
-Barter — Knows the worth of things, and how to make the deal sweet.
+Barter — Knows the worth of things and how to make the deal sweet.
 Crowd Charmer — Can hold a room’s attention with ease.
 Gambler — Reads the table as well as the cards.
 Herbal Alchemy — Knows which leaves heal and which kill.
@@ -231,16 +231,16 @@ Unlucky with Animals — They bite, buck, or flee at your presence.
 
 ### Step 5 – Choose Your Equipment
 
-Your equipment defines not only how you fight but also how you defend yourself. At character creation, you’ll choose your starting weapons and armor (plus and other gear you may see fit):
+Your equipment defines not only how you fight but also how you defend yourself. At character creation, you’ll choose your starting weapons and armor (plus any other gear you may see fit):
 
 - **Weapons** determine how many dice you roll when attacking. Weapons can have a minimum strength requirement.
-- **Armor** helps avoid incoming attacks by increasing your character's Defense (DF) score, a number that determines how high an attacker must roll for you to take damage (More on DF below).
+- **Armor** helps avoid incoming attacks by increasing your character’s Defense (DF) score, a number that determines how high an attacker must roll for you to take damage (More on DF below).
 
 #### Inventory
 
-Characters have a total of ten inventory slots but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-For game purposes, each character starts with a Bag, Backpack or similar that can hold up to six slots. 
-Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 DF (Defense, see below). A character cannot fill more than ten slots.
+Characters have a total of ten inventory slots, but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
+For game purposes, each character starts with a Bag, Backpack, or similar that can hold up to six slots. 
+Anyone carrying a full inventory (i.e., filling all 10 slots) is reduced to 0 DF (Defense, see below). A character cannot fill more than ten slots.
 
 ##### Inventory Slots
 
@@ -311,7 +311,7 @@ HP represents your ability to keep going despite damage.
 
 Your starting HP is either equal to 6 or to your STRENGTH score - whichever is bigger.
 
-In the character sheet, your HP is represented as boxes that you tick as you get hit. Notice that it already has 6 fully drawn boxes spread accross three regions: normal, wounded and critical. You will learn more about what they mean in the rules section, for now simply draw extra boxes in the empty spaces to the left until you match your total HP.
+In the character sheet, your HP is represented as boxes that you tick as you get hit. Notice that it already has 6 fully drawn boxes spread across three regions: normal, wounded, and critical. You will learn more about what they mean in the rules section; for now, simply draw extra boxes in the empty spaces to the left until you match your total HP.
 
 ## Leveling Up
 
@@ -325,12 +325,13 @@ There are a total of 10 PC levels divided into 4 ranks:
 
 For every level increase, choose to increase either one of your ability scores or your hit points by 1.
 
-If you choose to add increase an ability, update that score in the character sheet (don't forget to update that ability's TR as well.)
+If you choose to increase an ability, update that score in the character sheet (don’t forget to update that ability’s TR as well).
 
-If you choose to add 1 Hit Point slot: Darken the outline of the next rectangle to the left in the Hit Point section of your character sheet.
+If you choose to add a 1 Hit Point slot: Darken the outline of the next rectangle to the left in the Hit Point section of your character sheet.
 
 Every time you reach a new rank:
 
 - Gain one more inventory slot
 - Add a new Tag to your character or broaden an existing one.
 - Update your DF (Defense): new Rank + DF bonus from your armor.
+

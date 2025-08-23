@@ -3,7 +3,7 @@
 ## Zones
 
 Combat takes place across zones — loosely defined areas that determine how characters can interact.
-Zones aren’t measured in precise feet or meters; they’re an abstraction of position and movement. Here's how a player can interact with a target on:
+Zones aren’t measured in precise feet or meters; they’re an abstraction of position and movement. Here’s how a player can interact with a target on:
 
 Same Zone — Within melee reach; PCs can attack with hand-to-hand weapons.
 One Zone Apart — Within throwing or ranged weapon range.
@@ -19,7 +19,7 @@ The next round begins with the PCs taking their turn, followed by their opponent
 
 On their turn, a character has two actions. An action can be attacking, moving to a neighboring zone, or anything else within reason (grapple, shove, interact with the environment, etc.)
 
-These are all examples of valid actions during a player's turn:
+These are all examples of valid actions during a player’s turn:
 
 - Move to another neighboring zone and attack
 - Move two adjacent zones
@@ -31,29 +31,30 @@ To attack, choose a target and roll the number of dice listed in your weapon’s
 
 ### Auto hit and Exploding Dice
 
-Any die showing a 12 is always a hit (regardless of the target's DF). Plus, it may be rolled again for another chance to score a hit. These extra rolls can also explode.
+Any die that that rolled its maximum number (a 12 for a d12, for example) is always a hit (regardless of the target’s DF). Plus, it may be rolled again for another chance to score a hit. These extra rolls can also explode.
 
 ### Double attacks
 
-If the player wants to use both their actions to perform two attacks, the second attack is considered "rushed":
+If the player wants to use both their actions to perform two attacks, the second attack is considered “rushed”:
 
 - The first attack uses the weapon’s normal Damage dice.
 - The second attack is rushed and uses the weapon’s Rushed Damage dice instead.
 
-Players don't have to resolve each attack in sequence - they can add the number of dice listed in both "Damage" and "Rushed Damage" entries and roll at once.
+Players don’t have to resolve each attack in sequence - they can add the number of dice listed in both “Damage” and “Rushed Damage” entries and roll at once.
 
 ## Reactions
 
-Reactions are actions performed out of the player's turn. PCs are free to take a reaction at any time during combat, but they do count as one action: they will start their turn with only 1 action.
+Reactions are actions performed out of the player’s turn. PCs are free to take a reaction at any time during combat, but they do count as one action: they will start their turn with only 1 action.
 The reactions are:
 
 ### Interpose
 
-If a creature in the same zone would be struck with an attack, you can push them out of the way and become the new target of the attack.
+If a creature in the same zone would be struck with an attack, you can push it out of the way and become the new target of the attack.
+Note: A PC must declare that they are interposing when the attack is announced, before the roll/result.
 
 ### Help
 
-Grant an ally automatic hits if the player can reasonably explain to the GM how you could help in a given situation. The GM may call for an attribute check or grant it automatically, depending on how good the idea is. The GM then determines how many of the ally's weapon dice hit automatically without having to roll. 
+Grant an ally automatic hits if the player can reasonably explain to the GM how you could help in a given situation. The GM may call for an attribute check or grant it automatically, depending on how good the idea is. The GM then determines how many of the ally’s weapon dice hit automatically without having to roll. 
 
 
 
@@ -75,19 +76,19 @@ Brigand Minion
 HP: 4, DF: 5
 Weapon: Club (1d12)
 
-The GM declares: “We’re in combat. Zones are: Collapsed Archway (where brigands are), Causeway (where you stand), Rubble Pile (to the side, difficult footing).”
+The GM declares, “We’re in combat. Zones are: Collapsed Archway (where brigands are), Causeway (where you stand), Rubble Pile (to the side, difficult footing).”
 
 ### Round 1 (Opening Round — Agility Check to Act)
 
-- Kael (AGI 6 → TN 14). Rolls 2d12 → 8+5 = 13 (fail and looses turn).
-  GM: “You stumble as the brigands spring out.”
+- Kael (AGI 6 → TN 14). Rolls 2d12 → 8+5 = 13 (fails and loses turn).
+ GM: “You stumble as the brigands spring out.”
 - Sira (AGI 6 → TN 14). Rolls 10+9 = 19 (success). Acts normally.
 - Borin (AGI 8 → TN 12). Rolls 6+8 = 14 (success). Acts normally.
 
 #### Player turns
 
 Sira: Moves into Collapsed Archway zone and tries to talk: “No need for blood — we’ve coin.”  
-GM calls for Presence check (TN 13, since PRE = 7). Rolls 2d12 = 5+7 = 12 → fail.
+GM calls for a Presence check (TN 13, since PRE = 7). Rolls 2d12 = 5+7 = 12 → fail.
 GM: “The brigand leader hesitates, eyeing the silver pouch you flash.”
 
 Borin: Moves to the Rubble Pile to flank and shoots from his long bow (2D12).
@@ -102,7 +103,7 @@ Sira takes 3 damage (HP drops from 6 → 3). GM: “The blade cuts deep. You’r
 
 ### Round 2
 
-Now combat alternates by sides. PCs go first.
+Now, combat alternates by sides. PCs go first.
 
 #### Player turns
 
@@ -112,11 +113,11 @@ Attacks again. Rushed attack with penalty: Rolls 1d12 = 7 (miss).
 
 Sira: Tries to command the brigand’s horse tied nearby (Tag: Animal Whisperer).
 GM says Presence check (TN 13), and Tag applies (+1 for the roll).
-Rolls 2d12 = 7 and 5, +1 Tag = 13 (Success). Horse and breaks free, running over one of the brigadeers - There are no explicit rule in this case, to GM rules that the brigadeer takes 2 hit and looses his next turn.
+Rolls 2d12 = 7 and 5, +1 Tag = 13 (Success). Horse and breaks free, running over one of the brigadeers. There are no explicit rules in this case, according to GM rules, the brigadeer takes 2 hits and loses his next turn.
 
-Borin: Shoots from his long bow (2D12) at brigand from Rubble zone.
+Borin: Shoots from his long bow (2D12) at the brigand from the Rubble zone.
 Rolls: 10 (hit), 5 (hit). → 2 hits.
-Tries to shoot again with his second action. As a rushed action, he rolls a singe die: 7 (hit)
+Tries to shoot again with his second action. As a rushed action, he rolls a single die: 7 (hit)
 
 Enemy brigand drops to 0 HP (down).
 
@@ -125,16 +126,16 @@ Enemy brigand drops to 0 HP (down).
 The GM announces that the Brigand Leader, bloodied but stubborn, tries to finish Sira.
 Kael: Uses reaction Interpose to push Sira away and take the leader’s attack (costs one of his next turn’s actions).
 Brigand Leader: Rolls 2d12 = 9 and 10 = both hits (≥5 DF).
-Kael takes takes two damage (HP drops from 7 → 5).
+Kael takes two damage (HP drops from 7 → 5).
 
 #### Round 3
 
 #### Player turns
 
-Sira: Weak, tries short sword shot at leader. Rolls 2d12 = 8 (hit) and 2 (miss) → 1 hit.
+Sira: Weak, tries short sword shot at the leader. Rolls 2d12 = 8 (hit) and 2 (miss) → 1 hit.
 
-Kael: Only has one action this turn, attacks leader with dagger (1d12 weapon).
+Kael: Only has one action this turn, attacks the leader with a dagger (1d12 weapon).
 Rolls 1d12 = 10 → 1 hit.
 
-Borin: Attacks leader again. Rolls 2d12 = 12 (hit+explode), 8 (hit). Explosion = 7 (hit). Total 3 hits.
+Borin: Attacks the leader again. Rolls 2d12 = 12 (hit+explode), 8 (hit). Explosion = 7 (hit). Total 3 hits.
 Leader collapses, the last brigand flees.

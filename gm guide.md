@@ -5,7 +5,7 @@
 ### Trust
 
 - This is not GM versus players. Everyone is here to create a collective story and have fun together.
-- Share full, fair information with players — never trick them by omission.
+- Share complete, fair information with players — never trick them by omission.
 - Be helpful and direct with your answers to their questions, and always let them know they can keep asking questions.
 - Build trust by being consistent and honest; once players trust you, they’ll engage deeply.
 
@@ -32,16 +32,16 @@
 
 ## Setting
 
-“History is written by the victors”
+“History is written by the victors.”
 
 The setting in this game is a reimagining of one of fantasy’s most enduring tales — but from the perspective of the conquered peoples of the east, long branded as monsters by their enemies.
 
-As GM, you might want to conceal the full truth at first (Players already start with only fragments of Mithryn's history), then lead them to gradually figure it out. When the moment comes, or if you notice they are already suspecting, a casual name drop can make the revelation strike with tremendous weight.
+As GM, you might want to conceal the whole truth at first (Players already start with only fragments of Mithryn’s history), then lead them to gradually figure it out. When the moment comes, or if you notice they are already suspecting, a casual name drop can make the revelation strike with tremendous weight.
 
 ### The secrets of Mithryn
 
 There was a time when Mithryn was the beating heart of the known world. Standing on a high plateau surrounded by the slopes of Mount Amaroth, the sleeping fire-mountain whose soil was richer than any valley. 
-Imposible terraces climbed the mountain’s sides — not gentle, pastoral gardens, but soaring vertical orchards and hanging fields in sheer defiance of gravity, overflowing with fruit, vegetables, and grain. The fruit grown here was famed for its sweetness; vegetables, herbs, and grains were prized across the lands.
+Impossible terraces climbed the mountain’s sides — not gentle, pastoral gardens, but soaring vertical orchards and hanging fields in sheer defiance of gravity, overflowing with fruit, vegetables, and grain. The fruit grown here was famed for its sweetness; vegetables, herbs, and grains were prized across the lands.
 
 Within the city walls, light from crystalline lamps spilled into broad plazas where orators debated beneath flowering trees.
 
@@ -53,7 +53,7 @@ And then came the silencing.
 
 Clad in humility and speaking the language of caution, the wizard Tharuk-Un (the Grey Vulture) whispered to kings and high lords beyond the plateau. He told them change was dangerous, that the pace of Mithryn’s progress was a threat to the old balances. If left unchecked, it might spread and consume all tradition. Through his counsel, alliances shifted in shadow. The day came when the armies of distant realms — Elves in bright mail, Men bearing the crests of old kingdoms — marched on the city.
 
-This is the truth beneath the lie the players begin with. The plateau is not poor; its air is not empty. The bloodlines, the strange relics, the half-remembered songs — all are echoes of Mithryn’s forgotten brilliance.
+This is the truth beneath the lie that the players begin with. The plateau is not poor; its air is not empty. The bloodlines, the strange relics, the half-remembered songs — all are echoes of Mithryn’s forgotten brilliance.
 
 #### The Amulet
 
@@ -77,11 +77,11 @@ Yet the amulet endures, and it stirs. It has waited three thousand years. It wan
 
 The amulet is a vault that contains the knowledge that made Mythyr and its people prosper. Layer upon layer of possibilities that could reshape the world:
 
-It holds practical memories — how to terrace a mountain so it feeds thousands, the way to shape wood, clay and steel with thought and skill until it becomes poetry. Such knowledge alone could restore Mithryn's material prosperity.
+It holds practical memories — how to terrace a mountain so it feeds thousands, the way to shape wood, clay, and steel with thought and skill until it becomes poetry. Such knowledge alone could restore Mithryn’s material prosperity.
 
-Deeper, it contains the secrets of the social architecture — the contracts and rituals of trust that let orcs, men, dwarves, halflings and elves choose cooperation over conquest. These memories could unravel three thousand years of carefully cultivated division.
+Deeper, it contains the secrets of the social architecture — the contracts and rituals of trust that let orcs, men, dwarves, halflings, and elves choose cooperation over conquest. These memories could unravel three thousand years of carefully cultivated division.
 
-At its heart, the amulet guards the most luminous truth: that magic belongs to everyone. Not as a platitude, but as practical knowledge — the specific words, gestures, and mindsets that awaken the dormant spark in any person. A farmer could learn to sing to crops so they grow healthier and stronger. A carpenter could discover the runes that make wood stronger than steel. The amulet doesn't grant power; it reminds people they always had it.
+At its heart, the amulet guards the most luminous truth: that magic belongs to everyone, not as a platitude, but as practical knowledge — the specific words, gestures, and mindsets that awaken the dormant spark in any person. A farmer could learn to sing to crops so they grow healthier and stronger. A carpenter could discover the runes that make wood stronger than steel. The amulet doesn’t grant power; it reminds people they always had it.
 
 To Tharuk-Un, the Grey Vulture, the amulet represents unmaking: a key that would open every locked door he keeps, a voice that would teach every tongue the words he forbids. He hunts it without rest and will do everything in his power to destroy it.
 
@@ -139,7 +139,7 @@ Instead of “no,” say: “That feels a bit too broad. What if we trim it down
 
 #### Encourage growth.
 
-Remind players that tags can evolve. It’s fine to start rough narrow and reshape/ broaden as the character develops.
+Remind players that tags can evolve. It’s fine to start rough and narrow, then reshape/ broaden as the character develops.
 
 ### Complications
 
@@ -156,7 +156,7 @@ A well-designed complication is never just a penalty. It’s an invitation to pl
 #### Putting complications to play
 
 - Keep track of your PCs complications and keep them active. Look for natural opportunities to bring it into play.
-- Use complicaton as spotlight tools. Triggering someone’s complication isn’t about punishing them — it’s about pulling them into the center of the story.
+- Use complication as spotlight tools. Triggering someone’s complication isn’t about punishing them — it’s about pulling them into the center of the story.
 
 ### Awarding New Tags
 
@@ -176,7 +176,7 @@ If all three apply, you may award a new tag that captures the essence of what ju
 
 - Keep it grounded in the fiction: “Stared Down the Crimson Duke” instead of “Intimidation”.
 - Use the table’s words: if the group is joking that the character “always finds the back door,” that might become the tag.
-- Make it clear and situational: the tag should suggest when it applies without being so broad it could fit anywhere.
+- Make it clear and situational: the tag should suggest when it applies without being so broad that it could fit anywhere.
 
 #### Example Moments
 
@@ -189,7 +189,7 @@ If all three apply, you may award a new tag that captures the essence of what ju
 Tags are rewards, not participation trophies. A character might earn one every few sessions, or only a handful across a whole campaign.
 Don’t overdo it — too many tags dilute their value. When the sheet starts feeling crowded, encourage players to retire or evolve older tags.
 
-#### "Awarding" a complicatgion
+#### “Awarding” a complication
 
 Remember that complications can also emerge during gameplay. If the defining moment carried a cost or consequence, make the new tag a complication instead.
 
@@ -203,7 +203,7 @@ A complication should be awarded when an action or outcome leaves behind a scar,
 
 ##### Group Complications
 
-Not all complications belong to a single character. Sometimes the fallout of an event is so big, or the stain on reputation so loud, that it clings to everyone involved. In these moments, you can award a group complication — a tag that sits on every character sheet at the table. Some examples include:
+Not all complications belong to a single character. Sometimes the fallout of an event is so significant, or the stain on reputation so loud, that it clings to everyone involved. In these moments, you can award a group complication — a tag that sits on every character sheet at the table. Some examples include:
 
 - Shared Guilt or Blame: The party acted together, and the world sees them as one.
 - Collective Scar: Everyone was present for a defining moment.
@@ -217,7 +217,7 @@ Be generous but fair. Complications should arise from character choices, not ran
 - Keep them active. A complication that never shows up is wasted ink. Look for natural opportunities to bring it into play.
 - Use them as spotlight tools. Triggering someone’s complication isn’t about punishing them — it’s about pulling them into the center of the story.
 
-## Dificulty Modifiers
+## Difficulty Modifiers
 
 Not every challenge is equal. Sometimes the task is straightforward, other times it’s complicated by poor conditions, bad timing, or sheer impossibility. By default, a player’s Ability Score and Target Number (TN) already reflect how easy or hard something is for their character. Difficulty Modifiers exist only to make a task harder than usual.
 
@@ -256,3 +256,4 @@ Combat in this game is designed to be sharp, dangerous, and easy to run. It shou
 - **Use the Environment.** Give zones descriptive names (*Collapsed Archway, Burning Brazier, Flooded Chamber*). Encourage players to interact with them.
 - **Assume characters move and act smartly.** They will avoid obvious hazards or unneeded opportunity attacks. Don’t surprise the players with gotchas.
 - **Offer Surrender.** Enemies can flee, yield, or bargain. Not every fight needs to end in blood. These choices create more story. 
+

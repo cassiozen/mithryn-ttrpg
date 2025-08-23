@@ -3,6 +3,8 @@
 Weapons are distinguished not only by how much damage they deal, but also by how well they handle when used in rapid succession. Fast weapons like daggers can be swung again without loosing effectiveness, so their Rushed Damage is the same as their normal Damage. Weapons such as short swords and handaxes remain effective but suffer a modest drop in power when used for a second attack in the same turn. 
 Heavy, slow or unwieldy weapons like battleaxes, broadswords and crossbows strike with devastating force on the first attack but are far less effective when rushed.
 
+Minimum strength requirement: If a PC doesn’t meet Min STR, the attack is rushed (use the Rushed dice).
+
 
 | Weapon            | Min STR | Damage Dice     | Rushed Damage | Price (silver) | Notes                                                                       |
 | ----------------- | ------- | --------------- | ------------- | -------------- | ------------------------------------ |

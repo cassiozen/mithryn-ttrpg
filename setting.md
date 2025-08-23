@@ -1,6 +1,6 @@
 # Setting
 
-The land of Mithryn rises on a plateau ringed by the slopes of Mount Amaroth, a fire-mountain long fallen quiet. Ask the scribes of distant courts and they will tell you the story is plain: once, an evil, tyrant king ruled here. In the first year of this era, the High Council brought their armies, toppled his rule, and delivered freedom.
+The land of Mithryn rises on a plateau ringed by the slopes of Mount Amaroth, a fire-mountain long fallen quiet. Ask the scribes of distant courts, and they will tell you the story is plain: once, an evil, tyrant king ruled here. In the first year of this era, the High Council brought their armies, toppled his rule, and delivered freedom.
 
 That is the tale the world accepts. A simple story. A closed book.
 
@@ -10,7 +10,7 @@ The world looked away, told there was nothing here to see: Mithryn was a plateau
 
 But the plateau whispers otherwise.
 
-The people themselves carry that mystery. Elsewhere, bloodlines are guarded and categorized — dwarf and elf, man and halfling. Here such words mean little. It's in the faces that pass on the street: Eyes shaped like no two others. Ears that taper subtly or curl in curious arcs. Skin runs the full span from the palest white to the deepest black, and then further into undertones and hues: bronze, copper, rose, the greens of olive and soft moss.
+The people themselves carry that mystery. Elsewhere, bloodlines are guarded and categorized — dwarf and elf, man and halfling. Here, such words mean little. It’s in the faces that pass on the street: Eyes shaped like no two others. Ears that taper subtly or curl in curious arcs. Skin runs the whole span from the palest white to the deepest black, and then further into undertones and hues: bronze, copper, rose, the greens of olive and soft moss.
 No one is entirely one thing, yet each bears a look that marks them as from this plateau.
 
 And then there are the things that shouldn’t exist, yet sometimes do.
@@ -21,13 +21,13 @@ Nearly three millennia have passed since the Council’s war. The world no longe
 
 And in that quiet, something has begun to stir.
 
-It is not spoken of, yet it is everywhere — It shows in the songs hummed on the walk home that no one quite remembers learning. In the sudden warmth of the sun breaking through a long grey sky. In the feeling that the air itself carries a promise.
+It is not spoken of, yet it is everywhere — It shows in the songs hummed on the walk home that no one quite remembers learning. In the sudden warmth of the sun breaking through a long, grey sky. In the feeling that the air itself carries a promise.
 No one names it, but all can feel it. Something is awakening.
 And with it, hope.
 
 ## What This Game Is About
 
-As players in Mithryn, you are stepping into a land full of contradictions. The world says it is barren and broken, but everywhere you look there are signs of something deeper: fragments of beauty, echoes of brilliance, and mysteries that don’t fit the stories you’ve been told.
+As players in Mithryn, you are stepping into a land full of contradictions. The world says it is barren and broken, but everywhere you look, there are signs of something more profound: fragments of beauty, echoes of brilliance, and mysteries that don’t fit the stories you’ve been told.
 
 The central themes you’ll explore are:
 
