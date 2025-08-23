@@ -86,7 +86,7 @@ There are six Ability Scores: three physical (Agility, Strength and Finesse) and
 - **Knowledge** — Education, reasoning and comprehension.
   *Examples: Recall, Analyze*
 
-Ability scores range from 1 to 12 (or more, for legendary creatures). For reference, most healthy adult humans have scores in the 2-8 range.
+Ability scores range from 1 to 12 (or more, for legendary creatures). For reference, most healthy adult humans have scores in the 2-10 range.
 
 Scores at the extremes are evident to those around you:
 At the low end (2 or 1), others might see you as sluggish, always a half-step behind (AGI); looking as though a stiff wind could knock you over (STR); fumbling with tools and knocking things over when you meant to be careful (FIN); missing the obvious or trusting the wrong person at the worst time (INS); speaking in a way that fails to hold attention, your presence fading soon after (PRE); or staring at a simple map as if it’s written in a foreign tongue (KNO).
@@ -138,7 +138,7 @@ Example: Ariad has Rank 2 and the tag Animal Whisperer. Calming a frightened hor
 A complication is just a tag with a twist — it represents a drawback, a vulnerability, or a trouble magnet. This could be a personal flaw, an oath you swore, a debt you owe, or a condition you live with. 
 Most of the time, complications have a narrative effect - they give the GM reasons to introduce tension, restrictions, or trouble into the story.
 
-Sometimes, a complication might actively work against you in a roll. When this happens, it reduces your roll by your rank level.
+Sometimes, a complication might actively work against you in a roll. When this happens, it increases the Target Number (TN) by your rank level.
 
 #### Choosing Good Tags
 
@@ -329,7 +329,7 @@ If you choose to add increase an ability, update that score in the character she
 
 If you choose to add 1 Hit Point slot: Darken the outline of the next rectangle to the left in the Hit Point section of your character sheet.
 
-Every time you reach a new rank, in addition to the steps above:
+Every time you reach a new rank:
 
+- Choose between increasing one ability score by 1, Your hit points (also by 1) OR Add a new Tag to your character or broaden an existing one.
 - Update your TH (To Hit): new Rank + TH bonus from your armor.
-- Add a new Tag to your character or broaden an existing one.
