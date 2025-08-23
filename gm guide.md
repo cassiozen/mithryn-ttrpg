@@ -235,7 +235,7 @@ Examples:
 Picking a lock in dim light.
 Persuading someone who is distracted or in a hurry.
 
-- Moderate Penalty (TN + 3 / TN + 4): Conditions make success unlikely without preparation.
+- Very Hard (TN + 3 / TN + 4): Conditions make success unlikely without preparation.
 Examples:
 Sneaking past guards in a brightly lit hall.
 Scaling a sheer cliff face in a storm.
