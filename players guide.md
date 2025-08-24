@@ -257,17 +257,17 @@ At character creation, you begin with 50 silver to spend on weapons, armor, and 
 These packs represent common backgrounds and loadouts for adventurers in this world. You may adjust small details (swap a dagger for a handaxe, rope for chain, etc.) with GM approval.
 
 - **Knight Errant** – Wandering champion sworn to a cause
-  Broadsword (Bulky): Min STR 8, Damage 3d12 (Rushed 1d10), Bulky, Two-handed
+  Broadsword (Bulky): Min STR 9, Damage 3d12 (Rushed 1d10), Bulky, Two-handed
   Shield: +1 DF
-  Chainmail: +5 DF, Bulky
+  Chainmail: +5 DF
   Lantern & 3 flasks of oil
   10 silver remaining
-  Ability Direction: You must assign at least 8 STR to wield the broadsword. AGI or FIN can be lower — this kit leans on raw toughness and presence.
+  Ability Direction: You must assign at least 9 STR to wield the broadsword. AGI or FIN can be lower — this kit leans on raw toughness and presence.
 
 - **Warden of the Wilds** – Ranger, scout, and protector of the borderlands
   Longbow: Min STR 7 + AGI 6, Damage 1d20 (Rushed 1d12), Bulky, Ranged
   Hunting Knife: Min FIN 4, Damage 1d10
-  Reinforced Leather Armor: +4 DF
+  Padded Leather Armor: +4 DF
   Rope (50 ft)
   Snare kit
   15 silver remaining
@@ -276,23 +276,23 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
 - **Streetwise Rogue** – Quick-handed trickster
   Rapier: Min FIN 7, Damage 2d12 (Rushed 1d12), Precise
   Dagger: Min FIN 4, Damage 1d10 (Throwable, Concealable)
-  Padded Armor: +2 DF
+  Padded Leather Armor: +4 DF
   Thieves’ tools
   Lockpicks (bundle)
   20 silver remaining
   Ability Direction: You must assign at least 7 FIN to wield the rapier. STR can be lower; prioritize AGI or INS for survivability and cunning.
 
 - **Mercenary Veteran** – Hardened fighter
-  Battleaxe (2-H): Min STR 8, Damage 3d12 (Rushed 1d10), Bulky, Two-handed, Brutal
+  Battleaxe: Min STR 9, Damage 3d12 (Rushed 1d10), Bulky, Two-handed, Brutal
   Shortbow: Min AGI 6, Damage 1d12 (Rushed 1d10), Ranged
-  Scale Mail: +6 DF, Bulky
+  Plate armor: +6 DF, Bulky
   Whetstone & repair kit
   5 silver remaining
   Ability Direction: You must assign at least 8 STR to wield the battleaxe and 6 AGI for the shortbow. This kit pushes you to cover both physical extremes.
 
 - **Healer** – Wandering cleric or monk devoted to aiding
   Mace: Min STR 5, Damage 2d12 (Rushed 1d10), Two-handed, Magical focus
-  Leather Armor: +3 DF
+  Chain Mail: +5 DF
   Healer’s kit (3 uses)
   15 silver remaining
   Ability Direction: You must assign at least 5 STR to wield the mace. This kit suits thoughtful characters with lower STR/AGI but strong Knowledge and Presence.

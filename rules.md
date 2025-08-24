@@ -119,7 +119,7 @@ This game is not about punishing players with random, meaningless death. It’s 
 The character’s story ends here.
 The Player Creates a New Character: The new character begins at the same Level as the one who died. They join the game immediately — the GM and players work together to weave them into the ongoing story.
 
-### Option 2 — Defining Scar 
+### Option 2 — Defining Scar
 
 The character survives, but they are forever changed.
 

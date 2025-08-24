@@ -27,7 +27,7 @@ These are all examples of valid actions during a player’s turn:
 
 ### Attacking and Damage
 
-To attack, choose a target and roll the number of dice listed in your weapon’s Damage entry. Each die that equals or exceeds the target’s Defense (DF) score deals 1 hit.
+To attack, choose a target and roll the number of dice listed in your weapon’s Damage entry. Dice are not summed up - each die is accounted for separately. Each die that equals or exceeds the target’s Defense (DF) score deals 1 hit.
 
 ### Auto hit and Exploding Dice
 
@@ -69,8 +69,6 @@ Weapons define how you attack: how many dice you roll, what kind of dice, and wh
 
 This is the number and type of dice rolled when you attack.
 Dice may be d10, d12, or d20 — larger dice are more swingy but have a greater chance of rolling equal to or above the target’s Defense (DF) score.
-
-Smaller dice are less likely to breach the target’s Defense (DF), but rolling the die’s maximum number is always a hit.
 
 ### Rushed Damage
 

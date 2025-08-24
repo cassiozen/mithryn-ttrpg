@@ -8,9 +8,9 @@
 | **Rapier**                | FIN 7              | **2d12**      | **1d12**      | 20    | Precise (reroll any dice showing 1)                   |
 | **Handaxe**               | STR 4              | **1d20**      | **1d12**      | 10    | Throwable                                            |
 | **Spear**                 | STR 5 + AGI 5      | **2d12**      | **1d12**      | 10    | Throwable                                     |
-| **Mace**                  | STR 5              | **2d12**      | **1d10**      | 12    |   |
-| **Broadsword**            | STR 8              | **3d12**      | **1d10**      | 30    | Bulky, two-handed                                    |
-| **Battleaxe**             | STR 8              | **3d12**      | **1d10**      | 40    | Bulky, two-handed                            |
+| **Mace**                  | STR 6              | **2d12**      | **1d10**      | 12    |   |
+| **Broadsword**            | STR 9              | **3d12**      | **1d10**      | 30    | Bulky, two-handed                                    |
+| **Battleaxe**             | STR 9              | **3d12**      | **1d10**      | 40    | Bulky, two-handed                            |
 | **Halberd**               | STR 7 + AGI 6      | **3d12**      | **1d12**      | 35    | Bulky, two-handed                             |
 | **Throwing Knives** (set) | FIN 6              | **1d10** (×2 PCs can throw 2 per attack action) | **1d10**      | 8     |                   |
 | **Shortbow**              | AGI 6              | **1d12**      | **1d10**      | 15    | Ranged, requires free hands                          |
@@ -23,10 +23,9 @@
 
 | Armor Type     | DF Bonus | Price (silver) | Notes |
 |----------------|----------|----------------|-------|
-| Padded Vest    | +2       | 10             |       |
-| Gambeson / reinforced leather | +4  | 15   |       |
-| Chainmail      | +5       | 25             | Bulky |
-| Scale Mail     | +6       | 40             | Bulky |
+| Padded leather Vest   | +4  | 15           |       |
+| Chainmail      | +5       | 25             |       |
+| Plate          | +6       | 40             | Bulky |
 | Shield         | +1       | 15             | Can be combined with armor |
 
 ---
