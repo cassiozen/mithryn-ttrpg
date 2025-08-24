@@ -112,11 +112,11 @@ Encourage players to spread their three standard tags across different areas —
 
 A good complication creates hooks: debts, vows, flaws, curses. If a complication never bites, it’s not doing its job.
 
-### Judging Tags: What to Allow
+#### Judging Tags: What to Allow
 
 Tags are meant to be flexible and player-driven, but you are the final guardrail. Your goal isn’t to limit creativity, but to keep it sharp. A good tag is both a tool for the player and a hook for you to weave into the story.
 
-#### Red Flags
+##### Red Flags
 
 Watch for these common pitfalls:
 
@@ -125,33 +125,52 @@ Watch for these common pitfalls:
 - Tags that prevent play (“Never fails at persuasion”).
 - Complications that never show up (“Mild fear of bugs”).
 
-#### Say yes, but sharpen.
+##### Say yes, but sharpen.
 
 If a player offers “Smart”, ask: “In what way? Book-smart, streetwise, or sharp-tongued?”
 
-#### Frame as questions.
+##### Frame as questions.
 
 If you’re unsure about a tag, ask: “When would this apply?” If the player struggles, it needs refining.
 
-#### Reserve the veto, but soften it.
+##### Reserve the veto, but soften it.
 
 Instead of “no,” say: “That feels a bit too broad. What if we trim it down?”
 
-#### Encourage growth.
+##### Encourage growth.
 
 Remind players that tags can evolve. It’s fine to start rough and narrow, then reshape/ broaden as the character develops.
 
-### Complications
+#### Complications
 
 Complications are the shadow side of tags. They make characters more interesting, the story more dynamic, and success feel earned. If tags are a spotlight, complications are the dramatic shadows that give the scene depth.
 
-#### Why Complications Matter
+##### Why Complications Matter
 
 - They keep things moving. Complications create friction, forcing choices and drama that simple success can’t.
 - They tie characters to the world. A debt, a curse, or a flaw isn’t just personal — it’s a hook for NPCs, factions, and story arcs.
 - They make victories feel sweeter. Overcoming a setback has more weight than cruising through unopposed.
 
 A well-designed complication is never just a penalty. It’s an invitation to play.
+
+
+### Tags in Play
+
+Tags are deliberately flexible. They define what makes a character distinct, but their open wording means the GM must decide when they work during gameplay — both as strengths and as complications. A good ruling on a tag makes the fiction feel sharper, keeps rolls meaningful, and reinforces the unique identity of the character.
+
+#### Tips for Smooth Adjudication
+
+- Use Questions. If a player claims a tag applies but it’s unclear, ask: “What are you doing that shows this?” or “What would others notice about how this helps you here?”
+
+- Reward Good Flavor. When a player makes a vivid case for a tag’s relevance, say yes. If they’re stretching, guide them to narrow or save the tag for when it shines.
+
+- Consistency Builds Trust. Apply the same standard each time. Players should feel that when a tag works, it really matters, and when it doesn’t, the fiction still guides the ruling.
+
+#### Example Adjudications
+
+Ability Check: A player with the tag Circus Performer is trying to climb a crumbling wall. They describe using acrobatic balance to find purchase — the GM rules it applies, lowering the TN by their Rank.
+
+Attack: A PC with Bounty Hunter is fighting an enemy who tries to slip away. The GM allows the tag to apply, counting one of the attack dice as an automatic hit.
 
 #### Putting complications to play
 
@@ -250,9 +269,11 @@ Combat in this game is designed to be sharp, dangerous, and easy to run. It shou
 - **Attacks Are Simple:** Attacks don’t ask “did I hit?” — instead, damage dice are rolled directly.
 - **Reactions:** PCs can act outside of their turn (e.g., to help an ally or interpose themselves). If a player uses a reaction, they begin their next turn with **only one action instead of two**. 
 
+
 ### Tips for Running Combat
 
 - **Keep Track of Reactions.** If a PC takes a Reaction, remember they start their next turn with only one action. 
+- **Defense Is Public**. Enemies’ DF is known after the first exchange (or immediately if the GM prefers). Players should always know the number they’re aiming for.
 - **Use the Environment.** Give zones descriptive names (*Collapsed Archway, Burning Brazier, Flooded Chamber*). Encourage players to interact with them.
 - **Assume characters move and act smartly.** They will avoid obvious hazards or unneeded opportunity attacks. Don’t surprise the players with gotchas.
 - **Offer Surrender.** Enemies can flee, yield, or bargain. Not every fight needs to end in blood. These choices create more story. 
