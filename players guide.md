@@ -325,7 +325,7 @@ There are a total of 10 PC levels divided into 4 ranks:
 
 For every level increase, choose to increase either one of your ability scores or your hit points by 1.
 
-If you choose to increase an ability, update that score in the character sheet (don’t forget to update that ability’s TR as well).
+If you choose to increase an ability, update that score in the character sheet (don’t forget to update that ability’s TN as well).
 
 If you choose to add a 1 Hit Point slot: Darken the outline of the next rectangle to the left in the Hit Point section of your character sheet.
 
