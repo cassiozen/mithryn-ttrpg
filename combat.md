@@ -44,8 +44,13 @@ Players don’t have to resolve each attack in sequence - they can add the numbe
 
 ## Reactions
 
-Reactions are actions performed out of the player’s turn. PCs are free to take a reaction at any time during combat, but they do count as one action: they will start their turn with only 1 action.
+Reactions are actions performed out of the player’s turn. PCs are free to take a reaction at any time during combat, but they do count as one action: They can only take one reaction on the round, and they will start their next turn with only one action left.
 The reactions are:
+
+### Defense
+
+If your PC is about to be attacked, you can react with a defense to automatically cancel one hit.
+Note: A PC must declare that they are defending when the attack is announced, before the roll/result.
 
 ### Interpose
 
