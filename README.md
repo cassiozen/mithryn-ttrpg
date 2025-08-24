@@ -1,27 +1,44 @@
-## System Design Principle
+## System Design Principles
 
-Roleplaying games often get described on a spectrum between “crunchy” (lots of rules, procedures, and bookkeeping) and “narrative” (rules-light, story-first, theater of the mind). That shorthand can be useful, but it’s also limiting. Games can encourage narrative depth in many ways.
+### Compact, Not Thin
 
-The aim of this system, is to allow for rich narrative not through lack of rules, but with one design principle: Compact, Not Crunchy.
+A compact system should be unified and consistent: a small number of mechanics that apply across many situations. Compact design avoids bloat and redundancy, but this does not mean rules-light. Depth comes from how rules interlock, not from piling on subsystems.
 
-### Compact, Not Crunchy
+### Swift Resolution
 
-A compact design is not the same as rules-light. The goal is for rules that are unified (rather than piling on subsystems), consistent (few sets of mechanics that can be applied across many situations), and serve as scaffolding for the table’s imagination—not obstacles to it.
+Dice rolls should resolve a situation in a single moment. One roll determines both success and impact: no splitting results into “to hit” and then “damage.” This keeps momentum high and play focused on consequences, not bookkeeping.
 
-#### Emergent Narrative, Not Forced Narrative
+### Classless Characters
+
+A character’s role is not dictated by rigid archetypes. Instead, choices, and lived experiences shape their specialties. Players are free to evolve their characters organically, without being locked into a class track.
+
+### Player-Centered Dice
+
+I believe that players should always know what number they’re aiming for: This empowers informed decisions. Roll-under mechanics achieve this, but can feel alien since in virtually every dice game higher = better.
+Target Numbers bridge that gap - They require a pre-calculation when creating the character, but makes the gameplay simple, transparent, and intuitive.
+
+### Emergent Narrative, Not Forced Narrative
 
 Some systems lean on mechanics that directly create story beats such as narrative tokens, or mandatory moves that dictate outcomes. 
 These tools can be powerful, but they can also make play feel prescriptive once players are more comfortable improvising.
 
-A compact framework should offer enough rules to give weight and consequence to the dice while getting out of the way of the narrative.
+The goal is to offer enough rules to support the GM and encapsulate consequence for the dice.
+
 
 ### Credits/inspiration
 
-- Cairn - Amazing cohesive and compact set of rules; Open-source.
-- One Ring: Target Numbers - Same feeling of Roll-under (where players always know what they need to roll), but with high numbers
-- Nimble: Simplified Combat action economy & rushed attacks
-- Legend in the mist: tags can be the main mechanic.
-- Daggerheart: attributes (traits), character evolution.
+- Cairn (by Yochai Gal): A free, open-source fantasy RPG that demonstrates how much you can accomplish with a compact set of rules. Its roll-under d20 mechanic keeps resolution simple and unified across situations. Cairn shows how elegance can create freedom, not limitation. This system borrows A LOT from Cairn.
+
+- The One Ring (Free League): Uses Target Numbers in a way that preserves the clarity of roll-under (“I always know what I need to roll”), but with the familiar “roll high” language most players are used to.
+
+- Nimble (by Seth Ronland): A lesser-known but brilliant design where combat avoids slow action economies. Attacks are streamlined, players can push themselves into “rushed” attacks that are weaker but faster or react out of their turn.
+
+- Legend in the Mist (by Jay Dragon): A game that proves that tags can carry both narrative weight and mechanical heft and be the driver of character design.
+
+- Daggerheart (Critical Role / Darrington Press): One of those rare games that makes you rethink assumptions you’ve held for years.
+One example is splitting the all-encompassing “Dexterity” into two distinct traits — Agility (movement, jumping, physical daring) and Finesse (sneak, fine hand coordination). It does sound "nothing special", but it has a huge impact on both character design and gameplay, especially in a system without skill lists. This is something I've been tinkering with in old drafts of this system - I figured I wanted something like that but didn't find the right nomenclature.
+I also like Daggerheart's use of 2d12, which adds a subtle curve to rolls without overcomplicating the math. Most importantly, Daggerheart bakes character evolution and death into the design: growth comes through play, and death is never just a swing of the dice, but a collaborative decision between player, GM, and table. It encodes the truth that this is a game people play for fun.
+
 
 ## Setting Design Principles
 
