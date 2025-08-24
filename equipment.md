@@ -1,24 +1,21 @@
 ## Weapons
 
-Weapons are distinguished not only by how much damage they deal, but also by how well they handle when used in rapid succession. Fast weapons like daggers can be swung again without loosing effectiveness, so their Rushed Damage is the same as their normal Damage. Weapons such as short swords and handaxes remain effective but suffer a modest drop in power when used for a second attack in the same turn. 
-Heavy, slow or unwieldy weapons like battleaxes, broadswords and crossbows strike with devastating force on the first attack but are far less effective when rushed.
 
-Minimum strength requirement: If a PC doesn’t meet Min STR, the attack is rushed (use the Rushed dice).
-
-
-| Weapon            | Min STR | Damage Dice     | Rushed Damage | Price (silver) | Notes                                                                       |
-| ----------------- | ------- | --------------- | ------------- | -------------- | ------------------------------------ |
-| Dagger            | 2       | **1d10**        | **1d10**      | 5              | Concealable, throwable  |
-| Short Sword       | 4       | **2d12**        | **1d12**      | 12             | —  |
-| Handaxe           | 4       | **1d20**        | **1d12**      | 10             | Throwable |
-| Spear             | 5       | **2d12**        | **1d12**      | 10             | Throwable  |
-| Broadsword (2-H)  | 8       | **3d12**        | **1d10**      | 30             | Bulky, two-handed  |
-| Battleaxe (2-H)   | 8       | **3d12**        | **1d10**      | 40             | Bulky, two-handed   |
-| Mace              | 5       | **2d12**        | **1d10**      | 12             | —   |
-| Shortbow          | 5       | **1d12**        | **1d10**      | 15             | Ranged, requires free hands  |
-| Longbow           | 7       | **1d20**        | **1d12**      | 25             | Ranged, bulky, requires free hands |
-| Crossbow          | 4       | **2d12**        | — *(reload)*  | 30             | Ranged, bulky, requires free hands |
-
+| Weapon                    | Requirements       | Damage Dice   | Rushed Damage | Price | Tags                                                |
+| ------------------------- | ------------------ | ------------- | ------------- | ----- | ---------------------------------------------------- |
+| **Dagger**                | FIN 4              | **1d10**      | **1d10**      | 5     | Concealable, throwable                               |
+| **Short Sword**           | STR 4 **or** FIN 6 | **2d12**      | **1d12**      | 12    |                                            |
+| **Rapier**                | FIN 7              | **2d12**      | **1d12**      | 20    | Precise (reroll any dice showing 1)                   |
+| **Handaxe**               | STR 4              | **1d20**      | **1d12**      | 10    | Throwable                                            |
+| **Spear**                 | STR 5 + AGI 5      | **2d12**      | **1d12**      | 10    | Throwable                                     |
+| **Mace**                  | STR 5              | **2d12**      | **1d10**      | 12    |   |
+| **Broadsword**            | STR 8              | **3d12**      | **1d10**      | 30    | Bulky, two-handed                                    |
+| **Battleaxe**             | STR 8              | **3d12**      | **1d10**      | 40    | Bulky, two-handed                            |
+| **Halberd**               | STR 7 + AGI 6      | **3d12**      | **1d12**      | 35    | Bulky, two-handed                             |
+| **Throwing Knives** (set) | FIN 6              | **1d10** (×2 PCs can throw 2 per attack action) | **1d10**      | 8     |                   |
+| **Shortbow**              | AGI 6              | **1d12**      | **1d10**      | 15    | Ranged, requires free hands                          |
+| **Longbow**               | STR 7 + AGI 6      | **2d12**      | **1d12**      | 25    | Ranged, bulky, requires free hands                   |
+| **Crossbow**              | STR 5 + KNO 5      | **2d12**      | — *(reload)*  | 30    | Ranged, bulky, reload (skip rush)                    |
 
 ---
 

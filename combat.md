@@ -5,9 +5,9 @@
 Combat takes place across zones — loosely defined areas that determine how characters can interact.
 Zones aren’t measured in precise feet or meters; they’re an abstraction of position and movement. Here’s how a player can interact with a target on:
 
-Same Zone — Within melee reach; PCs can attack with hand-to-hand weapons.
-One Zone Apart — Within throwing or ranged weapon range.
-Two or Three Zones Apart — Within ranged weapon range.
+Same Zone: Within melee reach; PCs can attack with hand-to-hand weapons.
+One Zone Apart: Within throwing or ranged weapon range.
+Two or Three Zones Apart: Within ranged weapon range.
 
 ## Rounds
 
@@ -31,7 +31,7 @@ To attack, choose a target and roll the number of dice listed in your weapon’s
 
 ### Auto hit and Exploding Dice
 
-Any die that that rolled its maximum number (a 12 for a d12, for example) is always a hit (regardless of the target’s DF). Plus, it may be rolled again for another chance to score a hit. These extra rolls can also explode.
+Any die that rolled its maximum number (a 12 for a d12, for example) is always a hit (regardless of the target’s DF). Plus, it may be rolled again for another chance to score a hit. These extra rolls can also explode.
 
 ### Double attacks
 
@@ -49,7 +49,7 @@ The reactions are:
 
 ### Defense
 
-If your PC is about to be attacked, you can react with a defense to automatically cancel one hit.
+PCs equipped with a shield can react to incoming attacks with a defense to automatically cancel one hit.
 Note: A PC must declare that they are defending when the attack is announced, before the roll/result.
 
 ### Interpose
@@ -61,6 +61,38 @@ Note: A PC must declare that they are interposing when the attack is announced, 
 
 Grant an ally automatic hits if the player can reasonably explain to the GM how you could help in a given situation. The GM may call for an attribute check or grant it automatically, depending on how good the idea is. The GM then determines how many of the ally’s weapon dice hit automatically without having to roll. 
 
+## Weapons
+
+Weapons define how you attack: how many dice you roll, what kind of dice, and what you need in order to wield them effectively. Every weapon has three key elements:
+
+### Damage Dice
+
+This is the number and type of dice rolled when you attack.
+Dice may be d10, d12, or d20 — larger dice are more swingy but have a greater chance of rolling equal to or above the target’s Defense (DF) score.
+
+Smaller dice are less likely to breach the target’s Defense (DF), but rolling the die’s maximum number is always a hit.
+
+### Rushed Damage
+
+Weapons are distinguished not only by how much damage they deal, but also by how well they handle when used in rapid succession. Fast weapons like daggers can be swung again without losing effectiveness, so their Rushed Damage is the same as their normal Damage. Weapons such as short swords and handaxes remain effective but suffer a modest drop in power when used for a second attack in the same turn. 
+Heavy, slow, or unwieldy weapons like battleaxes and broadswords strike with devastating force on the first attack but are far less effective when rushed.
+
+### Ability Requirements
+
+Each weapon lists one or more minimum Ability Scores.
+If a PC doesn’t meet the requirement, they can still use the weapon, but their attacks will always use the rushed attack dice.
+This makes weapon choice a balancing act — you’ll get the best out of weapons that match your character’s abilities.
+
+
+### Weapon Tags
+
+Many weapons have tags that add tactical variety. Examples:
+
+Bulky: Counts as 2 inventory slots.
+Two-handed: Requires both hands free (the PC can’t bear a shield, for example).
+Throwable: Can be used at range by hurling.
+
+Besides these commom tags, some weapons can have unique tags (with unique mechanical effects). Check the Equipment section for a full list of weapons. For example, a Rapier has the “Precise” tag, which allows for the bearer to reroll any dice showing 1.
 
 
 ## Example Combat Sequence:

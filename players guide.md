@@ -256,46 +256,47 @@ At character creation, you begin with 50 silver to spend on weapons, armor, and 
 
 These packs represent common backgrounds and loadouts for adventurers in this world. You may adjust small details (swap a dagger for a handaxe, rope for chain, etc.) with GM approval.
 
-##### Knight Errant – A wandering champion sworn to a cause.
+- **Knight Errant** – Wandering champion sworn to a cause
+  Broadsword (Bulky): Min STR 8, Damage 3d12 (Rushed 1d10), Bulky, Two-handed
+  Shield: +1 DF
+  Chainmail: +5 DF, Bulky
+  Lantern & 3 flasks of oil
+  10 silver remaining
+  Ability Direction: You must assign at least 8 STR to wield the broadsword. AGI or FIN can be lower — this kit leans on raw toughness and presence.
 
-Broadsword: Min STR 7, 3D12 (1D12 Rushed), Two-handed/Bulky
-Shield (+1 DF)
-Chainmail (+5 DF, bulky)
-Lantern & 3 flasks of oil
-10 silver remaining
+- **Warden of the Wilds** – Ranger, scout, and protector of the borderlands
+  Longbow: Min STR 7 + AGI 6, Damage 1d20 (Rushed 1d12), Bulky, Ranged
+  Hunting Knife: Min FIN 4, Damage 1d10
+  Reinforced Leather Armor: +4 DF
+  Rope (50 ft)
+  Snare kit
+  15 silver remaining
+  Ability Direction: To use the longbow, you must assign 7 STR and 6 AGI. This makes the kit best for balanced builds rather than extremes.
 
-##### Warden of the Wilds – Ranger, scout, and protector of the borderlands.
+- **Streetwise Rogue** – Quick-handed trickster
+  Rapier: Min FIN 7, Damage 2d12 (Rushed 1d12), Precise
+  Dagger: Min FIN 4, Damage 1d10 (Throwable, Concealable)
+  Padded Armor: +2 DF
+  Thieves’ tools
+  Lockpicks (bundle)
+  20 silver remaining
+  Ability Direction: You must assign at least 7 FIN to wield the rapier. STR can be lower; prioritize AGI or INS for survivability and cunning.
 
-Longbow: Min STR 5, 2D12 (1D12 Rushed), Two-handed/Bulky.
-Hunting knife: Min STR 2, 1D12 (1D12 Rushed)
-Reinforced Leather Armor (+4 DF)
-Rope (50 ft)
-Snare kit
-15 silver remaining
+- **Mercenary Veteran** – Hardened fighter
+  Battleaxe (2-H): Min STR 8, Damage 3d12 (Rushed 1d10), Bulky, Two-handed, Brutal
+  Shortbow: Min AGI 6, Damage 1d12 (Rushed 1d10), Ranged
+  Scale Mail: +6 DF, Bulky
+  Whetstone & repair kit
+  5 silver remaining
+  Ability Direction: You must assign at least 8 STR to wield the battleaxe and 6 AGI for the shortbow. This kit pushes you to cover both physical extremes.
 
-##### Streetwise Rogue – A quick-handed trickster from the city’s underbelly.
+- **Healer** – Wandering cleric or monk devoted to aiding
+  Mace: Min STR 5, Damage 2d12 (Rushed 1d10), Two-handed, Magical focus
+  Leather Armor: +3 DF
+  Healer’s kit (3 uses)
+  15 silver remaining
+  Ability Direction: You must assign at least 5 STR to wield the mace. This kit suits thoughtful characters with lower STR/AGI but strong Knowledge and Presence.
 
-Short sword: Min STR 4, 2D12 (1D12 rushed)
-Dagger: Min STR 2, 1D12 (1D12 Rushed)
-Padded armor (+2 DF)
-Thieves’ tools
-Lockpicks (bundle)
-20 silver remaining
-
-##### Mercenary Veteran – Hardened fighter for hire.
-
-Battleaxe: Min STR 7, 3D12 (1D12 rushed), Two-handed/Bulky
-Shortbow: Min STR 4, 1D12 (1D12 rushed), Two-handed
-Scale Mail (+6 DF, bulky)
-Whetstone & repair kit
-5 silver remaining
-
-##### Healer – Wandering cleric or monk devoted to aiding others.
-
-Mace: Min STR 5, 2D12 (1D12 rushed)
-Leather Armor (+3 DF)
-Healer’s kit (3 uses)
-15 silver remaining
 
 ### Step 6 – Your Vital Stats: Hit Points and Defense (DF) score
 
