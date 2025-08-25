@@ -278,3 +278,61 @@ Combat in this game is designed to be sharp, dangerous, and easy to run. It shou
 - **Assume characters move and act smartly.** They will avoid obvious hazards or unneeded opportunity attacks. Don’t surprise the players with gotchas.
 - **Offer Surrender.** Enemies can flee, yield, or bargain. Not every fight needs to end in blood. These choices create more story. 
 
+## Magic
+
+Magic in this world is not an outside force nor a gift from the heavens — it is the hidden architecture of the world itself. To practice magic is not to conjure something from nothing, but to recognize and work with what is already present.
+
+A creature well versed in magic can call forth an unbound, ephemeral effects: a shimmer of light, a gust of cool air, a sudden warmth in a dark place, or a brief illusion to distract or delight. These are intentionally fleeting — and will fade quickly.
+
+To make magic endure, though, it must be anchored. For practical purposes, there is no such thing as “pure” spellcasting. There is always a medium — a staff, a ring, a polished stone, a sword, a seed...
+
+### The Role of the Bearer
+
+Magical objects work in a symbiotic relationship with the bearer. Once an object is bound with magic, it only works if the bearer align themselves to the object’s resonance.
+
+This is not always a matter of study; it is a relationship. The object offers, the bearer answers, and together they create power neither could achieve alone.
+
+Someone versed in magic who takes up a well-attuned staff, ring, or blade inherits tremendous power. Their training allows them to meet the object halfway, shaping its resonance into clear, reliable effects.
+But even without training, a person can sometimes attune instinctively. A bearer’s courage, need, or conviction can spark resonance. What matters is not knowledge alone, but alignment between object and purpose. 
+
+### What This Means in Play
+
+- Magic is not scarce; it is hidden.
+- No innate spellcasters. Characters are not wizards casting fire balls.
+- Magical objects exist - and at your discretion, the PCs get in touch with them.
+
+### Sample magical objects:
+
+- Stargleam (Sword)
+Weapon Stats: Damage 2d12, Rushed Damage 1d12. Requirement: FIN 10+ or STR 10+.
+Attunement trigger: Bearer is ready to fight for their convictions.
+Effect: Grants +1 automatic hit on their first attack in any combat encounter.
+
+- Shield of the Quiet Watch
+A round shield etched with fading runes. When the bearer stands firm to defend others, it grows unyielding — blows that would shatter wood instead strike as if against stone.
+Shield Stats: +2 Defense
+Attunement trigger: bearer uses Interpose action to protect an ally
+Effect: when used with the Interpose action, cancel 3 hits instead of 1 (once per combat).
+
+- The Ashen Helm
+Its visor resembles the curve of mountain ridges. When worn, it grants clarity of thought in battle — fear loosens, noise dulls, and the path of action becomes plain.
+Attunement trigger: Bearer is ready to fight for their convictions.
+Effect: The bearer may automatically act first in the round, without an agility check.
+
+- Opals of Echoed Speech
+Two (or more) attuned rings with a cloudy stone set in a plain silver band each. 
+Attunement trigger: The bearer reaches to reassure, encourage, or share something of true importance with another, opening themselves in trust.
+Bearers may whisper short messages to each other, no matter the distance.
+
+- Ring of Remembrance
+A golden ring engraved with vines. When slipped on, it sharpens the bearer's memory.
+Attunement trigger: The bearer acts decisively based on knowledge they’ve gained during the campaign (rather than instinct or impulse), proving they carry the past forward with them.
+Effect: The wearer gains Advantage on KNO checks when recalling past facts from the campaign.
+
+- Lantern of the Hollow Way
+A silver lantern whose flame never dims. Its light does not brighten a room but instead reveals hidden paths — a lost doorframe in ruins, a track across barren stone, a staircase where none seemed to be.
+Attunement trigger: Curiosity: the bearer chooses the path of persistence in finding what's hidden
+Effect: The lantern grants Advantage on navigation/tracking/investigation check for the bearer.
+
+
+
