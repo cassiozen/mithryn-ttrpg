@@ -13,15 +13,15 @@
 | **Battleaxe**             | STR 9              | **3d12**      | **1d10**      | 40    | Bulky, two-handed                            |
 | **Halberd**               | STR 7 + AGI 6      | **3d12**      | **1d12**      | 35    | Bulky, two-handed                             |
 | **Throwing Knives** (set) | FIN 6              | **1d10** (×2 PCs can throw 2 per attack action) | **1d10**      | 8     |                   |
-| **Shortbow**              | AGI 6              | **1d12**      | **1d10**      | 15    | Ranged, requires free hands                          |
-| **Longbow**               | STR 7 + AGI 6      | **2d12**      | **1d12**      | 25    | Ranged, bulky, requires free hands                   |
+| **Shortbow**              | AGI 6              | **1d10**      | **1d10**      | 15    | Ranged, requires free hands                          |
+| **Longbow**               | STR 7 + AGI 6      | **2d10**      | **1d12**      | 25    | Ranged, bulky, requires free hands                   |
 | **Crossbow**              | STR 5 + KNO 5      | **2d12**      | — *(reload)*  | 30    | Ranged, bulky, reload (skip rush)                    |
 
 ---
 
 ## Armor
 
-| Armor Type     | DF Bonus | Price (silver) | Notes |
+| Armor Type     | DF Bonus | Price          | Notes |
 |----------------|----------|----------------|-------|
 | Padded leather Vest   | +4  | 15           |       |
 | Chainmail      | +5       | 25             |       |
@@ -32,7 +32,7 @@
 
 ## Adventuring Gear
 
-| Item                     | Price (silver) | Notes |
+| Item                     | Price          | Notes |
 |--------------------------|----------------|-------|
 | Backpack (6 slots)       | 5              | Can double as bedroll when empty |
 | Bedroll                  | 2              | Keeps you warm at night |

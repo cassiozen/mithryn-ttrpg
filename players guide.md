@@ -250,7 +250,7 @@ A small bag of coins (up to 100 coins) is petty and does not occupy a slot.
 
 #### Starting Wealth
 
-At character creation, you begin with 50 silver to spend on weapons, armor, and useful tools. Alternatively, you may select one of the Starting Kits below:
+At character creation, you begin with 50 gold pieces to spend on weapons, armor, and useful tools. Alternatively, you may select one of the Starting Kits below:
 
 #### Starting Kits
 
@@ -261,7 +261,7 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
   Shield: +1 DF
   Chainmail: +5 DF
   Lantern & 3 flasks of oil
-  10 silver remaining
+  10 gold pieces remaining
   Ability Direction: You must assign at least 9 STR to wield the broadsword. AGI or FIN can be lower — this kit leans on raw toughness and presence.
 
 - **Warden of the Wilds** – Ranger, scout, and protector of the borderlands
@@ -270,7 +270,7 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
   Padded Leather Armor: +4 DF
   Rope (50 ft)
   Snare kit
-  15 silver remaining
+  15 gold pieces remaining
   Ability Direction: To use the longbow, you must assign 7 STR and 6 AGI. This makes the kit best for balanced builds rather than extremes.
 
 - **Streetwise Rogue** – Quick-handed trickster
@@ -279,7 +279,7 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
   Padded Leather Armor: +4 DF
   Thieves’ tools
   Lockpicks (bundle)
-  20 silver remaining
+  20 gold pieces remaining
   Ability Direction: You must assign at least 7 FIN to wield the rapier. STR can be lower; prioritize AGI or INS for survivability and cunning.
 
 - **Mercenary Veteran** – Hardened fighter
@@ -287,14 +287,14 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
   Shortbow: Min AGI 6, Damage 1d12 (Rushed 1d10), Ranged
   Plate armor: +6 DF, Bulky
   Whetstone & repair kit
-  5 silver remaining
+  5 gold pieces remaining
   Ability Direction: You must assign at least 8 STR to wield the battleaxe and 6 AGI for the shortbow. This kit pushes you to cover both physical extremes.
 
 - **Healer** – Wandering cleric or monk devoted to aiding
   Mace: Min STR 5, Damage 2d12 (Rushed 1d10), Two-handed, Magical focus
   Chain Mail: +5 DF
   Healer’s kit (3 uses)
-  15 silver remaining
+  15 gold pieces remaining
   Ability Direction: You must assign at least 5 STR to wield the mace. This kit suits thoughtful characters with lower STR/AGI but strong Knowledge and Presence.
 
 
