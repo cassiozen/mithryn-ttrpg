@@ -11,7 +11,7 @@
 | **Mace**                  | STR 6              | **2d12**      | **1d10**      | 12    |   |
 | **Broadsword**            | STR 9              | **3d12**      | **1d10**      | 30    | Bulky, two-handed                                    |
 | **Battleaxe**             | STR 9              | **3d12**      | **1d10**      | 40    | Bulky, two-handed                            |
-| **Halberd**               | STR 7 + AGI 6      | **3d12**      | **1d12**      | 35    | Bulky, two-handed                             |
+| **Halberd**               | STR 9 + AGI 7      | **3d12**      | **1d12**      | 35    | Bulky, two-handed                             |
 | **Throwing Knives** (set) | FIN 6              | **1d10** (×2 PCs can throw 2 per attack action) | **1d10**      | 8     |                   |
 | **Shortbow**              | AGI 6              | **1d10**      | **1d10**      | 15    | Ranged, requires free hands                          |
 | **Longbow**               | STR 7 + AGI 6      | **2d10**      | **1d12**      | 25    | Ranged, bulky, requires free hands                   |
