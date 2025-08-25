@@ -1,5 +1,7 @@
 # Combat rules
 
+Combat in this game is fast, dangerous, and rarely without consequence. Entering a fight means risking wounds, setbacks, or worse, so players should approach it with care. Always weigh alternatives before drawing steel, and ensure you have a fallback plan if things turn bad.
+
 ## Zones
 
 Combat takes place across zones — loosely defined areas that determine how characters can interact.
@@ -92,85 +94,102 @@ Throwable: Can be used at range by hurling.
 
 Besides these commom tags, some weapons can have unique tags (with unique mechanical effects). Check the Equipment section for a full list of weapons. For example, a Rapier has the “Precise” tag, which allows for the bearer to reroll any dice showing 1.
 
+## Example Combat Sequence (Corrected v2)
 
-## Example Combat Sequence:
+### Party (Rank 1):
 
-Party of 3 PCs:
+- **Kael**
+  STR 7, AGI 6, FIN 4.
+  HP 7, DF 5. Weapon: Dagger (1d10 / 1d10).
 
-- Kael (Rank 1, Strength 7, Agility 6, Tag: Streetwise Survivor). HP = 7.
-- Sira (Rank 1, Presence 7, Agility 6, Tag: Animal Whisperer). HP = 6. DF = 5.
-- Borin (Rank 1, Strength 6, Agility 8, Tag: Battlefield Healer). HP = 6.
+- **Sira**
+  Tag: Animal Whisperer
+  PRE 7, AGI 6, FIN 6.
+  HP 6, DF 5. Weapon: Short Sword (2d12 / 1d12).
 
-They decided to face the brigands in the ruined causeway blocking the passage:
+- **Boris**
+  STR 7, AGI 6.
+  HP 6, DF 4. Weapon: Longbow (2d10 / 1d12).
 
-Brigand Leader
-HP: 8, DF: 5
-Weapon: Sword (2d12)
+### Foes:
 
-Brigand Minion
-HP: 4, DF: 5
-Weapon: Club (1d12)
+- **Brigand Leader** — HP 8, DF 5. Weapon: Short Sword (2d12 / 1d12).
+- **Brigand Minion A** — HP 4, DF 5. Weapon: Dagger (1d10 / 1d10).
+- **Brigand Minion B** — HP 4, DF 5. Weapon: Dagger (1d10 / 1d10).
+
 
 The GM declares, “We’re in combat. Zones are: Collapsed Archway (where brigands are), Causeway (where you stand), Rubble Pile (to the side, difficult footing).”
 
-### Round 1 (Opening Round — Agility Check to Act)
+### Round 1 (Opening Round — AGI check to act)
 
-- Kael (AGI 6 → TN 14). Rolls 2d12 → 8+5 = 13 (fails and loses turn).
+Kael: AGI 6 → TN 14. Rolls 8+5=13 → fail, loses turn.
  GM: “You stumble as the brigands spring out.”
-- Sira (AGI 6 → TN 14). Rolls 10+9 = 19 (success). Acts normally.
-- Borin (AGI 8 → TN 12). Rolls 6+8 = 14 (success). Acts normally.
+Sira: AGI 6 → TN 14. Rolls 10+9=19 → success.
+Boris: AGI 6 → TN 14. Rolls 6+8=14 → success.
 
 #### Player turns
 
-Sira: Moves into Collapsed Archway zone and tries to talk: “No need for blood — we’ve coin.”  
+Sira: Moves into Collapsed Archway zone (1 action) and talks to the brigand leader: “No need for blood — we’ve coin.” (1 action) 
 GM calls for a Presence check (TN 13, since PRE = 7). Rolls 2d12 = 5+7 = 12 → fail.
 GM: “The brigand leader hesitates, eyeing the silver pouch you flash.”
 
-Borin: Moves to the Rubble Pile to flank and shoots from his long bow (2D12).
-Rolls: 12 (hit+explode) and 3. Rolls explosion die → 11 (another hit). Total of 2 hits.
+Borin: Moves to the Rubble Pile to flank and shoots from his long bow.
+Rolls: 12 (hit+explode) and 7. Rolls explosion die → 11 (another hit). Total of 3 hits.
+Total = 3 hits. Minion A HP 4 → 1.
+Boris can't make a rushed attack because he already used his two actions for this turn.
 
 #### Enemy turns
 
-Brigand leader attacks Sira.
-Brigand sword: 2d12 against Sira’s DF = 5 (1 Rank + 4 armor)
-Rolls: 12 (auto-hit, explodes), then 8 → two hits. Rolls explosion die → 11 (another hit).
-Sira takes 3 damage (HP drops from 6 → 3). GM: “The blade cuts deep. You’re Wounded now — you’ll roll with disadvantage until healed.”
+Leader attacks Sira (same zone) with Short Sword (2d12). Rolls 10 (hit) and 8 (hit). 
+Sira HP 6 → 4.
 
-### Round 2
+Minion A (HP 1) stabs Sira with Dagger (1d10). Rolls 6 (hit). Sira HP 4 → 3. She enters Wounded.
+GM: “The blade cuts deep. You’re Wounded now — you’ll roll with disadvantage until healed.”
 
-Now, combat alternates by sides. PCs go first.
+Minion B rushes Kael with Dagger. Rolls 4 (miss).
+
+### Round 2 (PCs then enemies)
 
 #### Player turns
 
-Kael: Charges brigand with dagger (1d12 weapon).
-Rolls 1d12 = 12 (auto-hit, explodes). Explosion = 6 (miss). → 1 hit.
-Attacks again. Rushed attack with penalty: Rolls 1d12 = 7 (miss).
-
 Sira: Tries to command the brigand’s horse tied nearby (Tag: Animal Whisperer).
 GM says Presence check (TN 13), and Tag applies (+1 for the roll).
-Rolls 2d12 = 7 and 5, +1 Tag = 13 (Success). Horse and breaks free, running over one of the brigadeers. There are no explicit rules in this case, according to GM rules, the brigadeer takes 2 hits and loses his next turn.
 
-Borin: Shoots from his long bow (2D12) at the brigand from the Rubble zone.
-Rolls: 10 (hit), 5 (hit). → 2 hits.
-Tries to shoot again with his second action. As a rushed action, he rolls a single die: 7 (hit)
+Since she's wounded, she rolls with disadvantage: 3d12=7,5,10 → 12 total → success.
 
-Enemy brigand drops to 0 HP (down).
+GM: The horse breaks free, running over one of the brigadeers.
+There are no splicit rules for damage by animals, but Minion A only had 1 HP left so the GM declares he's down.
+
+Kael: Attacks Leader with Dagger.
+Attack 1: d10=10 (auto-hit+explode). Explosion=4 (miss). → 1 hit.
+Attack 2 (Rushed 1d10): d10=6 (hit). → 1 hit.
+Total: 2 hits. Leader HP 8 → 6.
+
+Boris: Fires at Leader
+
+Attack 1: Longbow 2d10=9 (hit), 5 (hit) → 2 hits.
+Attack 2 (Rushed 1d12)=7 (hit) → 1 hit.
+Total: 3 hits. . Leader HP 6 → 3.
+
 
 #### Enemy turns
 
 The GM announces that the Brigand Leader, bloodied but stubborn, tries to finish Sira.
-Kael: Uses reaction Interpose to push Sira away and take the leader’s attack (costs one of his next turn’s actions).
-Brigand Leader: Rolls 2d12 = 9 and 10 = both hits (≥5 DF).
-Kael takes two damage (HP drops from 7 → 5).
+Kael declares Interpose (Reaction).
 
-#### Round 3
+Leader attacks Kael: 2d12=9,10 → 2 hits. Kael HP 7 → 5.
+(Kael will have only 1 action next turn.)
+
+Minion B stabs Kael: d10=3 (miss).
+
+### Round 3
 
 #### Player turns
 
-Sira: Weak, tries short sword shot at the leader. Rolls 2d12 = 8 (hit) and 2 (miss) → 1 hit.
+Kael (only 1 action, due to Interpose): Attacks Leader with Dagger. d10=10 (auto-hit+explode). Explosion=7 (hit). → 2 hits.
+Leader HP 3 → 1.
 
-Kael: Only has one action this turn, attacks the leader with a dagger (1d12 weapon).
-Rolls 1d12 = 10 → 1 hit.
+Sira (Wounded → 1 action): Slashes Leader with Short Sword (2d12). Rolls 8 (hit), 2 (miss) → 1 hit.
+Leader HP 1 → 0 (down).
 
-Borin: Attacks the leader again. Rolls 2d12 = 12 (hit+explode), 8 (hit). Explosion = 7 (hit). Total 3 hits.
-Leader collapses, the last brigand flees.
+As the Leader collapses, the last brigand flees.
