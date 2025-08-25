@@ -263,7 +263,7 @@ Impossible: If the fiction makes success literally impossible, don’t ask for a
 
 ## Combat
 
-Combat in this game is designed to be sharp, dangerous, and easy to run. It should move quickly, with high stakes and clear consequences. A few key rules shape how fights unfold:
+Combat in this game is designed to be quick and dangerous. It should move quickly, with high stakes and clear consequences. A few key rules shape how fights unfold:
 
 - **Side Initiative:** After the opening round (where PCs must roll Agility to act), combat alternates by sides. The party acts as a group, then the opponents act as a group. Actions within a side are resolved simultaneously.
 - **Attacks Are Simple:** Attacks don’t ask “did I hit?” — instead, damage dice are rolled directly.
@@ -272,11 +272,19 @@ Combat in this game is designed to be sharp, dangerous, and easy to run. It shou
 
 ### Tips for Running Combat
 
-- **Keep Track of Reactions.** If a PC takes a Reaction, remember they start their next turn with only one action. 
 - **Defense Is Public**. Enemies’ DF is known after the first exchange (or immediately if the GM prefers). Players should always know the number they’re aiming for.
 - **Use the Environment.** Give zones descriptive names (*Collapsed Archway, Burning Brazier, Flooded Chamber*). Encourage players to interact with them.
 - **Assume characters move and act smartly.** They will avoid obvious hazards or unneeded opportunity attacks. Don’t surprise the players with gotchas.
 - **Offer Surrender.** Enemies can flee, yield, or bargain. Not every fight needs to end in blood. These choices create more story. 
+
+### Keeping track of Reactions
+
+It might be worth puting a system or routine in place to keep track of reactions. Here are some ideas:
+
+- Dice Jail: If your group already enjoys putting misbehaving dice in “jail,” lean into it. Whenever a PC takes a reaction, the player should place one of their dice into the jail. After their next turn ends, the jailed die is released.
+- Table Signal: Make it social. When a PC take a reaction, have them call out “Next turn: one!”. The group can help keep track, and it becomes part of the rhythm of play.
+- Visual Tracker: Write each PC’s name on a notecard, sticky note, or whiteboard. When a PC reacts, mark a token or slash next to their name. After their next turn, clear the mark.
+
 
 ## Magic
 
