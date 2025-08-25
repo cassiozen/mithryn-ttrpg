@@ -34,6 +34,8 @@
 - Think of ways to avoid your obstacles through reconnaissance, subtlety, and fact-finding.
 - Do some research and ask around about your objectives.
 
+---
+
 ## Setting
 
 The land of Mithryn rises on a plateau ringed by the slopes of Mount Amaroth, a fire-mountain long fallen quiet. Ask the scribes of distant courts, and they will tell you the story is plain: once, an evil, tyrant king ruled here. In the first year of this era, the High Council brought their armies, toppled his rule, and delivered freedom.
@@ -80,6 +82,8 @@ This is a land where history was erased and silence has been enforced for genera
 There are forces at play that cannot be fully explained with the knowledge you have — a shimmer in the corner of your eye, a warmth in the air that feels like promise.
 
 As the campaign unfolds, this “awakening” will move from background atmosphere into the heart of your journey. Together, you’ll shape how it unravels — and what kind of future it might bring.
+
+---
 
 ## Character Creation Guide
 
@@ -197,84 +201,84 @@ Use these lists for inspiration — they’re not exhaustive, but they can help 
 
 ###### Skills & Expertise
 
-Animal Whisperer — Calms the skittish, riles the dangerous.
-Battlefield Healer — Calm hands, even in chaos.
-Barter — Knows the worth of things and how to make the deal sweet.
-Crowd Charmer — Can hold a room’s attention with ease.
-Gambler — Reads the table as well as the cards.
-Herbal Alchemy — Knows which leaves heal and which kill.
-Locksmith’s Touch — Reads tumblers like others read books.
-Magical Historian — Can trace the lineage of spells and curses.
-Master of Disguise — Turns into someone else with a change of clothes and voice.
-Negotiator — Finds common ground even in tense standoffs.
-Ropework Master — From knots to rigging, nothing tangles you.
-Shadow Stepper — Moves like a whisper through dim light.
-Survivalist — Can make a meal and a shelter out of almost nothing.
-Tavern Charmer — Leaves every bar with at least one new friend.
-Tinkerer — Sees broken things as puzzles, not problems.
-Tracker — Reads a trail like a book, even days cold.
+- Animal Whisperer — Calms the skittish, riles the dangerous.
+- Battlefield Healer — Calm hands, even in chaos.
+- Barter — Knows the worth of things and how to make the deal sweet.
+- Crowd Charmer — Can hold a room’s attention with ease.
+- Gambler — Reads the table as well as the cards.
+- Herbal Alchemy — Knows which leaves heal and which kill.
+- Locksmith’s Touch — Reads tumblers like others read books.
+- Magical Historian — Can trace the lineage of spells and curses.
+- Master of Disguise — Turns into someone else with a change of clothes and voice.
+- Negotiator — Finds common ground even in tense standoffs.
+- Ropework Master — From knots to rigging, nothing tangles you.
+- Shadow Stepper — Moves like a whisper through dim light.
+- Survivalist — Can make a meal and a shelter out of almost nothing.
+- Tavern Charmer — Leaves every bar with at least one new friend.
+- Tinkerer — Sees broken things as puzzles, not problems.
+- Tracker — Reads a trail like a book, even days cold.
 
 ###### Background & Upbringing
 
-Assassin — Knows where to strike and when to vanish.
-Blacksmith — Can read the “mood” of metal by its color and sound.
-Bounty Hunter — Finds those who don’t want to be found.
-Circus Performer — Thrives in the spotlight, comfortable with danger.
-Merchant — Speaks the language of goods and coin.
-Monastery Dropout — Knows the chants but not the discipline.
-Noble Bearing — Even in rags, people sense your high birth.
-Raised by Sailors — Reads the wind, ties knots in their sleep.
-Scholar — Has a head full of books and a thirst for more.
-Sellsword — Experience bought blade by blade.
-Storyteller — Spins truth and fiction so tightly they’re indistinguishable.
-Streetwise Survivor — Knows which alleys are safe and which aren’t.
-Village Gossip Collector — Always “just happens” to know the latest.
+- Assassin — Knows where to strike and when to vanish.
+- Blacksmith — Can read the “mood” of metal by its color and sound.
+- Bounty Hunter — Finds those who don’t want to be found.
+- Circus Performer — Thrives in the spotlight, comfortable with danger.
+- Merchant — Speaks the language of goods and coin.
+- Monastery Dropout — Knows the chants but not the discipline.
+- Noble Bearing — Even in rags, people sense your high birth.
+- Raised by Sailors — Reads the wind, ties knots in their sleep.
+- Scholar — Has a head full of books and a thirst for more.
+- Sellsword — Experience bought blade by blade.
+- Storyteller — Spins truth and fiction so tightly they’re indistinguishable.
+- Streetwise Survivor — Knows which alleys are safe and which aren’t.
+- Village Gossip Collector — Always “just happens” to know the latest.
 
 ###### Personality & Reputation
 
-Bookworm — Would rather read than eat or sleep.
-Calculating Gaze — Reads people like open books.
-Intimidating Presence — Commands attention and silence on arrival.
-Iron Will — Won’t be bullied or swayed easily.
-Leader — Others look to you without thinking.
-Observant — Notices the detail everyone else missed.
-Optimist — Always sees a way forward.
-Prankster — Turns tension into laughter… or trouble.
-The One Who Dared — Your reputation precedes you — for better or worse.
+- Bookworm — Would rather read than eat or sleep.
+- Calculating Gaze — Reads people like open books.
+- Intimidating Presence — Commands attention and silence on arrival.
+- Iron Will — Won’t be bullied or swayed easily.
+- Leader — Others look to you without thinking.
+- Observant — Notices the detail everyone else missed.
+- Optimist — Always sees a way forward.
+- Prankster — Turns tension into laughter… or trouble.
+- The One Who Dared — Your reputation precedes you — for better or worse.
 
 ###### Resources & Possessions
 
-Ancestral Blade — A weapon with history and weight.
-Forged Royal Seal — Opens doors it has no right to.
-Hidden Safehouse — A place of safety known only to a few.
-Loyal Horse — Trusts you in storms, battles, and worse.
-Smuggler’s Routes — Knows the hidden paths where no taxes are paid.
-Stash of Rare Spices — A small fortune in scent and flavor.
-Web of Spies — Whispers reach you before the news breaks.
-Well-Connected Merchant Family — Influence in markets far and wide.
+- Ancestral Blade — A weapon with history and weight.
+- Forged Royal Seal — Opens doors it has no right to.
+- Hidden Safehouse — A place of safety known only to a few.
+- Loyal Horse — Trusts you in storms, battles, and worse.
+- Smuggler’s Routes — Knows the hidden paths where no taxes are paid.
+- Stash of Rare Spices — A small fortune in scent and flavor.
+- Web of Spies — Whispers reach you before the news breaks.
+- Well-Connected Merchant Family — Influence in markets far and wide.
 
 ###### Complications
 
-####### Personal Weaknesses
+**Personal Weaknesses**
 
-Awful Liar — Your face betrays your words.
-Easily Distracted by Shiny Objects — Treasure over task, every time.
-Hot-Headed — Quick to take offense, quicker to escalate.
-Stubborn to a Fault — Willing to break before bending.
-Young and Naive — Believes the world is simpler than it is.
+- Awful Liar — Your face betrays your words.
+- Easily Distracted by Shiny Objects — Treasure over task, every time.
+- Hot-Headed — Quick to take offense, quicker to escalate.
+- Stubborn to a Fault — Willing to break before bending.
+- Young and Naive — Believes the world is simpler than it is.
 
-####### Obligations & Burdens
+**Obligations & Burdens**
 
-Code of Honor — There are lines you will not cross.
-Debt to a Dangerous Patron — They will call in favors.
-Wanted in Three Cities — The law is always a step behind you.
+- Code of Honor — There are lines you will not cross.
+- Debt to a Dangerous Patron — They will call in favors.
+- Wanted in Three Cities — The law is always a step behind you.
 
-####### Environmental & Situational
+**Environmental & Situational**
 
-Cursed by the River Witch — Sometimes the curse whispers… and sometimes it roars.
-Fragile Health — Illness waits for the moment you’re weakest.
-Marked by the Enemy — Their spies look for you everywhere.
-Unlucky with Animals — They bite, buck, or flee at your presence.
+- Cursed by the River Witch — Sometimes the curse whispers… and sometimes it roars.
+- Fragile Health — Illness waits for the moment you’re weakest.
+- Marked by the Enemy — Their spies look for you everywhere.
+- Unlucky with Animals — They bite, buck, or flee at your presence.
 
 ### Step 5 – Choose Your Equipment
 
@@ -360,6 +364,8 @@ HP represents your ability to keep going despite damage.
 Your starting HP is either equal to 6 or to your STRENGTH score - whichever is bigger.
 
 In the character sheet, your HP is represented as boxes that you tick as you get hit. Notice that it already has 6 fully drawn boxes spread across three regions: normal, wounded, and critical. You will learn more about what they mean in the rules section; for now, simply draw extra boxes in the empty spaces to the left until you match your total HP.
+
+---
 
 ## Leveling Up
 

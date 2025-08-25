@@ -7,9 +7,9 @@ Combat in this game is fast, dangerous, and rarely without consequence. Entering
 Combat takes place across zones — loosely defined areas that determine how characters can interact.
 Zones aren’t measured in precise feet or meters; they’re an abstraction of position and movement. Here’s how a player can interact with a target on:
 
-Same Zone: Within melee reach; PCs can attack with hand-to-hand weapons.
-One Zone Apart: Within throwing or ranged weapon range.
-Two or Three Zones Apart: Within ranged weapon range.
+- Same Zone: Within melee reach; PCs can attack with hand-to-hand weapons.
+- One Zone Apart: Within throwing or ranged weapon range.
+- Two or Three Zones Apart: Within ranged weapon range.
 
 ## Rounds
 
@@ -52,16 +52,20 @@ The reactions are:
 ### Defense
 
 PCs equipped with a shield can react to incoming attacks with a defense to automatically cancel one hit.
+
 Note: A PC must declare that they are defending when the attack is announced, before the roll/result.
 
 ### Interpose
 
 If a creature in the same zone would be struck with an attack, you can push it out of the way and become the new target of the attack.
+
 Note: A PC must declare that they are interposing when the attack is announced, before the roll/result.
 
 ### Help
 
 Grant an ally automatic hits if the player can reasonably explain to the GM how you could help in a given situation. The GM may call for an attribute check or grant it automatically, depending on how good the idea is. The GM then determines how many of the ally’s weapon dice hit automatically without having to roll. 
+
+---
 
 ## Weapons
 
@@ -83,7 +87,6 @@ Each weapon lists one or more minimum Ability Scores.
 If a PC doesn’t meet the requirement, they can still use the weapon, but their attacks will always use the rushed attack dice.
 This makes weapon choice a balancing act — you’ll get the best out of weapons that match your character’s abilities.
 
-
 ### Weapon Tags
 
 Many weapons have tags that add tactical variety. Examples:
@@ -94,7 +97,9 @@ Throwable: Can be used at range by hurling.
 
 Besides these commom tags, some weapons can have unique tags (with unique mechanical effects). Check the Equipment section for a full list of weapons. For example, a Rapier has the “Precise” tag, which allows for the bearer to reroll any dice showing 1.
 
-## Example Combat Sequence (Corrected v2)
+---
+
+## Example Combat Sequence
 
 ### Party (Rank 1):
 
