@@ -1,4 +1,13 @@
+# Not ready, just a bunch of scattered notes
+
+
+
 ## Trahald, the Ash & Obsidian Merchant
+
+
+Trahald is a halfling with many layers: To most people, he's nothing more than a traveling merchant.
+He’s the sort who blends into a crowd, quick with a joke, slow to anger.
+
 
 Trahald does not look like a man fate would choose. He is short, broad in the shoulders, with skin the gray-brown of volcanic stone and a merchant’s easy smile. He dresses plainly — patched wool, leather shoes, a heavy cloak for travel — and speaks with the practiced politeness of someone who has haggled his way through every market on the plateau.
 
@@ -9,7 +18,6 @@ The ash, sifted fine, becomes pigment for dye, glaze for pottery, or polish for 
 The obsidian, brittle but sharp, he works into arrowheads, knives, and jewelry.
 
 Though Amaroth has been quiet for millennia, its slopes still yield their secrets. Trahald knows the gullies, the dry riverbeds where volcanic silt collects, and the hidden quarries where shards of black glass lie in heaps. It is hard, dirty labor, but it gives him goods the outside world expects from Mithryn: cheap, simple, unglamorous wares.
-
 
 ## The Caravan
 
@@ -53,6 +61,7 @@ He’s believable: people know him as a trader, not a mystic. That makes his tes
 To the Grey Vulture’s agents, he is dangerous precisely because he’s ordinary — a voice that others might trust.
 
 
+## The River keeper ()
 
 
 
@@ -66,37 +75,7 @@ To the Grey Vulture’s agents, he is dangerous precisely because he’s ordinar
 
 
 
-## Adventure hook: The Chains of the Grey Vulture
 
-
-Trahald is a halfling with many layers: To most people, he's nothing more than a traveling merchant.
-He’s the sort who blends into a crowd, quick with a joke, slow to anger.
-To the party, he’s more than that: a smuggler with a knack for slipping past watchtowers and patrols, a friend who has traded favors, shared drinks, and pulled them out of tight corners. That’s the layer they know best — the resourceful rogue who always has an escape plan.
-But beneath that grin and swagger lies a quiet but unwavering loyalty to Mithryn. He risks himself to preserve scraps of its lost culture — an outlawed song carried in his memory, a carved tile tucked into his pack, a forbidden book hidden in a crate of spices. He’s not part of any organization — there is no organization — just a scattered web of people who sometimes hear of each other’s deeds second- or third-hand. For Trahald, each smuggled relic or remembered verse is a defiance against the Silencing.
-
-
-### The Trouble
-
-On his latest run north, Trahald played the part of the merchant again, bound for the elven markets. 
-
-Trahald had been trading in the borderlands when he met Milo Burrows, a fellow halfling traveler with a reputation for tall tales and improbable luck.
-
-Milo told him what he was after: “There’s an old tunnel in the high mist-cloaked mountains, untouched since before the Silencing. The old songs call it a thieves’ road. Rumor says there’s treasure up there from the Kings of Mithryn themselves.”
-
-Together, they reached the ruins in the mountains — cold, wet caverns where the air tasted of stone dust and history.
-
-
-
-At this point, Milo betrayed Trahald. I big hit knocked him unconscious. When he woke up and managed to find his way out, he found all their supplies and ponnies gone.
-
-
-
-In his rush to return south, Trahald was injured — a tumble down a rocky gully or a wolf’s bite (you can choose), forcing him to rest near an elven patrol route. That’s when the soldiers found him. They saw only a smuggler far from home with suspicious goods.
-
-
-### Current Situation
-
-Trahald now sits in Thalan Caras, a prison woven into the roots of massive trees, awaiting transfer to a more secure location. The elves have beaten him for information about smuggling routes, unaware that he carries knowledge that could alter the fate of nations. To them, he’s just another petty criminal with no greater importance.
 
 
 
@@ -124,7 +103,6 @@ The Hollowed Root Tunnel (Forgotten Entrance)
 An overgrown tunnel leading to a collapsed section of an old root cell.
 Challenges: Collapsed debris, swarms of biting insects, and a druidic seal that may require puzzle-solving, magical insight, or brute force to bypass.
 Potential Challenges Before They Even Reach It
-Territorial Beasts: The elven forest is home to predators — giant owls, moss wolves, and territorial treants.
 Wandering Patrols: Mobile elven scouts may notice outsiders and tail them for hours before acting.
 Natural Hazards: Chasms hidden under moss, quickmire (bog that looks like solid ground), or poisonous plants.
 Elven Bureaucracy: If they try a legal approach (petitioning for Trahald’s release), they’ll have to navigate elven law, diplomacy, and bribes — all while avoiding giving away the real reason they want him.
@@ -134,6 +112,7 @@ Security:
 Living root bars (flexible enough for elves to open via magic, rigid to all others).
 Guards in rotating pairs; no one stays at one post for more than two hours.
 Silent Alarm magic woven into the roots — breaking or damaging a root anywhere in the prison alerts the warden.
+
 NPCs:
 Warden Lathandriel — A strict but pragmatic elf who may be bribed with rare books or cultural relics.
 Other Prisoners — A human bard jailed for forbidden songs, an orc merchant accused of spying, a deserter from the elven army. These can be allies, distractions, or complications.
@@ -149,54 +128,11 @@ The Ambush: Intercept the transfer caravan on the road when Trahald is moved to 
 
 ### Veyrath Crossing, A bustling border city just outside the occupied zone, rebuilt on the ruins of a small pre-war trade town.
 
-- Name origin: derived from “Veyra,” an old Mordor word meaning “to endure,” and “Crossing” because it straddles the only safe pass out of the occupied zone.
-- Purpose: Serves as the campaign’s first “hub” — neutral-enough territory that agents, mercenaries, traders, and spies from all factions mix here.
+
 - Appearance: Built along both sides of a deep river gorge, connected by a massive stone bridge of pre-war design (rumored to be dwarven-engineered with Mordor’s science-magics).  
 Old architecture shows your people’s precision stonework, but patched with haphazard wood-and-mud extensions from post-war refugees.  
 
 - Tone & Atmosphere: On the surface, it’s bustling and mercantile — traders hawk goods, ferries move people across the river, guards stroll the bridge.
-Beneath the surface, there’s an underbelly of political dissent:
-Tavern back rooms where old veterans tell stories of the city before it fell.
-Smugglers running contraband past enemy patrols.
-Scholars collecting scraps of pre-war knowledge.
-The anti-Tharuk-Unrhetoric here is cautious:
-Not shouted in the square, but over mugs of bitter beer with the shutters closed.
-Locals call him “the Grey Vulture” or “Fire-Monger”
-
-#### Rumors and conversations:
-
-True
-“Caravans keep vanishing on the Old Forest Road — some say the trees themselves are taking them.”
-→ Leads to Great Forest quest (Hook A).
-“A river merchant named Iarwain is paying in silver gearwork trinkets for escorts upriver.”
-→ Leads to River-Keeper Valley quest (Hook B).
-“An old artificer’s been locked up in Imlaril’s tower — the mountain elves say he’s ‘dangerous.’”
-→ Leads to Silver Haven quest (Hook C).
-
-Partially True
-“Incanus himself was seen on the bridge two nights ago.”
-→ Actually an agent wearing a grey cloak, sent to stir fear.
-“The Grey Vulture’s searching for a ‘fire jewel’ to crown his staff.”
-→ The amulet isn’t a staff ornament, but this rumor plants suspicion.
-“The Great Forest is safe now — a caravan came through last week without incident.”
-→ That caravan bribed the elves; still dangerous for anyone else.
-“Someone in the Archive of Ashes is hiding a pre-war map of the city.”
-→ True, but it’s incomplete and possibly booby-trapped with protective runes.
 
 
-#### Hooks:
 
-Hook A: The Vanishing Caravans
-Destination: The Great Forest (Mirkwood).
-In-universe premise: Merchants complain that caravans of goods and refugees keep disappearing when taking the old forest road. The missing goods were bound for rebel enclaves in the north.
-Tolkien tie-in: Leads to Mirkwood, spider encounters, and the shrine depicting the amulet as a relic of control.
-
-Hook B: The Odd River Merchant
-Destination: River-Keeper valley (Tom Bombadil).
-In-universe premise: A colorful merchant is looking for armed escorts upriver to his “little patch of paradise.” He claims he can’t pay in coin, but has “something older and truer” that might interest scholars.
-Tolkien tie-in: Leads to Tom Bombadil reimagined; the “something older” is a gear-map fragment pointing toward other leads.
-
-Hook C: The Sealed Workshop
-Destination: Silver Haven (Rivendell).
-In-universe premise: A contact says a master artisan — possibly the last who knows your people’s alloy-forging secrets — is imprisoned in a mountain fortress.
-Tolkien tie-in: Infiltration into Rivendell reimagined; discovery of stolen Mordor tech.
