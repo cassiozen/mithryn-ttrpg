@@ -37,7 +37,7 @@ Penalties usually range from +2 (hard) up to +4 (extremely hard), but the GM can
 
 If the player rolls **doubles** (both dice showing the exact same number), it is considered an **automatic success**, regardless of whether the total meets the Target Number. Still, higher doubles generally indicate stronger results.
 
-Low Doubles (1s and 2s): Still a success, but a close call. The GM might determine that it comes with a cost or a consequence, or minor setback alongside the success.
+Low Doubles (1s, 2s and 3s): Still a success, but a close call. The GM might determine that it comes with a cost or a consequence, or minor setback alongside the success.
 
 High Doubles (10s, 11s, or 12s): These count as a **critical success**. The action not only succeeds, but does so in an especially powerful, impressive, or advantageous way, determined by the GM.
 
