@@ -372,20 +372,46 @@ In the character sheet, your HP is represented as boxes that you tick as you get
 Your character levels up whenever the GM decides you’ve reached a narrative milestone (usually about every 3 sessions).
 
 There are a total of 10 PC levels divided into 4 ranks:
+
 → Rank 1 encompasses levels 1-2.
 → Rank 2 encompasses levels 3–5.
 → Rank 3 encompasses levels 6–8.
 → Rank 4 encompasses levels 9–10.
 
-For every level increase, choose to increase either one of your ability scores or your hit points by 1.
+### Gaining a Level
 
-If you choose to increase an ability, update that score in the character sheet (don’t forget to update that ability’s TN as well).
+Whenever your character gains a level, choose one of the following benefits:
 
-If you choose to add a 1 Hit Point slot: Darken the outline of the next rectangle to the left in the Hit Point section of your character sheet.
+- +1 Ability Score (and recalculate that Ability’s TN = 20 − new score), or
+- +1 Hit Point slot (add another empty box to your HP track), or
+- +1 Inventory slot, or
+- Broaden a Tag (expand an existing Tag to cover more situations)
 
-Every time you reach a new rank:
+### Reaching a New Rank
 
-- Gain one more inventory slot
-- Add a new Tag to your character or broaden an existing one.
-- Update your DF (Defense): new Rank + DF bonus from your armor.
+At Level 3, 6, and 9, you advance into a new Rank. This comes with extra rewards:
 
+First, take note of the new Rank in the character sheet and Update the Defense (DF): DF = Rank + Armor Bonus
+
+Next, choose one of the following, instead of a normal level-up option:
+
+- Gain a new Tag (a fresh specialty, quality, or talent), or
+- Ease a Complication (reduce or resolve one that has burdened you)
+
+
+### Broadening tags, easing complications
+
+When you broaden a tag, you’re letting it grow with your character’s experiences. A tag that once applied in narrow circumstances can now reach further — but it should still stay flavorful and specific.
+
+- Build on what’s there: Think of situations you’ve actually played through. How has your character’s story stretched this trait?
+- Stay concrete: Don’t turn “Locksmith’s Touch” into “Good with everything.” Instead, you might expand it into “Master of Locks and Mechanisms,” reflecting both doors and traps you’ve worked through in play.
+- Keep the edge: Broadening doesn’t erase limits. A broadened tag should still feel like it applies strongly in some cases and not at all in others.
+
+Example: “Animal Whisperer” might broaden to “Beast-Bonded,” after the character learns to handle not just horses and hounds, but also wild or magical creatures.
+
+When you ease a complication, you’re showing how your character has faced a burden and either learned to manage it or partially resolved it.
+
+- Leave a trace: Complications rarely vanish entirely. Easing doesn’t mean erasing — it means lessening their weight or narrowing their impact.
+- Make it earned: Tie the change to something that happened in play — a choice, sacrifice, or breakthrough.
+
+Example: “Wanted in Three Cities” might shrink to “Watched in One City,” as the character clears their name in most places but remains under suspicion in their hometown.
