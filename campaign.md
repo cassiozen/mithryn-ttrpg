@@ -43,13 +43,6 @@ As a Smuggler: He can move items or people across borders, blending them in with
 
 As a Witness: His dreams of the amulet make him a rare mortal who has felt its presence, though he only understands fragments.
 
-### Hooks
-
-The Unmarked Crate: One of Trahald’s hidden relics has gone missing. Was it stolen, or did he plant it deliberately?
-
-The Road South: He invites the PCs to join his caravan, but warns that inquisitors have been watching more closely this year.
-
-The Cave Sealed: The cave where he dreamed has collapsed — but Trahald insists something still stirs within, and asks the PCs to help unearth it.
 
 
 ## Tomael of the Hollow Ways
