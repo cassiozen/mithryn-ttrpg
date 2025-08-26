@@ -28,12 +28,19 @@ When a character attempts an action that is risky, dramatic, or challenging, the
 
 ### Difficulty penalties
 
-When the GM deems some action to be particularly difficult, they can impose a “difficulty penalty”, a number that adds to the TN, making it harder to reach.
+When the GM deems some action to be particularly difficult, they can impose a “difficulty penalty”, a number that adds to the Target Number (TN), making it harder to succeed.
+
+Penalties usually range from +2 (hard) up to +4 (extremely hard), but the GM can set it at their discretion.
 
 
-### Critical Success
+### Automatic Success on Doubles
 
-If the player rolls **doubles** (both dice showing the exact same number), it is a **critical success**, regardless of whether the total meets the TN. The action succeeds in a particularly effective or advantageous way, determined by the GM.
+If the player rolls **doubles** (both dice showing the exact same number), it is considered an **automatic success**, regardless of whether the total meets the Target Number. Still, higher doubles generally indicate stronger results.
+
+Doube ones: Still a success, but a close call. The GM might determine that it comes with a cost or a consequence, or minor setback alongside the success.
+
+High Doubles (10s, 11s, or 12s): These count as a **critical success**. The action not only succeeds, but does so in an especially powerful, impressive, or advantageous way, determined by the GM.
+
 
 ### Advantage and Disadvantage
 
