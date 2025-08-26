@@ -130,15 +130,9 @@ When a player comes with a tag that seems too broad or impractical, you can use 
 - Say yes, but sharpen: If a player offers “Smart”, ask: “In what way? Book-smart, streetwise, or sharp-tongued?”
 - Instead of “no” say: “That feels a bit too broad. What if we trim it down?”
 
-
-
-
-
 ##### Encourage growth.
 
 Remind players that tags can evolve. It’s fine to start rough and narrow, then reshape/ broaden as the character develops.
-
-
 
 ---
 
@@ -169,6 +163,7 @@ Attack: A PC with Bounty Hunter is fighting an enemy who tries to slip away. The
 Complications are the shadow side of tags. They bring friction, spotlight characters, and keep the story dynamic.
 
 #### Why They Matter
+
 - They **add drama**, forcing choices that pure success cannot.  
 - They **tie characters to the world**, through debts, reputations, flaws.  
 - They **make victories sweeter**, because success came with struggle.  
@@ -212,15 +207,16 @@ Tags are rewards, not participation trophies. A character might earn one every f
 Don’t overdo it — too many tags dilute their value. When the sheet starts feeling crowded, encourage players to retire or evolve older tags.
 
 #### “Granting” a complication
+
 New complications can also emerge during gameplay. If the defining moment carried a cost or consequence, make the new tag a complication instead.
 
 Ask yourself:
 
 - Did the moment leave a cost? Even in victory, did the character take on a burden?
 - Does it change how the world sees them? Reputation, notoriety, or obligation can stick.
-- Will it add tension later? 
+- Will it add tension later?
 
-If yes, shape it into a complication. 
+If yes, shape it into a complication.
 
 
 ##### Group Complications
@@ -309,8 +305,17 @@ But even without training, a person can sometimes attune instinctively. A bearer
 ### What This Means in Play
 
 - Magic is not scarce; it is hidden.
-- No innate spellcasters. Characters are not wizards casting fire balls.
-- Magical objects exist - and at your discretion, the PCs get in touch with them.
+- Magic is not a power characters can study or cast at will. PCs may, however, discover magical items, but they can never simply “be spellcasters.”
+- Think of magic as a resource tied to objects and resonance:
+  - Objects hold the power.
+  - Resonance (the bearer’s alignment to the object’s purpose) determines whether that power can be used.
+
+
+### How to Use This as GM
+
+- Introduce items sparingly. Each should feel significant, not disposable loot.
+- Set attunement triggers. Don’t let items just “switch on.” Require the PC to act in alignment with the item’s nature.
+- Reward roleplay. Attunement should click when the player makes a choice that matches the item’s resonance.
 
 ### Sample magical objects:
 
@@ -345,5 +350,12 @@ A silver lantern whose flame never dims. Its light does not brighten a room but 
 Attunement trigger: Curiosity: the bearer chooses the path of persistence in finding what's hidden
 Effect: The lantern grants Advantage on navigation/tracking/investigation check for the bearer.
 
+- Mantle of Grey Feathers
+A weathered cloak with pale feathers stitched into its hem. When worn, shadows seem to cling longer around the figure.
+Trigger: Bearer chooses stealth over confrontation.
+Effect: Grants Advantage on stealth rolls until detected.
 
-
+- Circlet of the Clear Eye
+A thin silver band, almost weightless, engraved with stars.
+Trigger: Bearer focuses to perceive what others miss.
+Effect: +2 to Insight. This lowers INS TN by 2 for all Insight checks.
