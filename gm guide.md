@@ -85,36 +85,34 @@ At its heart, the amulet guards the most luminous truth: that magic belongs to e
 
 To Tharuk-Un, the Grey Vulture, the amulet represents unmaking: a key that would open every locked door he keeps, a voice that would teach every tongue the words he forbids. He hunts it without rest and will do everything in his power to destroy it.
 
-
 ## Tags
 
-Tags are the most flexible part of this game. They define a character’s edge in the fiction and give mechanical weight to the things that make them unique. They also set up complications that keep the story moving. Because tags are open-ended, your role as GM is to help players create tags that are flavorful, balanced, and fun to use.
+Tags are the most flexible part of this game. They define what makes characters unique — their edges, flaws, and quirks — and give those traits real weight in the fiction.
 
-This section gives you practical tools for guiding players during character creation and ruling on tags during play.
+Because tags are open-ended, the GM will often need to help players create sharp, flavorful tags and to judge fairly when they apply.
+
 
 ### Facilitating Tag Creation
 
-Players will come to the table with different levels of clarity. Some may have a tag in mind already, others may need prompting. Your job is to help them sharpen vague ideas into usable tools.
+Players will come to the table with different levels of clarity. Some may have a tag in mind already, others may need prompting. Your role is to help them sharpen vague ideas into usable tools.
 
-#### Start with questions.
+#### Ask Questions
 
-Ask: “What do people say about your character?”, “What skill did you learn the hard way?”, or “What trouble always seems to find you?” Questions pull players toward story-rich tags.
+Guide players with prompts like:
+
+- “What do people say about your character?”
+- “What skill did you learn the hard way?”
+- “What trouble always seems to find you?”
 
 #### Encourage flavor before mechanics.
 
 A good tag sounds like something you’d hear in the world: “Curses at cats, but horses obey”, “Debt to a dangerous patron”, “Trained by the River Knights.” The rules will take care of themselves.
 
-#### Check for variety.
+Avoid mechanical shorthand like *“Good at persuasion”*.
+
+#### Check for variety
 
 Encourage players to spread their three standard tags across different areas — not all stealth, or all social, or all gear. This makes for richer play.
-
-#### For complications, go juicy.
-
-A good complication creates hooks: debts, vows, flaws, curses. If a complication never bites, it’s not doing its job.
-
-#### Judging Tags: What to Allow
-
-Tags are meant to be flexible and player-driven, but you are the final guardrail. Your goal isn’t to limit creativity, but to keep it sharp. A good tag is both a tool for the player and a hook for you to weave into the story.
 
 ##### Red Flags
 
@@ -125,38 +123,32 @@ Watch for these common pitfalls:
 - Tags that prevent play (“Never fails at persuasion”).
 - Complications that never show up (“Mild fear of bugs”).
 
-##### Say yes, but sharpen.
 
-If a player offers “Smart”, ask: “In what way? Book-smart, streetwise, or sharp-tongued?”
+When a player comes with a tag that seems too broad or impractical, you can use two techniques: "Yes, but" and "what if":
 
-##### Frame as questions.
 
-If you’re unsure about a tag, ask: “When would this apply?” If the player struggles, it needs refining.
+- Say yes, but sharpen: If a player offers “Smart”, ask: “In what way? Book-smart, streetwise, or sharp-tongued?”
+- Instead of “no” say: “That feels a bit too broad. What if we trim it down?”
 
-##### Reserve the veto, but soften it.
 
-Instead of “no,” say: “That feels a bit too broad. What if we trim it down?”
+
+
 
 ##### Encourage growth.
 
 Remind players that tags can evolve. It’s fine to start rough and narrow, then reshape/ broaden as the character develops.
 
-#### Complications
-
-Complications are the shadow side of tags. They make characters more interesting, the story more dynamic, and success feel earned. If tags are a spotlight, complications are the dramatic shadows that give the scene depth.
-
-##### Why Complications Matter
-
-- They keep things moving. Complications create friction, forcing choices and drama that simple success can’t.
-- They tie characters to the world. A debt, a curse, or a flaw isn’t just personal — it’s a hook for NPCs, factions, and story arcs.
-- They make victories feel sweeter. Overcoming a setback has more weight than cruising through unopposed.
-
-A well-designed complication is never just a penalty. It’s an invitation to play.
 
 
-### Tags in Play
+---
 
-Tags are deliberately flexible. They define what makes a character distinct, but their open wording means the GM must decide when they work during gameplay — both as strengths and as complications. A good ruling on a tag makes the fiction feel sharper, keeps rolls meaningful, and reinforces the unique identity of the character.
+### Judging Tags in Play
+
+Tags are intentionally open-ended. That means you must decide when they apply, both as strengths and as complications.
+
+#### Good Rulings
+
+A good ruling on a tag makes the fiction feel sharper, keeps rolls meaningful, and reinforces the unique identity of the character.
 
 #### Tips for Smooth Adjudication
 
@@ -172,14 +164,25 @@ Ability Check: A player with the tag Circus Performer is trying to climb a crumb
 
 Attack: A PC with Bounty Hunter is fighting an enemy who tries to slip away. The GM allows the tag to apply, counting one of the attack dice as an automatic hit.
 
-#### Putting complications to play
+### Complications in Play
 
-- Keep track of your PCs complications and keep them active. Look for natural opportunities to bring it into play.
-- Use complication as spotlight tools. Triggering someone’s complication isn’t about punishing them — it’s about pulling them into the center of the story.
+Complications are the shadow side of tags. They bring friction, spotlight characters, and keep the story dynamic.
+
+#### Why They Matter
+- They **add drama**, forcing choices that pure success cannot.  
+- They **tie characters to the world**, through debts, reputations, flaws.  
+- They **make victories sweeter**, because success came with struggle.  
+
+#### GM Practices
+
+- **Keep Them Active**: Keep track of the PC’s complications and look  for natural opportunities to bring them into play.
+- **Spotlight tool**: Use complication as spotlight tools. Triggering someone’s complication isn’t about punishing them — it’s about pulling them into the center of the story.
+
+---
 
 ### Awarding New Tags
 
-Tags aren’t only chosen at character creation — they can also be earned in play. When a player does something extraordinary, the story itself can leave a mark on their character sheet.
+Tags aren’t fixed at character creation. They can be earned in play. When a player does something extraordinary, the story itself can leave a mark on their character sheet.
 
 #### When to Grant a New Tag
 
@@ -191,7 +194,7 @@ Give a player a new tag when three things line up:
 
 If all three apply, you may award a new tag that captures the essence of what just happened.
 
-#### How to Phrase the Tag
+#### How to Phrase It
 
 - Keep it grounded in the fiction: “Stared Down the Crimson Duke” instead of “Intimidation”.
 - Use the table’s words: if the group is joking that the character “always finds the back door,” that might become the tag.
@@ -208,17 +211,17 @@ If all three apply, you may award a new tag that captures the essence of what ju
 Tags are rewards, not participation trophies. A character might earn one every few sessions, or only a handful across a whole campaign.
 Don’t overdo it — too many tags dilute their value. When the sheet starts feeling crowded, encourage players to retire or evolve older tags.
 
-#### “Awarding” a complication
+#### “Granting” a complication
+New complications can also emerge during gameplay. If the defining moment carried a cost or consequence, make the new tag a complication instead.
 
-Remember that complications can also emerge during gameplay. If the defining moment carried a cost or consequence, make the new tag a complication instead.
-
-##### When to Add a Complication
-
-A complication should be awarded when an action or outcome leaves behind a scar, promise, or twist that will echo forward. Ask yourself:
+Ask yourself:
 
 - Did the moment leave a cost? Even in victory, did the character take on a burden?
 - Does it change how the world sees them? Reputation, notoriety, or obligation can stick.
-- Will it add tension later? If it creates fun hooks for you as GM, it’s a good complication.
+- Will it add tension later? 
+
+If yes, shape it into a complication. 
+
 
 ##### Group Complications
 
