@@ -1,8 +1,9 @@
 # System Design Principles
 
-## Compact, Not Thin
+## Player-Centered Dice
 
-A compact system should be unified and consistent: a small number of mechanics that apply across many situations. Compact design avoids bloat and redundancy, but this does not mean rules-light. Depth comes from how rules interlock, not from piling on subsystems.
+I believe that players should always know what number they’re aiming for: This empowers informed decisions. Roll-under mechanics achieve this, but can feel alien since in virtually every dice game higher = better.
+Target Numbers bridge that gap - They require a pre-calculation when creating the character, but makes the gameplay simple, transparent, and intuitive.
 
 ## Swift Resolution
 
@@ -11,11 +12,6 @@ Dice rolls should resolve a situation in a single moment. One roll determines bo
 ## Classless Characters
 
 A character’s role is not dictated by rigid archetypes. Instead, choices, and lived experiences shape their specialties. Players are free to evolve their characters organically, without being locked into a class track.
-
-## Player-Centered Dice
-
-I believe that players should always know what number they’re aiming for: This empowers informed decisions. Roll-under mechanics achieve this, but can feel alien since in virtually every dice game higher = better.
-Target Numbers bridge that gap - They require a pre-calculation when creating the character, but makes the gameplay simple, transparent, and intuitive.
 
 ## Emergent Narrative, Not Forced Narrative
 

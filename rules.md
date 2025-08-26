@@ -24,7 +24,7 @@ TN = 20 - Ability Score
 
 ## Ability Checks
 
-When a character attempts an action that is risky, dramatic, or challenging, the GM asks for a specific ability check. The player then rolls **2d12** and adds any applicable **Rank bonus** from Tags. If the result is **equal to or greater than** that ability’s TN, the action succeeds.
+When a character attempts something risky, dramatic, or challenging, the GM may call for an ability check. If a relevant tag applies, lower the TN by your Rank. The player then rolls **2d12**: If the result is **equal to or greater than** that ability’s TN, the attempt succeeds.
 
 ### Difficulty penalties
 

@@ -149,7 +149,7 @@ To assign your ability scores, distribute the following numbers between your att
 
 Whenever you try something risky, dramatic, or simply difficult within the game, you’ll roll the dice to see if your character pulls it off.
 
-The Target Number (TN) is the threshold you need to meet or beat with your roll for your action to succeed.
+The Target Number (TN) is the threshold you need to meet or beat with your roll for your attempt to succeed.
 
 A low TN means your character is skilled in that area — it’ll be easier to succeed.
 
@@ -180,9 +180,9 @@ You start the game with four tags:
 
 #### How Tags Work
 
-When a tag is clearly relevant to your action, it gives a bonus to the ability check roll equal to your rank (making success easier).
+When a tag is clearly relevant to what the PC is attempting, it lowers the target number (TN) of the roll by the PC's rank (making success easier).
 
-Example: Ariad has Rank 2 and the tag Animal Whisperer. Calming a frightened horse normally calls for a Presence roll with TN 14. She rolls 12, but since her tag applies, she applies +2 to the roll and succeeds.
+Example: Ariad has Rank 2 and the tag Animal Whisperer. Calming a frightened horse normally calls for a Presence roll. Her Presence TN is 14, but since the tag clearly applies, she lowers it to 12. She rolls 12 and succeeds.
 
 #### Complications
 
@@ -342,7 +342,7 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
   Ability Direction: You must assign at least 8 STR to wield the battleaxe and 6 AGI for the shortbow. This kit pushes you to cover both physical extremes.
 
 - **Healer** – Wandering cleric or monk devoted to aiding
-  Mace: Min STR 5, Damage 2d12 (Rushed 1d10), Two-handed, Magical focus
+  Mace: Min STR 5, Damage 2d12 (Rushed 1d10), Two-handed
   Chain Mail: +5 DF
   Healer’s kit (3 uses)
   15 gold pieces remaining
