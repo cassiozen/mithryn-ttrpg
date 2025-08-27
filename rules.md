@@ -44,13 +44,22 @@ High Doubles (10s, 11s, or 12s): These count as a **critical success**. The acti
 
 ### Advantage and Disadvantage
 
-Sometimes characters have situational benefits or hindrances (environmental effects, clever planning, etc). At the GM discretion, they can ask the players to roll with advantage or disadvantage.
+Sometimes characters have situational benefits or hindrances (environmental effects, clever planning, etc). At the GM discretion, they can ask the players to roll with advantage.
 
-- **Advantage:** Roll **3d12** and take the two highest dice before summing.
+To do this, roll 1 additional die of the same type and remove the lowest (see examples below). Alternatively, if the situation is grim or your idea is a long shot, you may have to roll with disadvantage (removing the highest die instead).
 
-Example: Michael rolls 3d12 for a 6, 6, and 9: His sum is 15 (9+6). Note that even though Michael had doubles (double 6), they don’t count as a Critical Success because they were not the 2 highest rolls. If Michel had rolled 6, 9, and 9 (double 9s), then it would have counted as a critical success.
 
-- **Disadvantage:** Roll **3d12** and take the two lowest dice before summing.
+Advantage example:
+Sorel the rogue sneaks across a creaky wooden floor, but she sprinkled sand to muffle the noise. The GM grants advantage, so she rolls 3d12 for her Agility check and keeps the two highest dice.
+
+Note that doubles only count if they are the two highest rolls. In the example above, if Sorel rolled 6, 6 and 9, she would have removed one of the sixes, for a total of 6 + 9 = 15.
+
+
+Disadvantage example:
+Thorig tries to shove open a gate while arrows rain down on him. The GM gives him disadvantage, so he rolls 3d12 for his Strength check and keeps the two lowest dice.
+
+
+Advantage and disadvantage can also apply in combat: When you have advantage on an attack (due to clever tactics, flanking, or favorable conditions), roll one extra die of the same type as your weapon’s Damage dice, then discard the lowest die before counting hits. With disadvantage, roll one extra die and drop the highest. For complete combat rules, check the next chapter: Combat.
 
 ---
 
