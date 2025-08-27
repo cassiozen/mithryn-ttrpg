@@ -7,8 +7,8 @@
 - **Ability Check:** Roll 2d12. If total ≥ TN, you succeed. If a relevant Tag applies, **reduce TN by your Rank**.
 - **Difficulty Penalty:** GM may add **+1 to +4** to TN for unusual obstacles.
 - **Doubles:** If both dice show the same number, it’s an automatic success (low doubles = success w/ cost; 10–12 = critical success). Only roll if success is plausible.
-- **Advantage:** Roll 3d12, keep 2 highest. Doubles count only if they’re the two selected dice.
-- **Disadvantage:** Roll 3d12, keep 2 lowest. Doubles count only if they’re the two selected dice.
+- **Advantage:** Roll 1 additional die of the same type and remove the lowest. For Ability checks, doubles only count if they’re the two remaining dice.
+- **Disadvantage:** Roll 1 additional die, remove the highest. Doubles count only if they’re the two selected dice.
 
 ---
 
