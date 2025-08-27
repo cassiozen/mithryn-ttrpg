@@ -68,7 +68,7 @@ Note: A PC must declare that they are interposing when the attack is announced, 
 
 ### Help
 
-Grant an ally automatic hits if the player can reasonably explain to the GM how you could help in a given situation. The GM may call for an attribute check or grant it automatically, depending on how good the idea is. A number of the ally’s weapon dice equal to the helper's rank automatically hit without having to roll.
+Grant an ally automatic hits if the player can reasonably explain to the GM how you could help in a given situation. The GM may call for an attribute check or grant it automatically, depending on how good the idea is. Grants advantage to the ally’s attack roll.
 
 ---
 
