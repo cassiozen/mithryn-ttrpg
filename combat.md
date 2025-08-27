@@ -109,97 +109,113 @@ Besides these commom tags, some weapons can have unique tags (with unique mechan
 ### Party (Rank 1):
 
 - **Kael**
-  STR 7, AGI 6, FIN 4.
-  HP 7, DF 5. Weapon: Dagger (1d10 / 1d10).
+  STR 6 (TN 14), AGI 8 (TN 12), FIN 10 (TN 10)
+  HP 6, DF 5
+  Weapon: Rapier 2d12 (Rushed 1d10)
+  Armor: leather (+4)
+
+- **Brynn**
+  STR 7, AGI 8 (TN 12)
+  HP 7, DF 5
+  Weapon: Longbow 2d10 (Rushed 1d12), Ranged
+  Armor: leather (+4)
 
 - **Sira**
-  Tag: Animal Whisperer
-  PRE 7, AGI 6, FIN 6.
-  HP 6, DF 5. Weapon: Short Sword (2d12 / 1d12).
+  STR 10 (TN 10), AGI 6 (TN 14)
+  DF 7, HP 10
+  Weapon: Battleaxe 3d12 (Rushed 1d10), Two-handed
+  Armor: Plate (+6)
 
-- **Boris**
-  STR 7, AGI 6.
-  HP 6, DF 4. Weapon: Longbow (2d10 / 1d12).
 
 ### Foes:
 
-- **Brigand Leader** — HP 8, DF 5. Weapon: Short Sword (2d12 / 1d12).
-- **Brigand Minion A** — HP 4, DF 5. Weapon: Dagger (1d10 / 1d10).
-- **Brigand Minion B** — HP 4, DF 5. Weapon: Dagger (1d10 / 1d10).
+- **Brigand Leader** (chain) → DF 6, HP 7
+  Broadsword 3d12 (Rushed 1d10)
+- **City Spearman** (leather) → DF 5, HP 5
+  Spear 2d12
+- **City Archer** (leather) → DF 5, HP 5
+  Shortbow 1d10
 
+The GM declares, “We’re in combat. Zones are: Collapsed Archway (where brigands are), Causeway (where you stand now, the open approach), Rubble Pile (to the side, uneven footing).”
 
-The GM declares, “We’re in combat. Zones are: Collapsed Archway (where brigands are), Causeway (where you stand), Rubble Pile (to the side, difficult footing).”
+### Round 1 — Seize Momentum
 
-### Round 1 (Opening Round — AGI check to act)
+Each PC rolls an Agility check (2d12 vs their AGI TN) to see if they act with 2 actions or only 1 this round.
 
-Kael: AGI 6 → TN 14. Rolls 8+5=13 → fail, loses turn.
- GM: “You stumble as the brigands spring out.”
-Sira: AGI 6 → TN 14. Rolls 10+9=19 → success.
-Boris: AGI 6 → TN 14. Rolls 6+8=14 → success.
+- **Kael** rolls 9 vs TN 12 → fail → 1 action this round.
+- **Brynn** rolls 6+6 = doubles → automatic success → 2 actions.
+- **Sira** rolls 15 vs TN 14 → success → 2 actions.
 
-#### Player turns
+#### Player Turn
 
-Sira: Moves into Collapsed Archway zone (1 action) and talks to the brigand leader: “No need for blood — we’ve coin.” (1 action) 
-GM calls for a Presence check (TN 13, since PRE = 7). Rolls 2d12 = 5+7 = 12 → fail.
-GM: “The brigand leader hesitates, eyeing the silver pouch you flash.”
+Brynn: Moves to the Rubble Pile to flank (1 action) and shoots from his longbow.
+Attack (2d10 → 9, 5 vs DF5) → 2 hits. Spearman HP 5→3.
 
-Borin: Moves to the Rubble Pile to flank and shoots from his long bow.
-Rolls: 12 (hit+explode) and 7. Rolls explosion die → 11 (another hit). Total of 3 hits.
-Total = 3 hits. Minion A HP 4 → 1.
-Boris can't make a rushed attack because he already used his two actions for this turn.
+Kael: Kael darts forward to the Collapsed Archway, rapier flashing in the dim torchlight. He only has one action, so no attacks this turn.
 
-#### Enemy turns
+Sira: With a roar, Sira charges alongside Kael (first action), swinging her battleaxe in a heavy arc at the Spearman (second action).
+Attack (3d12 → 5, 8 and 12 (explodes); Explosion extra roll 4) → 3 hits. Spearman HP 3→0 (drops).
 
-Leader attacks Sira (same zone) with Short Sword (2d12). Rolls 10 (hit) and 8 (hit). 
-Sira HP 6 → 4.
+#### Enemy Turn
 
-Minion A (HP 1) stabs Sira with Dagger (1d10). Rolls 6 (hit). Sira HP 4 → 3. She enters Wounded.
-GM: “The blade cuts deep. You’re Wounded now — you’ll roll with disadvantage until healed.”
+GM: “The brigand leader steps forward with surprising speed, broadsword flashing.”
 
-Minion B rushes Kael with Dagger. Rolls 4 (miss).
+Brigand Leader: Attacks Kael (DF5):
+Attack (3d12 → 6,4,9) → 2 hits. Kael HP 6→4.
 
-### Round 2 (PCs then enemies)
+Archer targets Brynn (DF5):
+Shot (1d10 → 5) → 1 hit. Brynn HP 7→6.
 
-#### Player turns
+End of Round 1 Status
+PCs: Kael 4/6, Brynn 6/7, Sira 10/10
+Foes: Brigand Leader 7/7, Archer 5/5, Spearman 0/5 (dead)
 
-Sira: Tries to command the brigand’s horse tied nearby (Tag: Animal Whisperer).
-GM says Presence check (TN 13), and Tag applies (+1 for the roll).
+### Round 2
 
-Since she's wounded, she rolls with disadvantage: 3d12=7,5,10 → 12 total → success.
+#### Player Turn
 
-GM: The horse breaks free, running over one of the brigadeers.
-There are no splicit rules for damage by animals, but Minion A only had 1 HP left so the GM declares he's down.
+Brynn declares he will use both his actions in this turn to attack and looses arrows at the brigand leader.
+Shot 1 (2d10 → 10,2; explode 7) → 2 hits. Brigand Leader HP 7→5.
+Shot 2 (rushed 1d12 → 5 < DF6) → 0 hits.
 
-Kael: Attacks Leader with Dagger.
-Attack 1: d10=10 (auto-hit+explode). Explosion=4 (miss). → 1 hit.
-Attack 2 (Rushed 1d10): d10=6 (hit). → 1 hit.
-Total: 2 hits. Leader HP 8 → 6.
+Kael: Steadies his rapier and thrusts again.
+Attack 1: (2d12 → 1 reroll→3, 9) → 1 hit. Brigand Leader HP 5→4.
+Attack 2: (1d10 → 3) → 0 hits.
 
-Boris: Fires at Leader
+Sira: Attacks Brigand Leader
+Attack 1: (3d12 → 7,2,3) → 1 hit. Brigand Leader HP 4→3.
+Attack 2: (1d10 → 8) → 1 hit. Brigand Leader HP 3→2.
 
-Attack 1: Longbow 2d10=9 (hit), 5 (hit) → 2 hits.
-Attack 2 (Rushed 1d12)=7 (hit) → 1 hit.
-Total: 3 hits. . Leader HP 6 → 3.
+#### Enemy Turn
 
+GM announces that the brigand leader will attack Kael again.
 
-#### Enemy turns
+Sira declares Interpose (reaction), ready to shield Kael if struck.
 
-The GM announces that the Brigand Leader, bloodied but stubborn, tries to finish Sira.
-Kael declares Interpose (Reaction).
+Brigand leader Attack vs Sira (DF7): (3d12 → 5,7,12; explode 6) → 2 hits. Sira HP 10→8.
 
-Leader attacks Kael: 2d12=9,10 → 2 hits. Kael HP 7 → 5.
-(Kael will have only 1 action next turn.)
+GM: “The brigand leader's blade crashes into you, Sira, but Kael is spared. You’ll start next turn with only one action.”
 
-Minion B stabs Kael: d10=3 (miss).
+Archer at Kael (DF5):
+Shot (1d10 → 6) → 1 hit. Kael HP 4→3.
+
+GM: “You’re Wounded now — Ability Checks are at disadvantage, and you only have one action per turn.”
+
+End of Round 2 Status:
+PCs: Kael 3/6 (Wounded), Brynn 6/7, Sira 8/10 (used reaction)
+Foes: Brigand leader 2/7, Archer 5/5
 
 ### Round 3
 
-#### Player turns
+#### Player Turn
 
-Kael (only 1 action, due to Interpose): Attacks Leader with Dagger. d10=10 (auto-hit+explode). Explosion=7 (hit). → 2 hits.
-Leader HP 3 → 1.
+Brynn Attacks the leader.
+Shot 1 (2d10 → 7, 3) → 1 hits. Leader HP 2→1.
+Shot 2 (rushed 1d12 → 2) → 0 hits.
 
-Sira (Wounded → 1 action): Slashes Leader with Short Sword (2d12). Rolls 8 (hit), 2 (miss) → 1 hit.
-Leader HP 1 → 0 (down).
+Kael (1 action, Wounded):
+Bloodied but unbowed, he lunges at the leader.
+Attack (2d12 → 10,2) → 1 hit. HP 1→0 (dead).
 
-As the Leader collapses, the last brigand flees.
+GM: “The Brigand leader falls, clutching at the wound. Seeing their captain collapse, the archer falters. His nerve breaks and he flees”
+
