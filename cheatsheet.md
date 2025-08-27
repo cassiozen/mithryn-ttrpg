@@ -17,7 +17,7 @@
 - **Tags:** Specific traits (skills, qualities, quirks). When relevant:
   - **Ability Check:** Reduce TN by Rank.
   - **Attack Roll:** One damage die automatically counts as a hit.
-- **Complications:** Negative tags. When relevant, increase TN by Rank.
+- **Complications:** Negative tags. Mostly narrative, but when relevant, increase TN by Rank.
 
 ---
 
@@ -31,4 +31,4 @@
 - **Reactions (cost 1 next-turn action):**
   - **Defense (shield):** Cancel 1 hit.
   - **Interpose:** Take a hit meant for an ally in same zone.
-  - **Help:** If justified, a number of ally’s weapon die equal to helper's rank automatically counts as a hit.
+  - **Help:** If justified, give advantage to ally’s next attack.
