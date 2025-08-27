@@ -284,7 +284,7 @@ Use these lists for inspiration — they’re not exhaustive, but they can help 
 
 Your equipment defines not only how you fight but also how you defend yourself. At character creation, you’ll choose your starting weapons and armor (plus any other gear you may see fit):
 
-- **Weapons** determine how many dice you roll when attacking. Weapons can have a minimum strength requirement.
+- **Weapons** determine how many dice you roll when attacking. Weapons can have a minimum ability score requirements.
 - **Armor** helps avoid incoming attacks by increasing your character’s Defense score, a number that determines how high an attacker must roll for you to take damage (More on Defense below).
 
 #### Inventory
@@ -305,49 +305,74 @@ At character creation, you begin with 50 gold pieces to spend on weapons, armor,
 
 #### Starting Kits
 
-These packs represent common backgrounds and loadouts for adventurers in this world. You may adjust small details (swap a dagger for a handaxe, rope for chain, etc.) with GM approval.
+Choosing gear can feel overwhelming for new players, especially with limited gold, limited inventory slots and weapons with ability requirements.  
+Starter kits are suggested gear packs built around familiar types of characters. They include the weapon and armor requirements you’ll need to meet and how much coin you’ll have left.
 
-- **Knight Errant** – Wandering champion sworn to a cause
-  Broadsword (Bulky): Min STR 9, Damage 3d12 (Rushed 1d10), Bulky, Two-handed
-  Shield: +1 Defense
-  Chainmail: +4 Defense
-  Lantern & 3 flasks of oil
-  10 gold pieces remaining
-  Ability Direction: You must assign at least 9 STR to wield the broadsword. AGI or FIN can be lower — this kit leans on raw toughness and presence.
 
-- **Warden of the Wilds** – Ranger, scout, and protector of the borderlands
-  Longbow: Min STR 7 + AGI 6, Damage 1d20 (Rushed 1d12), Bulky, Ranged
-  Hunting Knife: Min FIN 4, Damage 1d10
-  Padded Leather Armor: +3 Defense
-  Rope (50 ft)
-  Snare kit
-  15 gold pieces remaining
-  Ability Direction: To use the longbow, you must assign 7 STR and 6 AGI. This makes the kit best for balanced builds rather than extremes.
+- **Adventurer**: All-purpose explorer with a balance of melee and ranged.  
+  Requirements: STR 4+ (Short Sword), AGI 6+ (Shortbow)  
+  Wepons: Short Sword 2d12 (Rushed 1d10); Shortbow 1d10 (Rushed 1d10)  
+  Armor: Chainmail (+4)  
+  What else you get: Backpack, Waterskin.  
+  Leftover: 4 gp  
+  Variation: Swap Chainmail for Padded armor to free gold for Rope, Flint & Steel and Torches without changing playstyle.
+  
+- **Guardian**: Protective frontliner who holds the line and keeps allies safe.  
+  Requirements: STR 5+ & AGI 5+ (Spear)  
+  Weapon: Spear 2d12 (Rushed 1d12)  
+  Armor: Padded Leather (+3), Shield (+1)  
+  What else you get: Backpack, Rope, Flint & Steel, Waterskin, Torches  
+  Leftover: 7 gp  
+  Variation: Upgrade Padded → Chainmail: With your leftover 7 gp, add +3 gp (e.g., drop Rope) to reach Chainmail.
+  
+- **Greatblade**: Heavy-hitting warrior who wields massive steel with two hands.  
+  Requirements: STR 9+ (Broadsword)  
+  Weapon: Broadsword 3d12 (Rushed 1d10)  
+  Armor: Chainmail (+4)  
+  What else you get: Backpack  
+  Leftover: 5 gp  
+  Notes: Heavy hitter, two-handed (no shield).  
+  Variation: If you’re short on STR, swap to Mace (10) now and bank +15 gp for utility.
 
-- **Streetwise Rogue** – Quick-handed trickster
-  Rapier: Min FIN 7, Damage 2d12 (Rushed 1d12), Precise
-  Dagger: Min FIN 4, Damage 1d10 (Throwable, Concealable)
-  Padded Leather Armor: +3 Defense
-  Thieves’ tools
-  Lockpicks (bundle)
-  20 gold pieces remaining
-  Ability Direction: You must assign at least 7 FIN to wield the rapier. STR can be lower; prioritize AGI or INS for survivability and cunning.
+- **Wallbreaker**: Armored bulwark who shrugs off blows and stands firm.  
+  Requirements: STR 6+ (Mace)  
+  Weapon: Mace 2d12 (Rushed 1d10)  
+  Armor: Chainmail (+4), Shield (+1)  
+  What else you get: Backpack  
+  Leftover: 5 gp  
+  Notes: Toughest defense.  
+  Variation: Spend the 5 gp on Rope or Grappling Hook for siege-y vibes.
 
-- **Mercenary Veteran** – Hardened fighter
-  Battleaxe: Min STR 9, Damage 3d12 (Rushed 1d10), Bulky, Two-handed, Brutal
-  Shortbow: Min AGI 6, Damage 1d12 (Rushed 1d10), Ranged
-  Plate armor: +5 Defense, Bulky
-  Whetstone & repair kit
-  5 gold pieces remaining
-  Ability Direction: You must assign at least 8 STR to wield the battleaxe and 6 AGI for the shortbow. This kit pushes you to cover both physical extremes.
+- **Archer**: Sharp-eyed hunter and tracker who brings down foes from afar.  
+  Requirements: STR 7+ & AGI 6+ (Longbow)  
+  Weapons: Longbow 2d10 (Rushed 1d12); Dagger 1d10 (Rushed 1d10)  
+  Armor: Padded Leather (+3)  
+  What else you get: Backpack, Camping Gear, Waterskin, Torches  
+  Leftover: 5 gp  
+  Variation: If STR <7 or AGI <6, drop to Shortbow (15) and pocket +10 gp for Lockpicks or Lantern.
 
-- **Healer** – Wandering cleric or monk devoted to aiding
-  Mace: Min STR 5, Damage 2d12 (Rushed 1d10), Two-handed
-  Chain Mail: +4 Defense
-  Healer’s kit (3 uses)
-  15 gold pieces remaining
-  Ability Direction: You must assign at least 5 STR to wield the mace. This kit suits thoughtful characters with lower STR/AGI but strong Knowledge and Presence.
+- **Sneak / Thief**: Cunning infiltrator who relies on stealth, tools, and quick blades.  
+  Requirements: STR 4+ (Short Sword).  
+  Weapons: Short Sword 2d12 (Rushed 1d10); Dagger 1d10 (Rushed 1d10)  
+  Armor: Padded Leather (+3)  
+  What else you get: Backpack, Lockpicks, Rope, Climbing Kit  
+  Leftover: 1 gp  
+  Variation: Trade Short Sword → Rapier if FIN 7+; costs +5 gp, so drop Rope or Climbing Kit.
 
+- **Pathfinder**: Keen-eyed traveler who blends melee, ranged, and survival skills.  
+  Requirements: STR 5+ & AGI 5+ (Spear), AGI 6+ (Shortbow)  
+  Weapons: Spear 2d12 (Rushed 1d12); Shortbow 1d10 (Rushed 1d10)  
+  Armor: Padded Leather (+3)  
+  What else you get: Backpack, Rope, Camping Gear, Waterskin, Torches  
+  Leftover: 4 gp  
+  Variation: If you swap Spear → Short Sword, reqs become STR 4+ with the same total cost.
+
+- **Scholar / Investigator**: Curious mind who carries instruments for study, notes, and insight.  
+  Requirements: FIN 4+ (Dagger)  
+  Weapon: Dagger 1d10 (Rushed 1d10)  
+  Armor: Padded Leather (+3)  
+  What else you get: Backpack, Magnifying Glass, Lantern & Oil, Writing Kit  
+  Leftover: 0 gp
 
 ### Step 6 – Your Vital Stats: Hit Points and Defense Score
 

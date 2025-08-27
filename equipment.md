@@ -4,7 +4,7 @@
 | ------------------------- | ------------------ | -------------------------------------- | ------------- | ------ | ----------------------------------- |
 | **Dagger**                | FIN 4              | **1d10**                               | **1d10**      |  5     | Concealable, throwable              |
 | **Short Sword**           | STR 4 **or** FIN 6 | **2d12**                               | **1d10**      |  10    |                                     |
-| **Rapier**                | FIN 7              | **2d12**                               | **1d10**      |  20    | Precise (reroll any dice showing 1) |
+| **Rapier**                | FIN 7              | **2d12**                               | **1d10**      |  15    | Precise (reroll any dice showing 1) |
 | **Handaxe**               | STR 4              | **1d20**                               | **1d10**      |  10    | Throwable                           |
 | **Spear**                 | STR 5 + AGI 5      | **2d12**                               | **1d12**      |  10    | Throwable                           |
 | **Mace**                  | STR 6              | **2d12**                               | **1d10**      |  10    |                                     |
@@ -48,8 +48,8 @@
 | Healing Poultice    | 10        | Restores minor injuries            |
 | Grappling Hook      | 5         | Can be used with rope              |
 | Cooking Pot         | 3         | For preparing meals                |
-| Magnifying Glass    | 25        | Useful for close inspection        |
+| Magnifying Glass    | 15        | Useful for close inspection        |
 | Musical Instrument  | 15-40     | Price varies by type               |
 | Writing Kit         | 8         | Parchment, quill, ink              |
-˝
+
 ---
