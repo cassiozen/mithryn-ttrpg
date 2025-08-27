@@ -83,7 +83,7 @@ Dice may be d10, d12, or d20 — larger dice are more swingy but have a greater 
 
 ### Rushed Damage
 
-Weapons are distinguished not only by how much damage they deal, but also by how well they handle when used in rapid succession. Fast weapons like daggers can be swung again without losing effectiveness, so their Rushed Damage is the same as their normal Damage. Weapons such as short swords and handaxes remain effective but suffer a modest drop in power when used for a second attack in the same turn. 
+Weapons are distinguished not only by how much damage they deal, but also by how well they handle when used in rapid succession. Fast weapons like daggers can be swung again without losing effectiveness, so their Rushed Damage is the same as their normal Damage. Weapons such as short swords and handaxes remain effective but suffer a modest drop in power when used for a second attack in the same turn.
 Heavy, slow, or unwieldy weapons like battleaxes and broadswords strike with devastating force on the first attack but are far less effective when rushed.
 
 ### Ability Requirements
@@ -106,34 +106,31 @@ Besides these commom tags, some weapons can have unique tags (with unique mechan
 
 ## Example Combat Sequence
 
-### Party (Rank 1):
+### Party (Rank 1)
 
-- **Kael**
-  STR 6 (TN 14), AGI 8 (TN 12), FIN 10 (TN 10)
-  HP 6, Defense 4
-  Weapon: Rapier 2d12 (Rushed 1d10)
+- **Kael**  
+  STR 6 (TN 14), AGI 8 (TN 12), FIN 10 (TN 10)  
+  HP 6, Defense 4  
+  Weapon: Rapier 2d12 (Rushed 1d10)  
   Armor: leather (+3)
-
-- **Brynn**
-  STR 7, AGI 8 (TN 12)
-  HP 7, Defense 4
-  Weapon: Longbow 2d10 (Rushed 1d12), Ranged
+- **Brynn**  
+  STR 7, AGI 8 (TN 12)  
+  HP 7, Defense 4  
+  Weapon: Longbow 2d10 (Rushed 1d12), Ranged  
   Armor: leather (+3)
-
-- **Sira**
-  STR 10 (TN 10), AGI 6 (TN 14)
-  HP 10, Defense 6
-  Weapon: Battleaxe 3d12 (Rushed 1d10), Two-handed
+- **Sira**  
+  STR 10 (TN 10), AGI 6 (TN 14)  
+  HP 10, Defense 6  
+  Weapon: Battleaxe 3d12 (Rushed 1d10), Two-handed  
   Armor: Plate (+5)
 
+### Foes
 
-### Foes:
-
-- **Brigand Leader** (chain) → Defense 6, HP 7
+- **Brigand Leader** (chain) → Defense 6, HP 7  
   Broadsword 3d12 (Rushed 1d10)
-- **City Spearman** (leather) → Defense 5, HP 5
+- **City Spearman** (leather) → Defense 5, HP 5  
   Spear 2d12
-- **City Archer** (leather) → Defense 5, HP 5
+- **City Archer** (leather) → Defense 5, HP 5  
   Shortbow 1d10
 
 The GM declares, “We’re in combat. Zones are: Collapsed Archway (where brigands are), Causeway (where you stand now, the open approach), Rubble Pile (to the side, uneven footing).”
@@ -148,74 +145,73 @@ Each PC rolls an Agility check (2d12 vs their AGI TN) to see if they act with 2 
 
 #### Player Turn
 
-Brynn: Moves to the Rubble Pile to flank (1 action) and shoots from his longbow.
-Attack (2d10 → 9, 5 vs Defense 5) → 2 hits. Spearman HP 5→3.
+- **Brynn**: Moves to the Rubble Pile to flank (1 action) and shoots from his longbow.  
+  Attack (2d10 → 9, 5 vs Defense 5) → 2 hits. Spearman HP 5→3.
 
-Kael: Kael darts forward to the Collapsed Archway, rapier flashing in the dim torchlight. He only has one action, so no attacks this turn.
+- **Kael**: Darts forward to the Collapsed Archway, rapier flashing in the dim torchlight.  
+  He only has one action, so no attacks this turn.
 
-Sira: With a roar, Sira charges alongside Kael (first action), swinging her battleaxe in a heavy arc at the Spearman (second action).
-Attack (3d12 → 5, 8 and 12 (explodes); Explosion extra roll 4) → 3 hits. Spearman HP 3→0 (drops).
+- **Sira**: With a roar, Sira charges alongside Kael (first action), swinging her battleaxe in a heavy arc at the Spearman (second action).  
+  Attack (3d12 → 5, 8 and 12 (explodes); Explosion extra roll 4) → 3 hits. Spearman HP 3→0 (drops).
 
 #### Enemy Turn
 
 GM: “The brigand leader steps forward with surprising speed, broadsword flashing.”
 
-Brigand Leader: Attacks Kael (Defense 4):
-Attack (3d12 → 10,2,9) → 2 hits. Kael HP 6→4.
-
-Archer targets Brynn (Defense 4):
-Shot (1d10 → 8) → 1 hit. Brynn HP 7→6.
-
-End of Round 1 Status
-PCs: Kael 4/6, Brynn 6/7, Sira 10/10
-Foes: Brigand Leader 7/7, Archer 5/5, Spearman 0/5 (dead)
+- **Brigand Leader**: Attacks Kael (Defense 4):  
+  Attack (3d12 → 10,2,9) → 2 hits. Kael HP 6→4.
+- **Archer** targets Brynn (Defense 4):  
+  Shot (1d10 → 8) → 1 hit. Brynn HP 7→6.
+- **End of Round 1 Status**  
+  PCs: Kael 4/6, Brynn 6/7, Sira 10/10  
+  Foes: Brigand Leader 7/7, Archer 5/5, Spearman 0/5 (dead)
 
 ### Round 2
 
 #### Player Turn
 
-Brynn declares he will use both his actions in this turn to attack and looses arrows at the brigand leader.
-Shot 1 (2d10 → 10,2; explode 7) → 2 hits. Brigand Leader HP 7→5.
-Shot 2 (rushed 1d12 → 5 < Defense 6) → 0 hits.
+- **Brynn** declares he will use both his actions in this turn to attack and looses arrows at the brigand leader.  
+  Shot 1 (2d10 → 10,2; explode 7) → 2 hits. Brigand Leader HP 7→5.
+  Shot 2 (rushed 1d12 → 5 < Defense 6) → 0 hits.
 
-Kael: Steadies his rapier and thrusts again.
-Attack 1: (2d12 → 1 reroll→3, 9) → 1 hit. Brigand Leader HP 5→4.
-Attack 2: (1d10 → 3) → 0 hits.
+- **Kael**: Steadies his rapier and thrusts again.  
+  Attack 1: (2d12 → 1 reroll→3, 9) → 1 hit. Brigand Leader HP 5→4.  
+  Attack 2: (1d10 → 3) → 0 hits.
 
-Sira: Attacks Brigand Leader
-Attack 1: (3d12 → 7,2,3) → 1 hit. Brigand Leader HP 4→3.
-Attack 2: (1d10 → 8) → 1 hit. Brigand Leader HP 3→2.
+- **Sira**: Attacks Brigand Leader  
+  Attack 1: (3d12 → 7,2,3) → 1 hit. Brigand Leader HP 4→3.  
+  Attack 2: (1d10 → 8) → 1 hit. Brigand Leader HP 3→2.
 
 #### Enemy Turn
 
-GM announces that the brigand leader will attack Kael again.
+**GM** announces that the brigand leader will attack Kael again.  
 
-Sira declares Interpose (reaction), ready to shield Kael.
+- **Sira** declares Interpose (reaction), ready to shield Kael.
 
-Brigand leader Attack vs Sira (Defense 6): (3d12 → 5,7,12; explode 6) → 3 hits. Sira HP 10→7.
+- **Brigand leader** Attack vs Sira (Defense 6):  
+  (3d12 → 5,7,12; explode 6) → 3 hits. Sira HP 10→7.
 
-GM: “The brigand leader's blade crashes into you, Sira, but Kael is spared. You’ll start next turn with only one action.”
+GM: “The brigand leader's blade crashes into you, Sira, but Kael is spared. You’ll start next turn with only one action.”  
 
-Archer at Kael (Defense 5):
-Shot (1d10 → 6) → 1 hit. Kael HP 4→3.
+- **Archer** at Kael (Defense 5):  
+  Shot (1d10 → 6) → 1 hit. Kael HP 4→3.
 
 GM: “You’re Wounded now — Ability Checks are at disadvantage, and you only have one action per turn.”
 
-End of Round 2 Status:
-PCs: Kael 3/6 (Wounded), Brynn 6/7, Sira 8/10 (used reaction)
-Foes: Brigand leader 2/7, Archer 5/5
+- End of Round 2 Status:  
+  PCs: Kael 3/6 (Wounded), Brynn 6/7, Sira 8/10 (used reaction)  
+  Foes: Brigand leader 2/7, Archer 5/5
 
 ### Round 3
 
 #### Player Turn
 
-Brynn Attacks the leader.
-Shot 1 (2d10 → 7, 3) → 1 hits. Leader HP 2→1.
-Shot 2 (rushed 1d12 → 2) → 0 hits.
+- **Brynn** Attacks the leader.  
+  Shot 1 (2d10 → 7, 3) → 1 hits. Leader HP 2→1.  
+  Shot 2 (rushed 1d12 → 2) → 0 hits.
 
-Kael (1 action, Wounded):
-Bloodied but unbowed, he lunges at the leader.
-Attack (2d12 → 10,2) → 1 hit. HP 1→0 (dead).
+- **Kael** (1 action, Wounded):  
+  Bloodied but unbowed, he lunges at the leader.  
+  Attack (2d12 → 10,2) → 1 hit. HP 1→0 (dead).
 
 GM: “The Brigand leader falls, clutching at the wound. Seeing their captain collapse, the archer falters. His nerve breaks and he flees”
-
