@@ -271,7 +271,7 @@ Combat in this game is designed to be quick and dangerous. It should move quickl
 
 ### Tips for Running Combat
 
-- **Defense Is Public**. Enemies’ DF is known after the first exchange (or immediately if the GM prefers). Players should always know the number they’re aiming for.
+- **Defense Is Public**. Enemies’ Defense score is known after the first exchange (or immediately if the GM prefers). Players should always know the number they’re aiming for.
 - **Use the Environment.** Give zones descriptive names (*Collapsed Archway, Burning Brazier, Flooded Chamber*). Encourage players to interact with them.
 - **Assume characters move and act smartly.** They will avoid obvious hazards or unneeded opportunity attacks. Don’t surprise the players with gotchas.
 - **Offer Surrender.** Enemies can flee, yield, or bargain. Not every fight needs to end in blood. These choices create more story. 

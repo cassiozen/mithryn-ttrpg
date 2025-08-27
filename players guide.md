@@ -285,13 +285,13 @@ Use these lists for inspiration — they’re not exhaustive, but they can help 
 Your equipment defines not only how you fight but also how you defend yourself. At character creation, you’ll choose your starting weapons and armor (plus any other gear you may see fit):
 
 - **Weapons** determine how many dice you roll when attacking. Weapons can have a minimum strength requirement.
-- **Armor** helps avoid incoming attacks by increasing your character’s Defense (DF) score, a number that determines how high an attacker must roll for you to take damage (More on DF below).
+- **Armor** helps avoid incoming attacks by increasing your character’s Defense score, a number that determines how high an attacker must roll for you to take damage (More on Defense below).
 
 #### Inventory
 
 Characters have a total of ten inventory slots, but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
 For game purposes, each character starts with a Bag, Backpack, or similar that can hold up to six slots. 
-Anyone carrying a full inventory (i.e., filling all 10 slots) is reduced to 0 DF (Defense, see below). A character cannot fill more than ten slots.
+Anyone carrying a full inventory (i.e., filling all 10 slots) is reduced to 0 Defense. A character cannot fill more than ten slots.
 
 ##### Inventory Slots
 
@@ -309,8 +309,8 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
 
 - **Knight Errant** – Wandering champion sworn to a cause
   Broadsword (Bulky): Min STR 9, Damage 3d12 (Rushed 1d10), Bulky, Two-handed
-  Shield: +1 DF
-  Chainmail: +5 DF
+  Shield: +1 Defense
+  Chainmail: +4 Defense
   Lantern & 3 flasks of oil
   10 gold pieces remaining
   Ability Direction: You must assign at least 9 STR to wield the broadsword. AGI or FIN can be lower — this kit leans on raw toughness and presence.
@@ -318,7 +318,7 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
 - **Warden of the Wilds** – Ranger, scout, and protector of the borderlands
   Longbow: Min STR 7 + AGI 6, Damage 1d20 (Rushed 1d12), Bulky, Ranged
   Hunting Knife: Min FIN 4, Damage 1d10
-  Padded Leather Armor: +4 DF
+  Padded Leather Armor: +3 Defense
   Rope (50 ft)
   Snare kit
   15 gold pieces remaining
@@ -327,7 +327,7 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
 - **Streetwise Rogue** – Quick-handed trickster
   Rapier: Min FIN 7, Damage 2d12 (Rushed 1d12), Precise
   Dagger: Min FIN 4, Damage 1d10 (Throwable, Concealable)
-  Padded Leather Armor: +4 DF
+  Padded Leather Armor: +3 Defense
   Thieves’ tools
   Lockpicks (bundle)
   20 gold pieces remaining
@@ -336,26 +336,26 @@ These packs represent common backgrounds and loadouts for adventurers in this wo
 - **Mercenary Veteran** – Hardened fighter
   Battleaxe: Min STR 9, Damage 3d12 (Rushed 1d10), Bulky, Two-handed, Brutal
   Shortbow: Min AGI 6, Damage 1d12 (Rushed 1d10), Ranged
-  Plate armor: +6 DF, Bulky
+  Plate armor: +5 Defense, Bulky
   Whetstone & repair kit
   5 gold pieces remaining
   Ability Direction: You must assign at least 8 STR to wield the battleaxe and 6 AGI for the shortbow. This kit pushes you to cover both physical extremes.
 
 - **Healer** – Wandering cleric or monk devoted to aiding
   Mace: Min STR 5, Damage 2d12 (Rushed 1d10), Two-handed
-  Chain Mail: +5 DF
+  Chain Mail: +4 Defense
   Healer’s kit (3 uses)
   15 gold pieces remaining
   Ability Direction: You must assign at least 5 STR to wield the mace. This kit suits thoughtful characters with lower STR/AGI but strong Knowledge and Presence.
 
 
-### Step 6 – Your Vital Stats: Hit Points and Defense (DF) score
+### Step 6 – Your Vital Stats: Hit Points and Defense Score
 
-#### Defense (DF) score
+#### Defense score
 
-DF reflects the character’s ability to avoid damage in combat. When someone swings at you, they’ll need to roll equal to or higher than your DF to land a hit.
+The Defense score reflects the character’s ability to avoid damage in combat. When someone swings at you, they’ll need to roll equal to or higher than your Defense to land a hit.
 
-To calculate your DF, add your Rank to the total DF bonus from your armor.
+To calculate your Defense, add your Rank to the total Defense Bonus from your armor.
 
 #### Hit Points (HP)
 
@@ -391,7 +391,7 @@ Whenever your character gains a level, choose one of the following benefits:
 
 At Level 3, 6, and 9, you advance into a new Rank. This comes with extra rewards:
 
-First, take note of the new Rank in the character sheet and Update the Defense (DF): DF = Rank + Armor Bonus
+First, take note of the new Rank in the character sheet and Update the Defense: Defense = Rank + Armor Bonus
 
 Next, choose one of the following, instead of a normal level-up option:
 

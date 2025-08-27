@@ -26,8 +26,8 @@
 - **Zones:** Same (melee), 1 zone (throwing / short ranged), 2–3 zones (ranged).
 - **Rounds:** PCs act first (after initial AGI check: fail = 1 action instead of 2). Then enemies. Repeat.
 - **Actions:** 2 per turn (attack, move, attempt, interact). Rushed attack = second action attack with weapon’s “Rushed Damage.”
-- **Attacks:** Roll weapon’s damage dice. Each die ≥ enemy’s Defense (DF) = 1 hit. Dice at max value = auto-hit and explode (reroll).
-- **Defense (DF):** Rank + Armor bonus.
+- **Attacks:** Roll weapon’s damage dice. Each die ≥ enemy’s Defense = 1 hit. Dice at max value = auto-hit and explode (reroll).
+- **Defense:** Rank + Armor bonus.
 - **Reactions (cost 1 next-turn action):**
   - **Defense (shield):** Cancel 1 hit.
   - **Interpose:** Take a hit meant for an ally in same zone.

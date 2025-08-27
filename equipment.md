@@ -21,12 +21,12 @@
 
 ## Armor
 
-| Armor Type     | DF Bonus | Price          | Notes |
-|----------------|----------|----------------|-------|
-| Padded leather Vest   | +4  | 15           |       |
-| Chainmail      | +5       | 25             |       |
-| Plate          | +6       | 40             | Bulky |
-| Shield         | +1       | 15             | Can be combined with armor |
+| Armor Type          | Defense Bonus | Price     | Notes |
+|---------------------|---------------|-----------|-------|
+| Padded leather Vest | +3            | 15        |       |
+| Chainmail           | +4            | 25        |       |
+| Plate               | +5            | 40        | Bulky |
+| Shield              | +1            | 15        | Can be combined with armor |
 
 ---
 
