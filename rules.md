@@ -48,7 +48,6 @@ Sometimes characters have situational benefits or hindrances (environmental effe
 
 To do this, roll 1 additional die of the same type and remove the lowest (see examples below). Alternatively, if the situation is grim or your idea is a long shot, you may have to roll with disadvantage (removing the highest die instead).
 
-
 Advantage example:
 Sorel the rogue sneaks across a creaky wooden floor, but she sprinkled sand to muffle the noise. The GM grants advantage, so she rolls 3d12 for her Agility check and keeps the two highest dice.
 
@@ -145,13 +144,23 @@ Mechanical Impact: From now on, that complication can be invoked by the GM in ap
 
 Timing: The complication does not need to be written immediately in the heat of gameplay. At the GM’s discretion, the player can take time to reflect and finalize the scar — but it should be completed by the start of the next session or story chapter.
 
-#### What Makes a Good Scar?
+#### Creating a Scar complication
 
 A good scar is more than a wound — it’s something that lingers in the fiction and keeps generating interesting play. It should:
 
 - Have Narrative Teeth: It should change how the world interacts with the character or how the character moves through the world.
 - Be Specific, Not Vague: “Haunted by Fire” is better than “Afraid.” The best scars recall the moment of near-death.
 - Be Double-Edged: A scar should create tension or challenge, but not make the character unplayable. The fun is in navigating the new flaw, not in removing the player from the action.
+
+More often than not, the scar will come directly from the event that nearly killed you:
+
+- What attack, trap, or failure brought you to 0 HP?
+- Was it fire, blade, poison, betrayal, exhaustion?
+- Did you collapse in front of allies, or alone in the dark?
+
+Example: If an enemy blow shattered your ribs, your scar might be “Breathless Under Strain.” If a poisoned dart put you down, it might be “Slow to Trust Strange Food.”
+
+
 
 #### Examples of Scars
 
@@ -160,4 +169,6 @@ A good scar is more than a wound — it’s something that lingers in the fictio
 - Lame Leg from the Ogre’s Blow — Slower to climb and run; yet a constant reminder of survival.
 - Sworn Never to Abandon a Friend Again — A vow that will drag you into danger.
 - Distrustful of Healers — Refuses aid too long, even when badly hurt.
+- Phantom Pain — Though the wound healed, a limb aches and stiffens in cold or fear.
+
 

@@ -363,7 +363,7 @@ HP represents your ability to keep going despite damage.
 
 Your starting HP is either equal to 6 or to your STRENGTH score - whichever is bigger.
 
-In the character sheet, your HP is represented as boxes that you tick as you get hit. Notice that it already has 6 fully drawn boxes spread across three regions: normal, wounded, and critical. You will learn more about what they mean in the rules section; for now, simply draw extra boxes in the empty spaces to the left until you match your total HP.
+In the character sheet, your HP is represented as boxes that you tick as you get hit. Notice that it already has 6 fully drawn boxes spread across three regions: normal, wounded, and critical. You will learn more about what they mean in the rules section; for now, simply draw extra boxes in the empty spaces within the Normal tier until your total HP matches your starting value.
 
 ---
 
@@ -407,11 +407,21 @@ When you broaden a tag, you’re letting it grow with your character’s experie
 - Stay concrete: Don’t turn “Locksmith’s Touch” into “Good with everything.” Instead, you might expand it into “Master of Locks and Mechanisms,” reflecting both doors and traps you’ve worked through in play.
 - Keep the edge: Broadening doesn’t erase limits. A broadened tag should still feel like it applies strongly in some cases and not at all in others.
 
-Example: “Animal Whisperer” might broaden to “Beast-Bonded,” after the character learns to handle not just horses and hounds, but also wild or magical creatures.
+Examples: 
 
-When you ease a complication, you’re showing how your character has faced a burden and either learned to manage it or partially resolved it.
+- “Animal Whisperer” might broaden to “Beast-Bonded”, after the character learns to handle not just horses and hounds, but also wild or magical creatures.
+- “Tracker” might broaden to “Pathfinder”, after the character follows a creature across storm and forest, catching it where others failed.
+- “Crowd Charmer” might broaden to “Voice of the Masses,” after the character rallied an entire town square.
+
+
+When you ease a complication, you’re showing how your character has faced a burden and either learned to manage it or partially resolved it:
 
 - Leave a trace: Complications rarely vanish entirely. Easing doesn’t mean erasing — it means lessening their weight or narrowing their impact.
-- Make it earned: Tie the change to something that happened in play — a choice, sacrifice, or breakthrough.
+- Has to be earned: Easing a complication must be justified  to something that happened in play — a choice, sacrifice, or breakthrough.
 
-Example: “Wanted in Three Cities” might shrink to “Watched in One City,” as the character clears their name in most places but remains under suspicion in their hometown.
+Examples: 
+
+- “Wanted in Three Cities” might shrink to “Watched in One City,” as the character clears their name in most places but remains under suspicion in their hometown.
+- “Debt to a Dangerous Patron” might ease to “Favors Owed,” after the character completes a major task that satisfies most of the patron’s demands.
+- “Unlucky with Animals” might ease to “Uneasy Around Beasts,” after the character earns the loyalty of one creature, even if most still shy away.
+
