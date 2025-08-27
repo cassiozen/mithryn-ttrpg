@@ -31,4 +31,4 @@
 - **Reactions (cost 1 next-turn action):**
   - **Defense (shield):** Cancel 1 hit.
   - **Interpose:** Take a hit meant for an ally in same zone.
-  - **Help:** If justified, 1 ally’s weapon die counts as a hit (at Rank 3+, up to Rank dice).
+  - **Help:** If justified, a number of ally’s weapon die equal to helper's rank automatically counts as a hit.
