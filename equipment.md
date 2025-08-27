@@ -4,9 +4,9 @@
 | Weapon                    | Requirements       | Damage Dice   | Rushed Damage | Price | Tags                                                |
 | ------------------------- | ------------------ | ------------- | ------------- | ----- | ---------------------------------------------------- |
 | **Dagger**                | FIN 4              | **1d10**      | **1d10**      | 5     | Concealable, throwable                               |
-| **Short Sword**           | STR 4 **or** FIN 6 | **2d12**      | **1d12**      | 12    |                                            |
-| **Rapier**                | FIN 7              | **2d12**      | **1d12**      | 20    | Precise (reroll any dice showing 1)                   |
-| **Handaxe**               | STR 4              | **1d20**      | **1d12**      | 10    | Throwable                                            |
+| **Short Sword**           | STR 4 **or** FIN 6 | **2d12**      | **1d10**      | 12    |                                            |
+| **Rapier**                | FIN 7              | **2d12**      | **1d10**      | 20    | Precise (reroll any dice showing 1)                   |
+| **Handaxe**               | STR 4              | **1d20**      | **1d10**      | 10    | Throwable                                            |
 | **Spear**                 | STR 5 + AGI 5      | **2d12**      | **1d12**      | 10    | Throwable                                     |
 | **Mace**                  | STR 6              | **2d12**      | **1d10**      | 12    |   |
 | **Broadsword**            | STR 9              | **3d12**      | **1d10**      | 30    | Bulky, two-handed                                    |

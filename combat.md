@@ -13,9 +13,14 @@ Zones aren’t measured in precise feet or meters; they’re an abstraction of p
 
 ## Rounds
 
-Each round starts with any PC that is able to act, followed by their opponents. During the first round of combat, each PC must make an agility attribute check in order to act. Exceptional circumstances or feats may negate this requirement. PCs that fail their save lose their turn for this round. Their opponents then take their turn, and the first round ends.
+Combat is divided into rounds. Each round begins with the player characters, followed by their opponents.
+At the start of the first round, each PC must make an Agility check to seize momentum. Exceptional circumstances or special abilities may bypass this requirement.
 
-The next round begins with the PCs taking their turn, followed by their opponents, and so on, until combat has ended with one side defeated or fled.
+- Success: You act normally with your full two actions.
+- Failure: You still act this round, but with only one action instead of two.
+
+After all PCs have taken their turns, the opponents act, and the round ends.
+From the second round onward, turn order continues with all PCs acting first (two actions each unless otherwise limited), then their opponents, and so on until combat ends with one side defeated or fled.
 
 ## Actions
 
@@ -63,7 +68,7 @@ Note: A PC must declare that they are interposing when the attack is announced, 
 
 ### Help
 
-Grant an ally automatic hits if the player can reasonably explain to the GM how you could help in a given situation. The GM may call for an attribute check or grant it automatically, depending on how good the idea is. The GM then determines how many of the ally’s weapon dice hit automatically without having to roll. 
+Grant an ally automatic hits if the player can reasonably explain to the GM how you could help in a given situation. The GM may call for an attribute check or grant it automatically, depending on how good the idea is. A number of the ally’s weapon dice equal to the helper's rank automatically hit without having to roll.
 
 ---
 
