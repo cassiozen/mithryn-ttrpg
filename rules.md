@@ -161,7 +161,6 @@ More often than not, the scar will come directly from the event that nearly kill
 Example: If an enemy blow shattered your ribs, your scar might be “Breathless Under Strain.” If a poisoned dart put you down, it might be “Slow to Trust Strange Food.”
 
 
-
 #### Examples of Scars
 
 - Burned by the Sorcerer’s Fire — Skin marred, crowds whisper, enemies exploit the weakness.
