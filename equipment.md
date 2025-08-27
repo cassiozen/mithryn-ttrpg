@@ -37,7 +37,8 @@
 | Backpack (6 slots)       | 5              | Can double as bedroll when empty |
 | Bedroll                  | 2              | Keeps you warm at night |
 | Rations (3 days)         | 3              | Preserved food and water |
-| Rope (20 ft)             | 2              | Hemp or braided cord |
+| Rope (30 ft)             | 5              | Hemp or braided cord |
+| Chain (10 ft)             | 15              | Hemp or braided cord |
 | Flint & Steel            | 3              | Start fires |
 | Lantern                  | 8              | Requires oil |
 | Oil Flask                | 1              | Burns 6 hours in a lantern |
@@ -48,7 +49,6 @@
 | Disguise Kit             | 20             | Makeup, wigs, clothing |
 | Climbing Kit             | 12             | Pitons, hammer, harness |
 | Healing Poultice         | 10             | Restores minor injuries |
-| Smoke Bomb                | 6              | Obscures vision in small area |
 | Grappling Hook           | 5              | Can be used with rope |
 | Cooking Pot              | 3              | For preparing meals |
 | Magnifying Glass         | 25             | Useful for close inspection |
