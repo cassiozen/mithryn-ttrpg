@@ -38,30 +38,32 @@
 
 ## Setting
 
-The land of Mithryn rises on a plateau ringed by the slopes of Mount Amaroth, a fire-mountain long fallen quiet. Ask the scribes of distant courts, and they will tell you the story is plain: once, an evil, tyrant king ruled here. In the first year of this era, the High Council brought their armies, toppled his rule, and delivered freedom.
+---
 
-That is the tale the world accepts. A simple story. A closed book.
+From the dirt, a shard of light.
+Every fragment is a witness.
+Every hidden piece defies the lie.
 
-Yet life in Mithryn has never tasted of freedom. For generations, our roads have been watched, the markets searched, the wrong word punished. Most folk keep their heads down and their voices low.
+Mithyn saying, Unknown author.
 
-The world looked away, told there was nothing here to see: Mithryn was a plateau of poor soil and poorer fortunes,  notable only for the evil it once harbored.
+---
 
-But the plateau whispers otherwise.
+Mithryn is a land on a vast plateau surrounded by mountains, most notably Mount Amaroth, an old dormant volcano.
 
-The people themselves carry that mystery. Elsewhere, bloodlines are guarded and categorized — dwarf and elf, man and halfling. Here, such words mean little. It’s in the faces that pass on the street: Eyes shaped like no two others. Ears that taper subtly or curl in curious arcs. Skin runs the whole span from the palest white to the deepest black, and then further into undertones and hues: bronze, copper, rose, the greens of olive and soft moss.
-No one is entirely one thing, yet each bears a look that marks them as from this plateau.
+Few beyond its borders think much of it. Ask a scholar or a trader and you will hear the same account: Mithryn is a barren land notable for nothing, except, perhaps, for the tyrannical king it once had, thousands of years ago. An evil promptly toppled by the kingdoms of Men and Elves from the north, who brought freedom to the land. Nothing has come from Mithryn since — no trade, no learning, nothing worth remembering. To the outside world, it is a closed book.
 
-And then there are the things that shouldn’t exist, yet sometimes do.
+Yet to live here is different. The people of Mithryn carry reminders that their past is not as simple as it seems. 
+Generations of diversity have left most faces bearing features of multiple lineages at once. Here, difference is ordinary, and it is one of the few things the outside world notices only to dismiss.
 
-A shard of pottery with a painting and glaze unlike anything made today. A fragment of fabric that seems to shimmer in ways dye cannot explain... Such items are rare — and dangerous. The law demands they be surrendered; to keep one is a capital crime. Yet they are hidden — in false walls, beneath floorboards, inside bread ovens gone cold. Because everyone feels it: they are pieces of something greater, something that does not match the story we’ve been told.
+Sometimes the earth itself betrays the lie. A half-buried rubble of neatly cut stone blocks, some with bits of worked metal and glass still embedded; A shard of pottery that seems to shimmer in ways dye alone cannot explain... Beautiful, impossible relics found nowhere else in the world, yet somehow buried in the dirt of a place that, by their accounts, has never produced anything worth remembering.
 
-Nearly three millennia have passed since the Council’s war. The world no longer spares Mithryn a thought: their soldiers no longer march here; their interest in this place has waned.
+For generations people have hidden them, tucking them away inside fake walls or under floorboards, passing them down quietly despite the danger - the law demanded they be surrendered; to keep one was a capital crime.
 
-And in that quiet, something has begun to stir.
+That law is rarely enforced now. The outside world has moved on, and Mithryn is no longer closely watched. You may still see a northern soldier from time to time, but the occupation is mostly gone.
 
-It is not spoken of, yet it is everywhere — It shows in the songs hummed on the walk home that no one quite remembers learning. In the sudden warmth of the sun breaking through a long, grey sky. In the feeling that the air itself carries a promise.
-No one names it, but all can feel it. Something is awakening.
-And with it, hope.
+Years of fear taught people to keep their heads down and not ask questions. But this is beginning to change. More and more, people are speaking openly, comparing stories, and wondering together what their history really was.
+
+
 
 ### What This Game Is About
 
