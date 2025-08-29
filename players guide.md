@@ -303,7 +303,7 @@ These suggested kits pair clear **requirements** with solid early-game gear. Eac
   - **Weapons**: Short Sword **2d10** (Rushed **1d10**); Shortbow **1d10** (Rushed **1d10**)
   - **Armor**: Chainmail (+4)
   - **Tools**: Backpack, Waterskin
-  - **Leftover**: **5 gp**
+  - **Leftover**: **0 gp**
   - **Variation**: Swap Chainmail for Padded armor to free **10 gp** for Rope, Flint & Steel, Torches.
 
 - **Guardian**: Frontliner who Holds the line and protects allies.
@@ -311,37 +311,36 @@ These suggested kits pair clear **requirements** with solid early-game gear. Eac
   - **Weapon**: Spear **2d12** (Rushed **1d12**)
   - **Armor**: Chainmail (+4)
   - **Tools**: Backpack, Rope, Flint & Steel, Waterskin, Torches
-  - **Leftover**: **0 gp**
+  - **Leftover**: **7 gp**
   
-
 - **Wallbreaker**: Heavy-hitting warrior.
   - **Requirements**: STR 10+ (Warhammer)
   - **Weapons**: Warhammer **2d12** (Rushed **1d10**)
-  - **Armor**: Chainmail (+4), Shield (+1)
+  - **Armor**: Padded Leather (+3), Shield (+1)
   - **Tools**: Backpack
-  - **Leftover**: **0 gp**
+  - **Leftover**: **5 gp**
 
 - **Archer**: Ranged control with a solid melee backup.
   - **Requirements**: STR 7+ **and** AGI 7+ (Longbow)
-  - **Weapons**: Longbow **2d12** (Rushed **1d12**); Dagger **1d10** (Rushed **1d10**)
+  - **Weapons**: Longbow **2d10** (Rushed **1d12**); Dagger **1d10** (Rushed **1d10**)
   - **Armor**: Padded Leather (+3)
   - **Tools**: Backpack, Camping Gear, Waterskin, Torches
-  - **Leftover**: **10 gp**
-  - **Variation**: If you lack either STR 7+ or AGI 7+, take Shortbow **1d12** instead and gain **+10 gp**.
+  - **Leftover**: **0 gp**
+  - **Variation**: If you lack either STR 7+ or AGI 7+, take Shortbow **1d10** instead and gain **+10 gp**.
 
 - **Sneak / Thief**: Infiltration, tools, and quick blades.
   - **Requirements**: FIN 7+ (Stiletto)
   - **Weapons** Stiletto **1d12** (Rushed **1d12**), Dagger **1d10**
   - **Armor**: Padded Leather (+3)
-  - **Tools**: Backpack, Lockpicks, Rope, Climbing Kit
+  - **Tools**: Backpack, Lockpicks, Rope, Grappling Hook
   - **Leftover**: **0 gp**
 
 - **Pathfinder**: Mobile skirmisher with survival focus.
   - **Requirements**: STR 6+ **and** AGI 7+
-  - **Weapons**: Spear **2d12** (Rushed **1d12**); Shortbow **1d12** (Rushed **1d10**)
+  - **Weapons**: Spear **2d12** (Rushed **1d12**); Shortbow **1d10** (Rushed **1d10**)
   - **Armor**: Padded Leather (+3)
   - **Tools**: Backpack, Rope, Camping Gear, Waterskin, Torches
-  - **Leftover**: **5 gp**
+  - **Leftover**: **0 gp**
 
 - **Scholar / Investigator**: Brains, light defense, and kit for clues.
   - **Requirements**: FIN 5+ (Dagger)
