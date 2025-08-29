@@ -14,7 +14,7 @@
 | **Throwing Knives** (set) | FIN 6              | **1d10** (×2 can be thrown per attack) | **1d10**      |  7     |                                     |
 | **Shortbow**              | AGI 6              | **1d10**                               | **1d10**      |  15    | Ranged, requires free hands         |
 | **Longbow**               | STR 7 + AGI 6      | **2d10**                               | **1d12**      |  25    | Ranged, bulky, requires free hands  |
-| **Crossbow**              | STR 5 + KNO 5      | **2d12**                               | — *(reload)*  |  30    | Ranged, bulky, reload (skip rush)   |
+| **Crossbow**              | STR 5              | **2d12**                               | — *(reload)*  |  30    | Ranged, bulky, reload (skip rush)   |
 
 ---
 

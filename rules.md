@@ -2,7 +2,7 @@
 
 ## Ability Scores
 
-Each of the six abilities is used in different circumstances (see Ability Checks, below).
+Each of the five abilities is used in different circumstances (see Ability Checks, below).
 
 | **Ability** | **Common Uses** |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -11,7 +11,6 @@ Each of the six abilities is used in different circumstances (see Ability Checks
 | **Finesse (FIN)** | Sleight of hand, lockpicking, trap disarming, stealth, delicate tool use.  |
 | **Insight (INS)** | Perception, detecting lies, tracking, navigation |
 | **Will (WIL)** | Persuasion, charm, intimidation, resisting fear or influence, bending circumstances toward your intent. |
-| **Knowledge (KNO)** | Education, recall of lore, deciphering languages, identifying creatures or items. |
 
 
 

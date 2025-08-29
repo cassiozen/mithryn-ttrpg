@@ -340,11 +340,6 @@ Two (or more) attuned rings with a cloudy stone set in a plain silver band each.
 Attunement trigger: The bearer reaches to reassure, encourage, or share something of true importance with another, opening themselves in trust.
 Bearers may whisper short messages to each other, no matter the distance.
 
-- Ring of Remembrance
-A golden ring engraved with vines. When slipped on, it sharpens the bearer's memory.
-Attunement trigger: The bearer acts decisively based on knowledge they’ve gained during the campaign (rather than instinct or impulse), proving they carry the past forward with them.
-Effect: The wearer gains Advantage on KNO checks when recalling past facts from the campaign.
-
 - Lantern of the Hollow Way
 A silver lantern whose flame never dims. Its light does not brighten a room but instead reveals hidden paths — a lost doorframe in ruins, a track across barren stone, a staircase where none seemed to be.
 Attunement trigger: Curiosity: the bearer chooses the path of persistence in finding what's hidden
