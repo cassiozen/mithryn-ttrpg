@@ -109,25 +109,22 @@ Besides these common tags, some weapons can have unique tags (with unique mechan
   STR 6 (TN 14), AGI 8 (TN 12), FIN 10 (TN 10)  
   HP 6, Defense 4  
   Weapon: Rapier 2d12 (Rushed 1d10)  
-  Armor: leather (+3)
 - **Brynn**  
   STR 7, AGI 8 (TN 12)  
   HP 7, Defense 4  
-  Weapon: Longbow 2d10 (Rushed 1d12), Ranged  
-  Armor: leather (+3)
+  Weapon: Longbow 2d10 (Rushed 1d12)
 - **Sira**  
-  STR 10 (TN 10), AGI 6 (TN 14)  
+  STR 12 (TN 8), AGI 6 (TN 14)  
   HP 10, Defense 6  
-  Weapon: Battleaxe 3d12 (Rushed 1d10), Two-handed  
-  Armor: Plate (+5)
+  Weapon: Battleaxe 3d12 (Rushed 1d10)
 
 ### Foes
 
-- **Brigand Leader** (chain) → Defense 6, HP 7  
+- **Brigand Leader** Defense 6, HP 7  
   Broadsword 3d12 (Rushed 1d10)
-- **City Spearman** (leather) → Defense 5, HP 5  
+- **City Spearman** Defense 5, HP 5  
   Spear 2d12
-- **City Archer** (leather) → Defense 5, HP 5  
+- **City Archer** Defense 5, HP 5  
   Shortbow 1d10
 
 The GM declares, “We’re in combat. Zones are: Collapsed Archway (where brigands are), Causeway (where you stand now, the open approach), Rubble Pile (to the side, uneven footing).”
@@ -137,7 +134,7 @@ The GM declares, “We’re in combat. Zones are: Collapsed Archway (where briga
 Each PC rolls an Agility check (2d12 vs their AGI TN) to see if they act with 2 actions or only 1 this round.
 
 - **Kael** rolls 9 vs TN 12 → fail → 1 action this round.
-- **Brynn** rolls 6+6 = doubles → automatic success → 2 actions.
+- **Brynn** rolls 14 vs TN 12 → success → 2 actions.
 - **Sira** rolls 15 vs TN 14 → success → 2 actions.
 
 #### Player Turn
@@ -149,7 +146,7 @@ Each PC rolls an Agility check (2d12 vs their AGI TN) to see if they act with 2 
   He only has one action, so no attacks this turn.
 
 - **Sira**: With a roar, Sira charges alongside Kael (first action), swinging her battleaxe in a heavy arc at the Spearman (second action).  
-  Attack (3d12 → 5, 8, and 12 (explodes); Explosion extra roll 4) → 3 hits. Spearman HP 3→0 (drops).
+  Attack (3d12 → 5, 8, 12) → 3 hits. Spearman HP 3→0 (drops).
 
 #### Enemy Turn
 
@@ -168,7 +165,7 @@ GM: “The brigand leader steps forward with surprising speed, broadsword flashi
 #### Player Turn
 
 - **Brynn** declares he will use both his actions in this turn to attack and loses arrows at the brigand leader.  
-  Shot 1 (2d10 → 10,2; explode 7) → 2 hits. Brigand Leader HP 7→5.
+  Shot 1 (2d10 → 10, 7) → 2 hits. Brigand Leader HP 7→5.
   Shot 2 (rushed 1d12 → 5 < Defense 6) → 0 hits.
 
 - **Kael**: Steadies his rapier and thrusts again.  
@@ -186,7 +183,7 @@ GM: “The brigand leader steps forward with surprising speed, broadsword flashi
 - **Sira** declares Interpose (reaction), ready to shield Kael.
 
 - **Brigand leader** Attack vs Sira (Defense 6):  
-  (3d12 → 5,7,12; explode 6) → 3 hits. Sira HP 10→7.
+  (3d12 → 6,7,12) → 3 hits. Sira HP 10→7.
 
 GM: “The brigand leader’s blade crashes into you, Sira, but Kael is spared. You’ll start next turn with only one action.”  
 
