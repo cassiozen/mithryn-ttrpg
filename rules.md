@@ -29,15 +29,15 @@ When a character attempts something risky, dramatic, or challenging, the GM may 
 
 When the GM deems some attempt to be particularly difficult, they can impose a “difficulty modifier”, a number that adds to the Target Number (TN), making it harder to succeed.
 
-Penalties usually range from +1 (hard) up to +4 (extremely hard), set at the GM discretion.
+Penalties usually range from +1 (hard) up to +4 (extremely hard), set at the GM’s discretion.
 
-Conversely, if the PC have situational benefits (environmental effects, clever planning, etc), the GM might offer you a negative difficulty modifier, lowering the TN and make success easier to accomplish.
+Conversely, if the PC has situational benefits (environmental effects, clever planning, etc), the GM might offer you a negative difficulty modifier, lowering the TN and making success easier to accomplish.
 
 ### Opposition
 
 When two characters directly oppose each other, both roll the relevant Ability check and compare the results as follows:
 
-- One succeeds, one fails: The character who succeeded wins.
+- One succeeds, one fails: The character who succeeds wins.
 - Both succeed: The higher roll wins.
 - Both fail: Neither side gains an edge — the situation is a stalemate.
 
@@ -63,11 +63,11 @@ Example: If your normal TN is 14 and you have Rank 2, using a relevant tag lower
 
 #### When a tag applies to an attack roll:
 
-- Reduce the oponent's Defense by your Rank.
+- Reduce the opponent’s Defense by your Rank.
 
 This represents how your character’s background, training, or knack makes their attack more effective in this particular situation. 
 
-Example: A Rank 2 character with the tag Raised by Sailors is fighting on the deck of a ship. In this setting, the GM rules the tag applies, so the oponent's Defense of 8 is lowered to 6.
+Example: A Rank 2 character with the tag Raised by Sailors is fighting on the deck of a ship. In this setting, the GM rules the tag applies, so the opponent’s Defense of 8 is lowered to 6.
 
 ---
 
@@ -81,7 +81,7 @@ When the character checks the first box within the Wounded or Critical tiers, th
 
 Effects: 
 
-Ability Checks: Roll all ability checks with a penalty of +1 to Targt Numbers.
+Ability Checks: Roll all ability checks with a penalty of +1 to Target Numbers.
 Combat: You only have one action per turn.
 
 ### Critical — “Clinging to Life”
@@ -149,5 +149,3 @@ Example: If an enemy blow shattered your ribs, your scar might be “Breathless 
 - Sworn Never to Abandon a Friend Again — A vow that will drag you into danger.
 - Distrustful of Healers — Refuses aid too long, even when badly hurt.
 - Phantom Pain — Though the wound healed, a limb aches and stiffens in cold or fear.
-
-

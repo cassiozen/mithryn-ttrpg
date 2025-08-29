@@ -34,7 +34,7 @@ These are all examples of valid actions during a player’s turn:
 
 ### Attacking and Damage
 
-To attack, choose a target and roll the number of dice listed in your weapon’s Damage entry. Dice are not summed up - each die is accounted for separately. Each die that equals or exceeds the target’s Defense score score deals 1 hit.
+To attack, choose a target and roll the number of dice listed in your weapon’s Damage entry. Dice are not summed up - each die is accounted for separately. Each die that equals or exceeds the target’s Defense score deals 1 hit.
 
 ### Double attacks
 
@@ -66,7 +66,7 @@ Note: A PC must declare that they are interposing when the attack is announced, 
 
 Grant an ally advantage on their attack if the player can reasonably explain to the GM how you could help in a given situation.
 
-The GM then can grant one automatic hit for the ally's weapon dice.
+The GM then can grant one automatic hit for the ally’s weapon dice.
 
 ---
 
@@ -97,7 +97,7 @@ Many weapons have tags that add tactical variety. Examples:
 Two-handed: Requires both hands free (the PC can’t bear a shield, for example).
 Throwable: Can be used at range by hurling.
 
-Besides these commom tags, some weapons can have unique tags (with unique mechanical effects). Check the Equipment section for a full list of weapons. For example, a Rapier has the “Precise” tag, which allows for the bearer to reroll any dice showing 1.
+Besides these common tags, some weapons can have unique tags (with unique mechanical effects). Check the Equipment section for a full list of weapons. For example, a Rapier has the “Precise” tag, which allows for the bearer to reroll any dice showing 1.
 
 ---
 
@@ -149,7 +149,7 @@ Each PC rolls an Agility check (2d12 vs their AGI TN) to see if they act with 2 
   He only has one action, so no attacks this turn.
 
 - **Sira**: With a roar, Sira charges alongside Kael (first action), swinging her battleaxe in a heavy arc at the Spearman (second action).  
-  Attack (3d12 → 5, 8 and 12 (explodes); Explosion extra roll 4) → 3 hits. Spearman HP 3→0 (drops).
+  Attack (3d12 → 5, 8, and 12 (explodes); Explosion extra roll 4) → 3 hits. Spearman HP 3→0 (drops).
 
 #### Enemy Turn
 
@@ -167,7 +167,7 @@ GM: “The brigand leader steps forward with surprising speed, broadsword flashi
 
 #### Player Turn
 
-- **Brynn** declares he will use both his actions in this turn to attack and looses arrows at the brigand leader.  
+- **Brynn** declares he will use both his actions in this turn to attack and loses arrows at the brigand leader.  
   Shot 1 (2d10 → 10,2; explode 7) → 2 hits. Brigand Leader HP 7→5.
   Shot 2 (rushed 1d12 → 5 < Defense 6) → 0 hits.
 
@@ -188,12 +188,12 @@ GM: “The brigand leader steps forward with surprising speed, broadsword flashi
 - **Brigand leader** Attack vs Sira (Defense 6):  
   (3d12 → 5,7,12; explode 6) → 3 hits. Sira HP 10→7.
 
-GM: “The brigand leader's blade crashes into you, Sira, but Kael is spared. You’ll start next turn with only one action.”  
+GM: “The brigand leader’s blade crashes into you, Sira, but Kael is spared. You’ll start next turn with only one action.”  
 
 - **Archer** at Kael (Defense 5):  
   Shot (1d10 → 6) → 1 hit. Kael HP 4→3.
 
-GM: “You’re Wounded now — Ability Checks are at disadvantage, and you only have one action per turn.”
+GM: “You’re wounded now — Ability Checks are at disadvantage, and you only have one action per turn.”
 
 - End of Round 2 Status:  
   PCs: Kael 3/6 (Wounded), Brynn 6/7, Sira 8/10 (used reaction)  
@@ -211,4 +211,4 @@ GM: “You’re Wounded now — Ability Checks are at disadvantage, and you only
   Bloodied but unbowed, he lunges at the leader.  
   Attack (2d12 → 10,2) → 1 hit. HP 1→0 (dead).
 
-GM: “The Brigand leader falls, clutching at the wound. Seeing their captain collapse, the archer falters. His nerve breaks and he flees”
+GM: “The Brigand leader falls, clutching at the wound. Seeing their captain collapse, the archer falters. His nerve breaks, and he flees.”

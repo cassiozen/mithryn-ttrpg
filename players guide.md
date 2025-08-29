@@ -50,14 +50,14 @@ Mithyn saying, Unknown author.
 
 Mithryn is a land on a vast plateau surrounded by mountains, most notably Mount Amaroth, an old dormant volcano.
 
-Few beyond its borders think much of it. Ask a scholar or a trader and you will hear the same account: Mithryn is a barren land notable for nothing, except, perhaps, for the tyrannical king it once had, thousands of years ago. An evil promptly toppled by the kingdoms of Men and Elves from the north, who brought freedom to the land. Nothing has come from Mithryn since — no trade, no learning, nothing worth remembering. To the outside world, it is a closed book.
+Few beyond its borders think much of it. Ask a scholar or a trader, and you will hear the same account: Mithryn is a barren land notable for nothing, except, perhaps, for the tyrannical king it once had, thousands of years ago. An evil promptly toppled by the kingdoms of Men and Elves from the north, who brought freedom to the land. Nothing has come from Mithryn since — no trade, no learning, nothing worth remembering. To the outside world, it is a closed book.
 
 Yet to live here is different. The people of Mithryn carry reminders that their past is not as simple as it seems. 
 Generations of diversity have left most faces bearing features of multiple lineages at once. Here, difference is ordinary, and it is one of the few things the outside world notices only to dismiss.
 
 Sometimes the earth itself betrays the lie. A half-buried rubble of neatly cut stone blocks, some with bits of worked metal and glass still embedded; A shard of pottery that seems to shimmer in ways dye alone cannot explain... Beautiful, impossible relics found nowhere else in the world, yet somehow buried in the dirt of a place that, by their accounts, has never produced anything worth remembering.
 
-For generations people have hidden them, tucking them away inside fake walls or under floorboards, passing them down quietly despite the danger - the law demanded they be surrendered; to keep one was a capital crime.
+For generations, people have hidden them, tucking them away inside fake walls or under floorboards, passing them down quietly despite the danger - the law demanded they be surrendered; to keep one was a capital crime.
 
 That law is rarely enforced now. The outside world has moved on, and Mithryn is no longer closely watched. You may still see a northern soldier from time to time, but the occupation is mostly gone.
 
@@ -67,7 +67,7 @@ Years of fear taught people to keep their heads down and not ask questions. But 
 
 ### What This Game Is About
 
-As players in Mithryn, you are stepping into a land full of contradictions. The world says it is barren and broken, but everywhere you look, there are signs of something more profound: fragments of beauty, echoes of brilliance, and mysteries that don’t fit the stories you’ve been told.
+As players in Mithryn, you are stepping into a land full of contradictions. The world says it is barren and broken. Still, everywhere you look, there are signs of something more profound: fragments of beauty, echoes of brilliance, and mysteries that don’t fit the stories you’ve been told.
 
 The central themes you’ll explore are:
 
@@ -77,13 +77,13 @@ Much of what you see around you doesn’t add up. Your journey is as much about 
 
 #### Control and Freedom
 
-This is a land where history was erased and silence has been enforced for generations, but where people still find ways to resist — through quiet defiance, whispered stories, or simply surviving. You’ll face questions about power: who holds it, how it is maintained, and what happens when it begins to slip.
+This is a land where history has been erased and silence has been enforced for generations, but where people still find ways to resist — through quiet defiance, whispered stories, or simply by surviving. You’ll face questions about power: who holds it, how it is maintained, and what happens when it begins to slip.
 
 #### Awakening
 
 There are forces at play that cannot be fully explained with the knowledge you have — a shimmer in the corner of your eye, a warmth in the air that feels like promise.
 
-As the campaign unfolds, this “awakening” will move from background atmosphere into the heart of your journey. Together, you’ll shape how it unravels — and what kind of future it might bring.
+As the campaign unfolds, this “awakening” will shift from a background atmosphere to the heart of your journey. Together, you’ll shape how it unravels — and what kind of future it might bring.
 
 ---
 
@@ -91,7 +91,7 @@ As the campaign unfolds, this “awakening” will move from background atmosphe
 
 ### Step 1 - Name and heritage traits
 
-For your character, the real history of Mithryn is yet to be uncovered, but as a player, you can know that this is a land where differences were welcomed and celebrated. Over generations, a tapestry of cultures, features, and traditions was woven so tightly that notions like “pure” bloodlines or rigid racial divisions are now meaningless. Love and marriage happen without regard to skin color, stature, or whether your ears are round or pointy, your feet are cloaked in hair, or your beard refuses to be tamed.
+For your character, the real history of Mithryn is yet to be uncovered. As a player, you can know that this is a land where differences were welcomed and celebrated. Over generations, a tapestry of cultures, features, and traditions was woven so tightly that notions like “pure” bloodlines or rigid racial divisions are now meaningless. Love and marriage happen without regard to skin color, stature, or whether your ears are round or pointy, your feet are cloaked in hair, or your beard refuses to be tamed.
 
 If you were born here, your ancestry is shared — Your appearance may echo one heritage more than another, but your bloodline belongs to all.
 
@@ -124,7 +124,7 @@ Starting out: Characters begin at Level 1 with Rank 1. You’ll track both at th
 
 Your character is defined by five Ability Scores — numbers that represent their natural talents and aptitudes. These scores shape how well they perform in challenges, from swinging a sword to persuading a crowd.
 
-- **Agility** — Speed, balance, fluidity of movements and ability to react swiftly to danger.  
+- **Agility** — Speed, balance, fluidity of movements, and ability to react swiftly to danger.  
   *Examples: Sprint, Leap, Dodge, Maneuver*
 - **Strength** — Physical power and resilience: the capacity to exert force and resist harm.
   *Examples: Lift, Smash, Grapple, Endure*
@@ -132,7 +132,7 @@ Your character is defined by five Ability Scores — numbers that represent thei
   *Examples: Pick, Control, Hide, Tinker, Sneak*
 - **Insight** — Awareness, intuition, and perception: reading truth beneath the surface and noticing hidden patterns.
   *Examples: Perceive, Sense, Discern, Navigate*
-- **Will** — Force of personality, courage and resolve. Bending circumstances toward your intent.
+- **Will** — Force of personality, courage, and resolve. Bending circumstances toward your intent.
   *Examples: Persuade, Intimidate, Inspire, Resist fear or coercion*
 
 #### Note: Contrasting Abilities
@@ -179,7 +179,7 @@ You start the game with four tags:
 
 #### How Tags Work
 
-When a tag is clearly relevant to what the PC is attempting, it lowers the target number (TN) of the roll by the PC's rank (making success easier).
+When a tag is clearly relevant to what the PC is attempting, it lowers the target number (TN) of the roll by the PC’s rank (making success easier).
 
 Example: Ariad has Rank 2 and the tag Animal Whisperer. Calming a frightened horse normally calls for a Will roll. Her Will TN is 14, but since the tag clearly applies, she lowers it to 12. She rolls 12 and succeeds.
 
@@ -306,7 +306,7 @@ These suggested kits pair clear **requirements** with solid early-game gear. Eac
   - **Leftover**: **0 gp**
   - **Variation**: Swap Chainmail for Padded armor to free **10 gp** for Rope, Flint & Steel, Torches.
 
-- **Guardian**: Frontliner who Holds the line and protects allies.
+- **Guardian**: Frontliner who holds the line and protects allies.
   - **Requirements**: STR 6+ **and** AGI 6+ (Spear)
   - **Weapon**: Spear **2d12** (Rushed **1d12**)
   - **Armor**: Chainmail (+4)
@@ -381,7 +381,7 @@ There are **10 total levels**, grouped into **4 ranks**:
 
 ### Gaining a Level  
 
-Whenever you gain a level, you can increase one of your abilitiy scores or your hit points.
+Whenever you gain a level, you can increase one of your ability scores or your hit points.
 
 Note that each Rank sets the **maximum values** your character can reach in Abilities and Hit Points:
 
@@ -392,11 +392,11 @@ Note that each Rank sets the **maximum values** your character can reach in Abil
 #### choose **one** of the following benefits:  
 
 - **Increase an Ability by +1**  
-  - Limited by the Rank's maximum
+  - Limited by the Rank’s maximum
   - Don’t forget to update that ability’s Target Number (TN = 20 − new score).  
 
 - **Gain +1 Hit Point slot**  
-  - Limited by the Rank's maximum
+  - Limited by the Rank’s maximum
   - Add an empty box to your HP track when this increases.  
 
 ---
@@ -418,7 +418,7 @@ At levels **3, 6, and 9**, your character crosses into a new Rank. This comes wi
 When you ease a complication, you’re showing how your character has faced a burden and either learned to manage it or partially resolved it:
 
 - Leave a trace: Complications rarely vanish entirely. Easing doesn’t mean erasing — it means lessening their weight or narrowing their impact.
-- Has to be earned: Easing a complication must be justified  to something that happened in play — a choice, sacrifice, or breakthrough.
+- Has to be earned: Easing a complication must be justified by something that happened in play — a choice, sacrifice, or breakthrough.
 
 Examples: 
 
