@@ -28,11 +28,13 @@ TN = 20 - Ability Score
 
 When a character attempts something risky, dramatic, or challenging, the GM may call for an ability check. If a relevant tag applies, lower the TN by your Rank. The player then rolls **2d12**: If the result is **equal to or greater than** that ability’s TN, the attempt succeeds.
 
-### Difficulty penalties
+### Difficulty
 
-When the GM deems some action to be particularly difficult, they can impose a “difficulty penalty”, a number that adds to the Target Number (TN), making it harder to succeed.
+When the GM deems some attempt to be particularly difficult, they can impose a “difficulty modifier”, a number that adds to the Target Number (TN), making it harder to succeed.
 
 Penalties usually range from +2 (hard) up to +4 (extremely hard), but the GM can set it at their discretion.
+
+Conversely, if the PC have situational benefits (environmental effects, clever planning, etc), the GM might offer you a negative difficulty modifier, lowering the TN and make success easier to accomplish.
 
 
 ### Automatic Success on Doubles
@@ -42,25 +44,6 @@ If the player rolls **doubles** (both dice showing the exact same number), it is
 Low Doubles (1s, 2s and 3s): Still a success, but a close call. The GM might determine that it comes with a cost or a consequence, or minor setback alongside the success.
 
 High Doubles (10s, 11s, or 12s): These count as a **critical success**. The action not only succeeds, but does so in an especially powerful, impressive, or advantageous way, determined by the GM.
-
-
-### Advantage and Disadvantage
-
-Sometimes characters have situational benefits or hindrances (environmental effects, clever planning, etc). At the GM discretion, they can ask the players to roll with advantage.
-
-To do this, roll 1 additional die of the same type and remove the lowest (see examples below). Alternatively, if the situation is grim or your idea is a long shot, you may have to roll with disadvantage (removing the highest die instead).
-
-Advantage example:
-Sorel the rogue sneaks across a creaky wooden floor, but she sprinkled sand to muffle the noise. The GM grants advantage, so she rolls 3d12 for her Agility check and keeps the two highest dice.
-
-Note that doubles only count if they are the two highest rolls. In the example above, if Sorel rolled 6, 6 and 9, she would have removed one of the sixes, for a total of 6 + 9 = 15.
-
-
-Disadvantage example:
-Thorig tries to shove open a gate while arrows rain down on him. The GM gives him disadvantage, so he rolls 3d12 for his Strength check and keeps the two lowest dice.
-
-
-Advantage and disadvantage can also apply in combat: When you have advantage on an attack (due to clever tactics, flanking, or favorable conditions), roll one extra die of the same type as your weapon’s Damage dice, then discard the lowest die before counting hits. With disadvantage, roll one extra die and drop the highest. For complete combat rules, check the next chapter: Combat.
 
 ---
 

@@ -68,7 +68,9 @@ Note: A PC must declare that they are interposing when the attack is announced, 
 
 ### Help
 
-Grant an ally advantage on their attack if the player can reasonably explain to the GM how you could help in a given situation. The GM may call for an attribute check or grant it automatically, depending on how good the idea is.
+Grant an ally advantage on their attack if the player can reasonably explain to the GM how you could help in a given situation. 
+
+The GM then can grant let the ally re-roll up to 2 damage dice if they aren't hits.
 
 ---
 
