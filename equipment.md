@@ -8,13 +8,13 @@
 | **Handaxe**               | STR 7              | **1d20**                               | **1d10**      |  10    | Throwable                           |
 | **Spear**                 | STR 6 + AGI 6      | **2d12**                               | **1d12**      |  10    | Throwable                           |
 | **Mace**                  | STR 8              | **2d20**                               | **1d10**      |  10    |                                     |
-| **Broadsword**            | STR 10             | **3d12**                               | **1d10**      |  25    | Bulky, two-handed                   |
-| **Battleaxe**             | STR 10             | **3d12**                               | **1d10**      |  35    | Bulky, two-handed                   |
-| **Halberd**               | STR 10 + AGI 7     | **3d20**                               | **1d12**      |  30    | Bulky, two-handed                   |
+| **Broadsword**            | STR 10             | **3d12**                               | **1d10**      |  25    | two-handed                          |
+| **Battleaxe**             | STR 10             | **3d12**                               | **1d10**      |  35    | two-handed                          |
+| **Halberd**               | STR 10 + AGI 7     | **3d20**                               | **1d12**      |  30    | two-handed                          |
 | **Throwing Knives** (set) | FIN 7              | **1d10** (×2 can be thrown per attack) | **1d10**      |  7     |                                     |
 | **Shortbow**              | AGI 7              | **1d10**                               | **1d10**      |  15    | Ranged, requires free hands         |
-| **Longbow**               | STR 7 + AGI 7      | **2d10**                               | **1d12**      |  25    | Ranged, bulky, requires free hands  |
-| **Crossbow**              | STR 6              | **2d12**                               | — *(reload)*  |  30    | Ranged, bulky, reload (skip rush)   |
+| **Longbow**               | STR 7 + AGI 7      | **2d10**                               | **1d12**      |  25    | Ranged, requires free hands         |
+| **Crossbow**              | STR 6              | **2d12**                               | — *(reload)*  |  30    | Ranged, reload (skip rush)          |
 
 ---
 
@@ -24,7 +24,7 @@
 | ------------------- | ------------- | ------ | -------------------------- |
 | Padded Leather Vest | +3            | 10 |                            |
 | Chainmail           | +4            | 20 |                            |
-| Plate               | +5            | 35 | Bulky                      |
+| Plate               | +5            | 35 |                            |
 | Shield              | +1            | 15 | Can be combined with armor |
 
 ---

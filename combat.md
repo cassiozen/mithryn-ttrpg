@@ -98,7 +98,6 @@ This makes weapon choice a balancing act — you’ll get the best out of weapon
 
 Many weapons have tags that add tactical variety. Examples:
 
-Bulky: Counts as 2 inventory slots.
 Two-handed: Requires both hands free (the PC can’t bear a shield, for example).
 Throwable: Can be used at range by hurling.
 
