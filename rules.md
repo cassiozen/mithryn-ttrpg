@@ -25,12 +25,6 @@ TN = 20 - Ability Score
 
 When a character attempts something risky, dramatic, or challenging, the GM may call for an ability check. If a relevant tag applies, lower the TN by your Rank. The player then rolls a **d20**: If the result is **equal to or greater than** that ability’s TN, the attempt succeeds.
 
-### Opposition
-
-If two opponents are each trying to overcome the other, only one side rolls: the side with more at stake in the fiction (fallback: the character with the lowest relevant Ability score).
-
-On a success, they get what they want; on a fail, the opposition prevails.
-
 ### Difficulty
 
 When the GM deems some attempt to be particularly difficult, they can impose a “difficulty modifier”, a number that adds to the Target Number (TN), making it harder to succeed.
@@ -39,13 +33,13 @@ Penalties usually range from +1 (hard) up to +4 (extremely hard), set at the GM 
 
 Conversely, if the PC have situational benefits (environmental effects, clever planning, etc), the GM might offer you a negative difficulty modifier, lowering the TN and make success easier to accomplish.
 
-### Critical Success and Failure  
+### Opposition
 
-Sometimes the dice decide the outcome in dramatic ways.  
+When two characters directly oppose each other, both roll the relevant Ability check and compare the results as follows:
 
-- **Critical Success (roll of 20):** No matter the Target Number, the action succeeds — and not just barely. It succeeds in an especially powerful, impressive, or advantageous way, as determined by the GM.  
-
-- **Critical Failure (roll of 1):** No matter the Target Number, the action fails — and it fails badly. The attempt comes with a cost, consequence, or setback that pushes the story forward.  
+- One succeeds, one fails: The character who succeeded wins.
+- Both succeed: The higher roll wins.
+- Both fail: Neither side gains an edge — the situation is a stalemate.
 
 ---
 
@@ -69,13 +63,11 @@ Example: If your normal TN is 14 and you have Rank 2, using a relevant tag lower
 
 #### When a tag applies to an attack roll:
 
-- One of your damage dice automatically counts as a hit.
+- Reduce the oponent's Defense by your Rank.
 
 This represents how your character’s background, training, or knack makes their attack more effective in this particular situation. 
 
-A player can all the tags that apply (ruled by the GM), but each tag counts only once per combat.
-
-Example: A PC with the tag Raised by Sailors is fighting on the deck of a ship. In this setting, the GM rules the tag applies, so one of the player’s weapon dice automatically counts as a hit.
+Example: A Rank 2 character with the tag Raised by Sailors is fighting on the deck of a ship. In this setting, the GM rules the tag applies, so the oponent's Defense of 8 is lowered to 6.
 
 ---
 
