@@ -2,6 +2,10 @@
 
 ## System Design Principles
 
+### Compact, Not Crunchy
+
+A compact system should be unified and consistent: a small number of mechanics that apply across many situations. Compact design avoids bloat and redundancy, but this does not mean stricly rules-light. Depth comes from how rules interlock, not from piling on subsystems.
+
 ### Player-Centered Dice
 
 I believe that players should always know what number they’re aiming for: This empowers informed decisions. Roll-under mechanics achieve this, but can feel alien since in virtually every dice game higher = better.
