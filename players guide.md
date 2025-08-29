@@ -294,7 +294,7 @@ Balancing your amount of coins and weapon ability requirements can make choosing
 Starter kits are suggested gear packs built around familiar types of characters. They include the weapon and armor requirements you’ll need to meet and how much coin you’ll have left.
 
 - **Adventurer**: All-purpose explorer with a balance of melee and ranged.  
-  Requirements: STR 4+ (Short Sword), AGI 6+ (Shortbow)  
+  Requirements: STR 6+ (Short Sword), AGI 7+ (Shortbow)  
   Wepons: Short Sword 2d12 (Rushed 1d10); Shortbow 1d10 (Rushed 1d10)  
   Armor: Chainmail (+4)  
   What else you get: Backpack, Waterskin.  
@@ -302,7 +302,7 @@ Starter kits are suggested gear packs built around familiar types of characters.
   Variation: Swap Chainmail for Padded armor to free gold for Rope, Flint & Steel and Torches without changing playstyle.
   
 - **Guardian**: Protective frontliner who holds the line and keeps allies safe.  
-  Requirements: STR 5+ & AGI 5+ (Spear)  
+  Requirements: STR 6+ & AGI 6+ (Spear)  
   Weapon: Spear 2d12 (Rushed 1d12)  
   Armor: Padded Leather (+3), Shield (+1)  
   What else you get: Backpack, Rope, Flint & Steel, Waterskin, Torches  
@@ -310,7 +310,7 @@ Starter kits are suggested gear packs built around familiar types of characters.
   Variation: Upgrade Padded → Chainmail: With your leftover 7 gp, add +3 gp (e.g., drop Rope) to reach Chainmail.
   
 - **Greatblade**: Heavy-hitting warrior who wields massive steel with two hands.  
-  Requirements: STR 9+ (Broadsword)  
+  Requirements: STR 10 (Broadsword)  
   Weapon: Broadsword 3d12 (Rushed 1d10)  
   Armor: Chainmail (+4)  
   What else you get: Backpack  
@@ -319,8 +319,8 @@ Starter kits are suggested gear packs built around familiar types of characters.
   Variation: If you’re short on STR, swap to Mace (10) now and bank +15 gp for utility.
 
 - **Wallbreaker**: Armored bulwark who shrugs off blows and stands firm.  
-  Requirements: STR 6+ (Mace)  
-  Weapon: Mace 2d12 (Rushed 1d10)  
+  Requirements: STR 8+ (Mace)  
+  Weapon: Mace 2d20 (Rushed 1d10)  
   Armor: Chainmail (+4), Shield (+1)  
   What else you get: Backpack  
   Leftover: 5 gp  
@@ -328,15 +328,15 @@ Starter kits are suggested gear packs built around familiar types of characters.
   Variation: Spend the 5 gp on Rope or Grappling Hook for siege-y vibes.
 
 - **Archer**: Sharp-eyed hunter and tracker who brings down foes from afar.  
-  Requirements: STR 7+ & AGI 6+ (Longbow)  
+  Requirements: STR 7+ & AGI 7+ (Longbow)  
   Weapons: Longbow 2d10 (Rushed 1d12); Dagger 1d10 (Rushed 1d10)  
   Armor: Padded Leather (+3)  
   What else you get: Backpack, Camping Gear, Waterskin, Torches  
   Leftover: 5 gp  
-  Variation: If STR <7 or AGI <6, drop to Shortbow (15) and pocket +10 gp for Lockpicks or Lantern.
+  Variation: If STR <7 or AGI <7, drop to Shortbow (15) and pocket +10 gp for Lockpicks or Lantern.
 
 - **Sneak / Thief**: Cunning infiltrator who relies on stealth, tools, and quick blades.  
-  Requirements: STR 4+ (Short Sword).  
+  Requirements: STR 6+ (Short Sword).  
   Weapons: Short Sword 2d12 (Rushed 1d10); Dagger 1d10 (Rushed 1d10)  
   Armor: Padded Leather (+3)  
   What else you get: Backpack, Lockpicks, Rope, Climbing Kit  
@@ -344,7 +344,7 @@ Starter kits are suggested gear packs built around familiar types of characters.
   Variation: Trade Short Sword → Rapier if FIN 7+; costs +5 gp, so drop Rope or Climbing Kit.
 
 - **Pathfinder**: Keen-eyed traveler who blends melee, ranged, and survival skills.  
-  Requirements: STR 5+ & AGI 5+ (Spear), AGI 6+ (Shortbow)  
+  Requirements: STR 6+ & AGI 7+  
   Weapons: Spear 2d12 (Rushed 1d12); Shortbow 1d10 (Rushed 1d10)  
   Armor: Padded Leather (+3)  
   What else you get: Backpack, Rope, Camping Gear, Waterskin, Torches  
@@ -352,7 +352,7 @@ Starter kits are suggested gear packs built around familiar types of characters.
   Variation: If you swap Spear → Short Sword, reqs become STR 4+ with the same total cost.
 
 - **Scholar / Investigator**: Curious mind who carries instruments for study, notes, and insight.  
-  Requirements: FIN 4+ (Dagger)  
+  Requirements: FIN 5+ (Dagger)  
   Weapon: Dagger 1d10 (Rushed 1d10)  
   Armor: Padded Leather (+3)  
   What else you get: Backpack, Magnifying Glass, Lantern & Oil, Writing Kit  

@@ -2,19 +2,19 @@
 
 | Weapon                    | Requirements       | Damage Dice                            | Rushed Damage | Price  | Tags                                |
 | ------------------------- | ------------------ | -------------------------------------- | ------------- | ------ | ----------------------------------- |
-| **Dagger**                | FIN 4              | **1d10**                               | **1d10**      |  5     | Concealable, throwable              |
-| **Short Sword**           | STR 4 **or** FIN 6 | **2d12**                               | **1d10**      |  10    |                                     |
-| **Rapier**                | FIN 7              | **2d12**                               | **1d10**      |  15    | Precise (reroll any dice showing 1) |
-| **Handaxe**               | STR 4              | **1d20**                               | **1d10**      |  10    | Throwable                           |
-| **Spear**                 | STR 5 + AGI 5      | **2d12**                               | **1d12**      |  10    | Throwable                           |
-| **Mace**                  | STR 6              | **2d20**                               | **1d10**      |  10    |                                     |
-| **Broadsword**            | STR 9              | **3d12**                               | **1d10**      |  25    | Bulky, two-handed                   |
-| **Battleaxe**             | STR 9              | **3d12**                               | **1d10**      |  35    | Bulky, two-handed                   |
-| **Halberd**               | STR 9 + AGI 7      | **3d20**                               | **1d12**      |  30    | Bulky, two-handed                   |
-| **Throwing Knives** (set) | FIN 6              | **1d10** (×2 can be thrown per attack) | **1d10**      |  7     |                                     |
-| **Shortbow**              | AGI 6              | **1d10**                               | **1d10**      |  15    | Ranged, requires free hands         |
-| **Longbow**               | STR 7 + AGI 6      | **2d10**                               | **1d12**      |  25    | Ranged, bulky, requires free hands  |
-| **Crossbow**              | STR 5              | **2d12**                               | — *(reload)*  |  30    | Ranged, bulky, reload (skip rush)   |
+| **Dagger**                | FIN 5              | **1d10**                               | **1d10**      |  5     | Concealable, throwable              |
+| **Short Sword**           | STR 6              | **2d12**                               | **1d10**      |  10    |                                     |
+| **Rapier**                | FIN 6              | **2d12**                               | **1d10**      |  15    | Precise (reroll any dice showing 1) |
+| **Handaxe**               | STR 7              | **1d20**                               | **1d10**      |  10    | Throwable                           |
+| **Spear**                 | STR 6 + AGI 6      | **2d12**                               | **1d12**      |  10    | Throwable                           |
+| **Mace**                  | STR 8              | **2d20**                               | **1d10**      |  10    |                                     |
+| **Broadsword**            | STR 10             | **3d12**                               | **1d10**      |  25    | Bulky, two-handed                   |
+| **Battleaxe**             | STR 10             | **3d12**                               | **1d10**      |  35    | Bulky, two-handed                   |
+| **Halberd**               | STR 10 + AGI 7     | **3d20**                               | **1d12**      |  30    | Bulky, two-handed                   |
+| **Throwing Knives** (set) | FIN 7              | **1d10** (×2 can be thrown per attack) | **1d10**      |  7     |                                     |
+| **Shortbow**              | AGI 7              | **1d10**                               | **1d10**      |  15    | Ranged, requires free hands         |
+| **Longbow**               | STR 7 + AGI 7      | **2d10**                               | **1d12**      |  25    | Ranged, bulky, requires free hands  |
+| **Crossbow**              | STR 6              | **2d12**                               | — *(reload)*  |  30    | Ranged, bulky, reload (skip rush)   |
 
 ---
 
