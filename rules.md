@@ -9,9 +9,11 @@ Each of the six abilities is used in different circumstances (see Ability Checks
 | **Agility (AGI)** | Acrobatics, climbing, balancing, dodging, initiative rolls, escape artist actions.               |
 | **Strength (STR)** | Lifting, pushing/pulling, breaking objects, grappling, shoving, resisting forced movement.                      |
 | **Finesse (FIN)** | Sleight of hand, lockpicking, trap disarming, stealth, delicate tool use.  |
-| **Insight (INS)** | Perception, insight (reading people), detecting lies, tracking, navigation |
-| **Presence (PRE)** | Persuasion, intimidation, deception, performance, leadership, rallying allies, negotiation.                                |
-| **Knowledge (KNO)** | Investigation, recall of lore, deciphering languages, identifying creatures or items. |
+| **Insight (INS)** | Perception, detecting lies, tracking, navigation |
+| **Will (WIL)** | Persuasion, charm, intimidation, resisting fear or influence, bending circumstances toward your intent. |
+| **Knowledge (KNO)** | Education, recall of lore, deciphering languages, identifying creatures or items. |
+
+
 
 ### Target Numbers (TNs)
 

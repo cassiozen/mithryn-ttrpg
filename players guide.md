@@ -124,30 +124,43 @@ Starting out: Characters begin at Level 1 with Rank 1. You’ll track both at th
 
 Your character is defined by six Ability Scores — numbers that represent their natural talents and aptitudes. These scores shape how well they perform in challenges, from swinging a sword to persuading a crowd.
 
-There are six Ability Scores: three physical (Agility, Strength, and Finesse) and three mental (Insight, Presence, and Knowledge).
+There are six Ability Scores: three physical (Agility, Strength, and Finesse) and three mental (Insight, Will, and Knowledge).
 
-- **Agility** — Speed, nimbleness, quick reactions to danger  
-  *Examples: Sprint, Leap, Maneuver*
+- **Agility** — Speed, balance, and quick reaction to danger  
+  *Examples: Sprint, Leap, Dodge, Maneuver*
 - **Strength** — Raw power, toughness, grit, and stamina  
-  *Examples: Lift, Smash, Grapple*
+  *Examples: Lift, Smash, Grapple, Endure*
 - **Finesse** — Precision, accuracy, and delicate or stealthy work  
-  *Examples: Control, Hide, Tinker*
-- **Insight** — Intuition, the ability to read people and environments  
-  *Examples: Perceive, Sense, Navigate*
-- **Presence** — Force of personality, confidence, persuasion, social command  
-  *Examples: Charm, Perform, Deceive*
+  *Examples: Pick, Control, Hide, Tinker, Sneak*
+- **Insight** — Awareness, intuition, and reading truth beneath the surface
+  *Examples: Perceive, Sense, Discern, Navigate*
+- **Will** — Presence, influence, and the drive to shape outcomes
+  *Examples: Persuade, Intimidate, Inspire, Resist fear or coercion*
 - **Knowledge** — Education, reasoning, and comprehension.
-  *Examples: Recall, Analyze*
+  *Examples: Recall, Analyze, Decipher, Identify*
+
+
+#### Note: Contrasting Abilities
+
+**Agility vs. Finesse:**  
+Agility is about whole-body movement — climbing, leaping, dodging, or keeping your balance when the ground shifts beneath you. Finesse is about precision and control — steady hands for delicate tools, quiet steps for stealth, or subtle motions for sleight of hand. One governs speed and grace in motion, the other governs accuracy and subtlety.
+
+**Insight vs. Will:**  
+Insight is the ability to take in reality — noticing details, reading people, sensing patterns, understanding what’s true beneath the surface. Will is the ability to project yourself onto reality — to persuade, to charm, and to bend the world toward your intent. One is input, the other is output.
+
+#### Scores
 
 Ability scores range from 1 to 12 (or more, for legendary creatures). For reference, most healthy adult humans have scores in the 2-10 range.
 
-Scores at the extremes are evident to those around you:
-At the low end (2 or 1), others might see you as sluggish, always a half-step behind (AGI); looking as though a stiff wind could knock you over (STR); fumbling with tools and knocking things over when you meant to be careful (FIN); missing the obvious or trusting the wrong person at the worst time (INS); speaking in a way that fails to hold attention, your presence fading soon after (PRE); or staring at a simple map as if it’s written in a foreign tongue (KNO).
-At the high end (11 or 12), you might be seen as impossibly quick, always in the right place before anyone else reacts (AGI); built like a fortress wall (STR); deft and sure-handed, as if you could thread a needle in the dark (FIN); uncanny in how you read people and places, spotting what no one else notices (INS); magnetic in presence, drawing eyes and commanding attention without effort (PRE); or a well of knowledge, recalling facts and connections effortlesly (KNO).
+Scores at the extremes are evident to those around you:  
+
+At the low end (2 or 1), others might see you as sluggish, always a half-step behind (AGI); looking as though a stiff wind could knock you over (STR); fumbling with tools and knocking things over when you meant to be careful (FIN); missing the obvious or trusting the wrong person at the worst time (INS); speaking in a way that fails to hold attention, your presence fading soon after (WIL); or staring at a simple map as if it’s written in a foreign tongue (KNO).
+
+At the high end (11 or 12), you might be seen as impossibly quick, always in the right place before anyone else reacts (AGI); built like a fortress wall (STR); deft and sure-handed, as if you could thread a needle in the dark (FIN); uncanny in how you read people and places, spotting what no one else notices (INS); magnetic in presence, drawing eyes and commanding attention without effort (WIL); or a well of knowledge, recalling facts and connections effortlesly (KNO).
 
 To assign your ability scores, distribute the following numbers between your attributes:  5, 6, 6, 7, 8, 10. Then, write them down on your character sheet.
 
-#### Calculate the Target Numbers (TNs)
+#### Target Numbers (TNs)
 
 Whenever you try something risky, dramatic, or simply difficult within the game, you’ll roll the dice to see if your character pulls it off.
 
@@ -157,7 +170,7 @@ A low TN means your character is skilled in that area — it’ll be easier to s
 
 A high TN means your character struggles in that area — it’ll be harder to succeed.
 
-##### How to Find Each TN
+##### Calculating the TNs
 
 Every Ability Score has its own TN. To figure it out:
 
@@ -184,7 +197,7 @@ You start the game with four tags:
 
 When a tag is clearly relevant to what the PC is attempting, it lowers the target number (TN) of the roll by the PC's rank (making success easier).
 
-Example: Ariad has Rank 2 and the tag Animal Whisperer. Calming a frightened horse normally calls for a Presence roll. Her Presence TN is 14, but since the tag clearly applies, she lowers it to 12. She rolls 12 and succeeds.
+Example: Ariad has Rank 2 and the tag Animal Whisperer. Calming a frightened horse normally calls for a Will roll. Her Will TN is 14, but since the tag clearly applies, she lowers it to 12. She rolls 12 and succeeds.
 
 #### Complications
 

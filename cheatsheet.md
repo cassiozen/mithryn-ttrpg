@@ -2,7 +2,7 @@
 
 ## Core Mechanics
 
-- **Ability Scores (1–12):** Agility, Strength, Finesse, Insight, Presence, Knowledge.
+- **Ability Scores (1–12):** Agility, Strength, Finesse, Insight, Will, Knowledge.
 - **Target Number (TN):** `20 – Ability Score`. Lower is better.
 - **Ability Check:** Roll 2d12. If total ≥ TN, you succeed. If a relevant Tag applies, **reduce TN by your Rank**.
 - **Difficulty Penalty:** GM may add **+1 to +4** to TN for unusual obstacles.
