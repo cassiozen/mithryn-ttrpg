@@ -4,7 +4,7 @@
 
 ### Agency
 
-- Attributes and related ability checks do not define your character. They are tools.
+- Abilities and related ability checks do not define your character. They are tools.
 - Don’t ask only what your character would do, ask what you would do, too.
 - Be creative with your intuition, items, and connections.
 
@@ -122,7 +122,7 @@ Starting out: Characters begin at Level 1 with Rank 1. You’ll track both at th
 
 ### Step 3 - Assign your Ability Scores
 
-Your character is defined by six Ability Scores — numbers that represent their natural talents and aptitudes. These scores shape how well they perform in challenges, from swinging a sword to persuading a crowd.
+Your character is defined by five Ability Scores — numbers that represent their natural talents and aptitudes. These scores shape how well they perform in challenges, from swinging a sword to persuading a crowd.
 
 - **Agility** — Speed, balance, fluidity of movements and ability to react swiftly to danger.  
   *Examples: Sprint, Leap, Dodge, Maneuver*
@@ -293,70 +293,63 @@ At character creation, you begin with 50 gold pieces to spend on weapons, armor,
 Balancing your amount of coins and weapon ability requirements can make choosing gear feel overwhelming for new players.  
 Starter kits are suggested gear packs built around familiar types of characters. They include the weapon and armor requirements you’ll need to meet and how much coin you’ll have left.
 
+#### Starting Kits (Updated for Balanced Weapons)
+
+Balancing coins and ability requirements can feel overwhelming for new players.  
+These suggested kits pair clear **requirements** with solid early-game gear. Each kit lists **weapons**, **armor**, a few **tools**, and the **gold left** from a 50 gp budget.
+
 - **Adventurer**: All-purpose explorer with a balance of melee and ranged.  
-  Requirements: STR 6+ (Short Sword), AGI 7+ (Shortbow)  
-  Wepons: Short Sword 2d12 (Rushed 1d10); Shortbow 1d10 (Rushed 1d10)  
-  Armor: Chainmail (+4)  
-  What else you get: Backpack, Waterskin.  
-  Leftover: 4 gp  
-  Variation: Swap Chainmail for Padded armor to free gold for Rope, Flint & Steel and Torches without changing playstyle.
+  - **Requirements**: STR 6+ for Short Sword; AGI 7+ for Shortbow
+  - **Weapons**: Short Sword **2d10** (Rushed **1d10**); Shortbow **1d10** (Rushed **1d10**)
+  - **Armor**: Chainmail (+4)
+  - **Tools**: Backpack, Waterskin
+  - **Leftover**: **5 gp**
+  - **Variation**: Swap Chainmail for Padded armor to free **10 gp** for Rope, Flint & Steel, Torches.
+
+- **Guardian**: Frontliner who Holds the line and protects allies.
+  - **Requirements**: STR 6+ **and** AGI 6+ (Spear)
+  - **Weapon**: Spear **2d12** (Rushed **1d12**)
+  - **Armor**: Chainmail (+4)
+  - **Tools**: Backpack, Rope, Flint & Steel, Waterskin, Torches
+  - **Leftover**: **0 gp**
   
-- **Guardian**: Protective frontliner who holds the line and keeps allies safe.  
-  Requirements: STR 6+ & AGI 6+ (Spear)  
-  Weapon: Spear 2d12 (Rushed 1d12)  
-  Armor: Padded Leather (+3), Shield (+1)  
-  What else you get: Backpack, Rope, Flint & Steel, Waterskin, Torches  
-  Leftover: 7 gp  
-  Variation: Upgrade Padded → Chainmail: With your leftover 7 gp, add +3 gp (e.g., drop Rope) to reach Chainmail.
-  
-- **Greatblade**: Heavy-hitting warrior who wields massive steel with two hands.  
-  Requirements: STR 10 (Broadsword)  
-  Weapon: Broadsword 3d12 (Rushed 1d10)  
-  Armor: Chainmail (+4)  
-  What else you get: Backpack  
-  Leftover: 5 gp  
-  Notes: Heavy hitter, two-handed (no shield).  
-  Variation: If you’re short on STR, swap to Mace (10) now and bank +15 gp for utility.
 
-- **Wallbreaker**: Armored bulwark who shrugs off blows and stands firm.  
-  Requirements: STR 8+ (Mace)  
-  Weapon: Mace 2d20 (Rushed 1d10)  
-  Armor: Chainmail (+4), Shield (+1)  
-  What else you get: Backpack  
-  Leftover: 5 gp  
-  Notes: Toughest defense.  
-  Variation: Spend the 5 gp on Rope or Grappling Hook for siege-y vibes.
+- **Wallbreaker**: Heavy-hitting warrior.
+  - **Requirements**: STR 10+ (Warhammer)
+  - **Weapons**: Warhammer **2d12** (Rushed **1d10**)
+  - **Armor**: Chainmail (+4), Shield (+1)
+  - **Tools**: Backpack
+  - **Leftover**: **0 gp**
 
-- **Archer**: Sharp-eyed hunter and tracker who brings down foes from afar.  
-  Requirements: STR 7+ & AGI 7+ (Longbow)  
-  Weapons: Longbow 2d10 (Rushed 1d12); Dagger 1d10 (Rushed 1d10)  
-  Armor: Padded Leather (+3)  
-  What else you get: Backpack, Camping Gear, Waterskin, Torches  
-  Leftover: 5 gp  
-  Variation: If STR <7 or AGI <7, drop to Shortbow (15) and pocket +10 gp for Lockpicks or Lantern.
+- **Archer**: Ranged control with a solid melee backup.
+  - **Requirements**: STR 7+ **and** AGI 7+ (Longbow)
+  - **Weapons**: Longbow **2d12** (Rushed **1d12**); Dagger **1d10** (Rushed **1d10**)
+  - **Armor**: Padded Leather (+3)
+  - **Tools**: Backpack, Camping Gear, Waterskin, Torches
+  - **Leftover**: **10 gp**
+  - **Variation**: If you lack either STR 7+ or AGI 7+, take Shortbow **1d12** instead and gain **+10 gp**.
 
-- **Sneak / Thief**: Cunning infiltrator who relies on stealth, tools, and quick blades.  
-  Requirements: STR 6+ (Short Sword).  
-  Weapons: Short Sword 2d12 (Rushed 1d10); Dagger 1d10 (Rushed 1d10)  
-  Armor: Padded Leather (+3)  
-  What else you get: Backpack, Lockpicks, Rope, Climbing Kit  
-  Leftover: 1 gp  
-  Variation: Trade Short Sword → Rapier if FIN 7+; costs +5 gp, so drop Rope or Climbing Kit.
+- **Sneak / Thief**: Infiltration, tools, and quick blades.
+  - **Requirements**: FIN 7+ (Stiletto)
+  - **Weapons** Stiletto **1d12** (Rushed **1d12**), Dagger **1d10**
+  - **Armor**: Padded Leather (+3)
+  - **Tools**: Backpack, Lockpicks, Rope, Climbing Kit
+  - **Leftover**: **0 gp**
 
-- **Pathfinder**: Keen-eyed traveler who blends melee, ranged, and survival skills.  
-  Requirements: STR 6+ & AGI 7+  
-  Weapons: Spear 2d12 (Rushed 1d12); Shortbow 1d10 (Rushed 1d10)  
-  Armor: Padded Leather (+3)  
-  What else you get: Backpack, Rope, Camping Gear, Waterskin, Torches  
-  Leftover: 4 gp  
-  Variation: If you swap Spear → Short Sword, reqs become STR 4+ with the same total cost.
+- **Pathfinder**: Mobile skirmisher with survival focus.
+  - **Requirements**: STR 6+ **and** AGI 7+
+  - **Weapons**: Spear **2d12** (Rushed **1d12**); Shortbow **1d12** (Rushed **1d10**)
+  - **Armor**: Padded Leather (+3)
+  - **Tools**: Backpack, Rope, Camping Gear, Waterskin, Torches
+  - **Leftover**: **5 gp**
 
-- **Scholar / Investigator**: Curious mind who carries instruments for study, notes, and insight.  
-  Requirements: FIN 5+ (Dagger)  
-  Weapon: Dagger 1d10 (Rushed 1d10)  
-  Armor: Padded Leather (+3)  
-  What else you get: Backpack, Magnifying Glass, Lantern & Oil, Writing Kit  
-  Leftover: 0 gp
+- **Scholar / Investigator**: Brains, light defense, and kit for clues.
+  - **Requirements**: FIN 5+ (Dagger)
+  - **Weapon**: Dagger **1d10** (Rushed **1d10**)
+  - **Armor**: Padded Leather (+3)
+  - **Tools**: Backpack, Lantern & Oil, Writing Kit
+  - **Leftover**: **15 gp**
+  - **Variation**: Spend 15 gp on utility (Magnifying Glass, Lockpicks, extra oil, disguises) to tailor your specialty.
 
 ### Step 6 – Your Vital Stats: Hit Points and Defense Score
 
@@ -387,25 +380,24 @@ There are **10 total levels**, grouped into **4 ranks**:
 - **Rank 3:** Levels 6–8  
 - **Rank 4:** Levels 9–10  
 
-Each Rank sets the **maximum values** your character can reach in Abilities and Hit Points.  
-
 ### Gaining a Level  
 
-Whenever you gain a level, choose **one** of the following benefits:  
+Whenever you gain a level, you can increase one of your abilitiy scores or your hit points.
+
+Note that each Rank sets the **maximum values** your character can reach in Abilities and Hit Points:
+
+- Ranks 1–2 → 10
+- Rank 3 → 12  
+- Rank 4 → 14
+
+#### choose **one** of the following benefits:  
 
 - **Increase an Ability by +1**  
-  - Ability maximums by Rank:  
-    - Rank 1 → 10  
-    - Rank 2 → 12  
-    - Rank 3 → 14  
-    - Rank 4 → 16  
+  - Limited by the Rank's maximum
   - Don’t forget to update that ability’s Target Number (TN = 20 − new score).  
 
 - **Gain +1 Hit Point slot**  
-  - Hit Point maximums by Rank:  
-    - Ranks 1–2 → 10  
-    - Rank 3 → 11  
-    - Rank 4 → 12  
+  - Limited by the Rank's maximum
   - Add an empty box to your HP track when this increases.  
 
 ---

@@ -4,7 +4,7 @@
 
 ### Compact, Not Crunchy
 
-A compact system should be unified and consistent: a small number of mechanics that apply across many situations. Compact design avoids bloat and redundancy, but this does not mean stricly rules-light. Depth comes from how rules interlock, not from piling on subsystems.
+A compact system should be consistent: a small number of mechanics that apply across many situations. Compact design avoids bloat and redundancy, but this does not mean stricly rules-light. Depth comes from how rules interlock, not from piling on subsystems.
 
 ### Player-Centered Dice
 

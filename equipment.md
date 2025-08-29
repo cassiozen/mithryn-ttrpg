@@ -1,20 +1,37 @@
 ## Weapons
 
-| Weapon                    | Requirements       | Damage Dice                            | Rushed Damage | Price  | Tags                                |
-| ------------------------- | ------------------ | -------------------------------------- | ------------- | ------ | ----------------------------------- |
-| **Dagger**                | FIN 5              | **1d10**                               | **1d10**      |  5     | Concealable, throwable              |
-| **Short Sword**           | STR 6              | **2d12**                               | **1d10**      |  10    |                                     |
-| **Rapier**                | FIN 6              | **2d12**                               | **1d10**      |  15    | Precise (reroll any dice showing 1) |
-| **Handaxe**               | STR 7              | **1d20**                               | **1d10**      |  10    | Throwable                           |
-| **Spear**                 | STR 6 + AGI 6      | **2d12**                               | **1d12**      |  10    | Throwable                           |
-| **Mace**                  | STR 8              | **2d20**                               | **1d10**      |  10    |                                     |
-| **Broadsword**            | STR 10             | **3d12**                               | **1d10**      |  25    | two-handed                          |
-| **Battleaxe**             | STR 10             | **3d12**                               | **1d10**      |  35    | two-handed                          |
-| **Halberd**               | STR 10 + AGI 7     | **3d20**                               | **1d12**      |  30    | two-handed                          |
-| **Throwing Knives** (set) | FIN 7              | **1d10** (×2 can be thrown per attack) | **1d10**      |  7     |                                     |
-| **Shortbow**              | AGI 7              | **1d10**                               | **1d10**      |  15    | Ranged, requires free hands         |
-| **Longbow**               | STR 7 + AGI 7      | **2d10**                               | **1d12**      |  25    | Ranged, requires free hands         |
-| **Crossbow**              | STR 6              | **2d12**                               | — *(reload)*  |  30    | Ranged, reload (skip rush)          |
+- **Req.** Minimun Attribute scores to use the listed **Damage** dice (you may still use the weapon earlier, but only at **Rushed** dice).
+- **Rank**: minimum character Rank to use the listed **Damage** dice (you may still use the weapon earlier, but only at **Rushed** dice).
+- **Tags**:
+  - *Two-Handed*: requires both hands; cannot benefit from a shield.
+  - *Throwable*: can be thrown one zone.
+  - *Ranged*: bows/crossbows; require free hands (no shield benefit during the attack).
+  - *Reload*: cannot make a Rushed attack in the same turn.
+  - *Precise*: finesse control; reroll a single die showing 1 on this attack.
+  - *Versatile*: Can be uses two-handed (regular **Damage**) or one-handed, coupled with a shield, for example (All attacks considered rushed)
+
+
+| Weapon                      | Req.                    | Rank | Damage        | Rushed       | Price | Tags                              | Notes |
+|----------------------------|-------------------------|------|---------------|--------------|-------|-----------------------------------|-------|
+| **Dagger**                 | FIN 5+                  | —    | **1d10**      | **1d10**     | 5     | Concealable, Throwable            | Fast, reliable backup. |
+| **Stiletto**               | FIN 7+                  | —    | **1d12**      | **1d12**     | 9     | Precise                           | FIN route to early d12. |
+| **Short Sword**            | STR 6+                  | —    | **2d10**      | **1d10**     | 10    | —                                 | Works for either STR or FIN builds. |
+| **Rapier**                 | FIN 7+                  | —    | **2d10**      | **1d10**     | 15    | Precise                           | Technique-focused duelist. |
+| **Handaxe**                | STR 7+                  | —    | **1d12**      | **1d10**     | 10    | Throwable                         | Solid one-hander w/ throw option. |
+| **Warhammer**              | STR 10+                 | —    | **2d12**      | **1d10**     | 15    | —                                 | Heavier single-hander for STR builds. |
+| **Spear**                  | STR 6+ **AND** AGI 6+   | —    | **2d12**      | **1d12**     | 10    | Throwable, versatile              | Two-handed = Damage; w/ shield = Rushed |
+| **Polearm (Glaive)**       | STR 9+ **AND** AGI 7+   | 2    | **3d12**      | **1d12**     | 28    | Two-Handed                        | Big reach weapon; gated to Rank 2. |
+| **Greatsword**             | STR 10+                 | 2    | **3d12**      | **1d10**     | 25    | Two-Handed                        | Classic STR capstone at Rank 2. |
+| **Battleaxe**              | STR 10+                 | 2    | **3d12**      | **1d10**     | 30    | Two-Handed                        | Heavier, pricier variant. |
+| **Maul**                   | STR 10+                 | 2    | **2d20**      | **1d12**     | 28    | Two-Handed                        | Swingy high ceiling; Rank-gated. |
+| **Throwing Knives (set x6)**| FIN 7+                 | —    | **2d10**      | **1d10**     | 7     | Throwable                         | Consumes 2 knives per attack. |
+| **Javelin**                | STR 6+ **AND** AGI 6+   | —    | **1d12**      | **1d12**     | 4     | Throwable                         | One-handed thrower; melee usable. |
+| **Shortbow**               | AGI 7+                  | —    | **1d10**      | **1d10**     | 15    | Ranged                            | Entry bow; agile builds shine. |
+| **Longbow**                | STR 7+ **AND** AGI 7+   | —    | **2d10**      | **1d12**     | 25    | Ranged                            | Strong generalist ranged option. |
+| **Composite Bow**          | STR 9+ **AND** AGI 7+   | 2    | **2d12**      | **2d10**     | 35    | Ranged                            | Maintains strong rushed fire at Rank 2. |
+| **Crossbow**               | STR 6+ **OR** FIN 6+    | —    | **2d10**      | — *(Reload)* | 30    | Ranged, Reload                    | Easy to learn; no rushed attack. |
+| **Heavy Crossbow**         | STR 8+ **OR** FIN 8+    | 2    | **2d12**      | — *(Reload)* | 40    | Ranged, Reload                    | High punch, Rank-gated. |
+
 
 ---
 

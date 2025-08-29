@@ -36,9 +36,9 @@ These are all examples of valid actions during a player’s turn:
 
 To attack, choose a target and roll the number of dice listed in your weapon’s Damage entry. Dice are not summed up - each die is accounted for separately. Each die that equals or exceeds the target’s Defense score score deals 1 hit.
 
-### Auto hit and Exploding Dice
+### Auto hit
 
-Any die that rolled its maximum number (a 12 for a d12, for example) is always a hit (regardless of the target’s Defense). Plus, it may be rolled again for another chance to score a hit. These extra rolls can also explode.
+Any die that rolled its maximum number (a 12 for a d12, for example) is always a hit (regardless of the target’s Defense).
 
 ### Double attacks
 
@@ -70,7 +70,7 @@ Note: A PC must declare that they are interposing when the attack is announced, 
 
 Grant an ally advantage on their attack if the player can reasonably explain to the GM how you could help in a given situation. 
 
-The GM then can grant let the ally re-roll up to 2 damage dice if they aren't hits.
+The GM then can grant one automatic hit for the ally's weapon dice.
 
 ---
 

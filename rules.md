@@ -27,7 +27,9 @@ When a character attempts something risky, dramatic, or challenging, the GM may 
 
 ### Opposition
 
-If two opponents are each trying to overcome the other, whoever is most at risk (usually the character with the lowest relevant Attribute) should roll the relevant ability check.
+If two opponents are each trying to overcome the other, only one side rolls: the side with more at stake in the fiction (fallback: the character with the lowest relevant Ability score).
+
+On a success, they get what they want; on a fail, the opposition prevails.
 
 ### Difficulty
 
@@ -69,7 +71,9 @@ Example: If your normal TN is 14 and you have Rank 2, using a relevant tag lower
 
 - One of your damage dice automatically counts as a hit.
 
-This represents how your character’s background, training, or knack makes their attack more effective in this particular situation.
+This represents how your character’s background, training, or knack makes their attack more effective in this particular situation. 
+
+A player can all the tags that apply (ruled by the GM), but each tag counts only once per combat.
 
 Example: A PC with the tag Raised by Sailors is fighting on the deck of a ship. In this setting, the GM rules the tag applies, so one of the player’s weapon dice automatically counts as a hit.
 
@@ -85,7 +89,7 @@ When the character checks the first box within the Wounded or Critical tiers, th
 
 Effects: 
 
-Ability Checks: Roll all ability checks with disadvantage.
+Ability Checks: Roll all ability checks with a penalty of +1 to Targt Numbers.
 Combat: You only have one action per turn.
 
 ### Critical — “Clinging to Life”
@@ -101,14 +105,13 @@ Hit points can be restored with medical attention, potions, magic, or rest. Rest
 ### Short Rest
 
 A short rest represents a pause in the action — a chance to patch wounds and catch a breath.
-If the PC is not in the Critical range of hit points, they regain hit points equal to their Rank + 1d4.
+If the PC is not in the Critical range of hit points, restore 1d4 or Rank (whichever is higher).
 A PC in Critical condition can only have their hit points restored through magic/potions or through a long rest.
 
 ### Long Rest
 
 A long rest represents uninterrupted sleep, safe shelter, and proper care.
 PCs roll Rank + 3D4 to determine how many hit points they recover.
-
 
 ## Character Death
 
