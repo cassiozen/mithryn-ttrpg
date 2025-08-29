@@ -2,9 +2,9 @@
 
 ## Core Mechanics
 
-- **Ability Scores (1–12):** Agility, Strength, Finesse, Insight, Will.
-- **Target Number (TN):** `20 – Ability Score`. Lower is better.
-- **Ability Check:** Roll 2d12. If total ≥ TN, you succeed. If a relevant Tag applies, **reduce TN by your Rank**.
+- **Ability Scores:** Agility, Strength, Finesse, Insight, Will.
+- **Target Numbers (TN):** `20 - Ability Score`. Lower is better.
+- **Ability Check:** Roll a d20. If total ≥ TN, you succeed. If a relevant Tag applies, **reduce TN by your Rank**.
 - **Difficulty modifier:** GM may add or remove **+1 to +4** to TN for unusual obstacles or advantageous circumstances. 
 - **Doubles:** If both dice show the same number, it’s an automatic success (low doubles = success w/ cost; 10–12 = critical success). Only roll if success is plausible.
 

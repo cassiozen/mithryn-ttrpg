@@ -124,59 +124,45 @@ Starting out: Characters begin at Level 1 with Rank 1. You’ll track both at th
 
 Your character is defined by six Ability Scores — numbers that represent their natural talents and aptitudes. These scores shape how well they perform in challenges, from swinging a sword to persuading a crowd.
 
-There are five Ability Scores: Agility, Strength, Finesse, Insight and Will.
-
-- **Agility** — Speed, balance, and quick reaction to danger  
+- **Agility** — Speed, balance, fluidity of movements and ability to react swiftly to danger.  
   *Examples: Sprint, Leap, Dodge, Maneuver*
-- **Strength** — Raw power, toughness, grit, and stamina  
+- **Strength** — Physical power and resilience: the capacity to exert force and resist harm.
   *Examples: Lift, Smash, Grapple, Endure*
-- **Finesse** — Precision, accuracy, and delicate or stealthy work  
+- **Finesse** — Precision and control; the steady hands and subtle motions needed for accuracy or stealth.
   *Examples: Pick, Control, Hide, Tinker, Sneak*
-- **Insight** — Awareness, intuition, and reading truth beneath the surface
+- **Insight** — Awareness, intuition, and perception: reading truth beneath the surface and noticing hidden patterns.
   *Examples: Perceive, Sense, Discern, Navigate*
-- **Will** — Presence, influence, and the drive to shape outcomes
+- **Will** — Force of personality, courage and resolve. Bending circumstances toward your intent.
   *Examples: Persuade, Intimidate, Inspire, Resist fear or coercion*
-
 
 #### Note: Contrasting Abilities
 
-**Agility vs. Finesse:**  
-Agility is about whole-body movement — climbing, leaping, dodging, or keeping your balance when the ground shifts beneath you. Finesse is about precision and control — steady hands for delicate tools, quiet steps for stealth, or subtle motions for sleight of hand. One governs speed and grace in motion, the other governs accuracy and subtlety.
+The five abilities fall naturally into two groups: those that govern the body, and those that govern the mind. While all work together in play, it can help to think of them in these pairs and contrasts:
 
-**Insight vs. Will:**  
-Insight is the ability to take in reality — noticing details, reading people, sensing patterns, understanding what’s true beneath the surface. Will is the ability to project yourself onto reality — to persuade, to charm, and to bend the world toward your intent. One is input, the other is output.
+Mind: Insight and Will.
+Insight is the ability to take in reality - observing, interpreting, and making sense of what surrounds you. Will is about pressing reality into alignment with your aims. One is input, the other is output.
 
-#### Scores
+Body: Agility, Strength, and Finesse.
+Strength shows in force and durability. Agility shows in momentum and quick reaction. Finesse shows in exactness and subtlety.
 
-Ability scores range from 1 to 12 (or more, for legendary creatures). For reference, most healthy adult humans have scores in the 2-10 range.
 
-Scores at the extremes are evident to those around you:  
+#### Assigning Scores and Target Numbers (TNs)
 
-At the low end (2 or 1), others might see you as sluggish, always a half-step behind (AGI); looking as though a stiff wind could knock you over (STR); fumbling with tools and knocking things over when you meant to be careful (FIN); missing the obvious or trusting the wrong person at the worst time (INS); or speaking in a way that fails to hold attention, your presence fading soon after (WIL).
+Every character has natural strengths and weaknesses. You’ll show this by assigning scores for each ability, and then turning those into Target Numbers (TNs) that you’ll use during play.
 
-At the high end (11 or 12), you might be seen as impossibly quick, always in the right place before anyone else reacts (AGI); built like a fortress wall (STR); deft and sure-handed, as if you could thread a needle in the dark (FIN); uncanny in how you read people and places, spotting what no one else notices (INS); magnetic in presence, or drawing eyes and commanding attention without effort (WIL).
+**Choose a set of scores**: Choose one of the sets below and assign the numbers to your five abilities however you like:
 
-To assign your ability scores, distribute the following numbers between your attributes:  5, 6, 6, 7, 8, 10. Then, write them down on your character sheet.
+- Standard: 10, 8, 7, 7, 5
+- Balanced: 9, 9, 7, 7, 6
+- Min–Max: 10, 10, 6, 5, 5
 
-#### Target Numbers (TNs)
+**Calculate the Target Numbers**. For each ability, subtract 20 from its score. This is the threshold you’ll need to roll equal to or higher than when you attempt something using that ability. Write both the number and its TN on your sheet.
 
-Whenever you try something risky, dramatic, or simply difficult within the game, you’ll roll the dice to see if your character pulls it off.
+- Example: If you assign 9 to Strength, your Strength TN is 11 (20 - 9). You succeed on Strength rolls of 11 or higher.
+- Example: If you assign 5 to Insight, your Insight TN is 15 (20 – 5), making Insight rolls more difficult.
 
-The Target Number (TN) is the threshold you need to meet or beat with your roll for your attempt to succeed.
+**Putting it together**: Aroth is a silver-tongued trickster who relies on deft hands and charming presence. Using the Min–Max set, his player assigns 10 to Finesse (TN 10), 10 to Will (TN 10), 6 to Agility (TN 14), 5 to Insight (TN 15), and 5 to Strength (TN 15). This creates a character who’s sneaky and persuasive, but overlooks details and struggles with heavy lifting.
 
-A low TN means your character is skilled in that area — it’ll be easier to succeed.
-
-A high TN means your character struggles in that area — it’ll be harder to succeed.
-
-##### Calculating the TNs
-
-Every Ability Score has its own TN. To figure it out:
-
-- Take the Ability Score.
-- Subtract it from 20.
-- The result is the TN for that ability.
-
-Example: If your Strength is 7, then your TN for Strength-based rolls is 13 — you’ll succeed whenever your roll is 13 or higher.
 
 ### Step 4: Choose Your Tags
 
@@ -300,27 +286,12 @@ Your equipment defines not only how you fight but also how you defend yourself. 
 - **Weapons** determine how many dice you roll when attacking. Weapons can have a minimum ability score requirements.
 - **Armor** helps avoid incoming attacks by increasing your character’s Defense score, a number that determines how high an attacker must roll for you to take damage (More on Defense below).
 
-#### Inventory
-
-Characters have a total of ten inventory slots, but can only carry four or five items comfortably without the help of bags, backpacks, horses, carts, etc.
-For game purposes, each character starts with a Bag, Backpack, or similar that can hold up to six slots. 
-Anyone carrying a full inventory (i.e., filling all 10 slots) is reduced to 0 Defense. A character cannot fill more than ten slots.
-
-##### Inventory Slots
-
-Most items take up one slot unless otherwise indicated.
-Petty items do not take up any slots. Bulky items take up two slots.
-A small bag of coins (up to 100 coins) is petty and does not occupy a slot.
-
-#### Starting Wealth
-
-At character creation, you begin with 50 gold pieces to spend on weapons, armor, and useful tools. Alternatively, you may select one of the Starting Kits below:
+At character creation, you begin with 50 gold pieces to spend on weapons, armor, and useful tools - check the equipment chapter for prices and descriptions. Alternatively, you may select one of the Starting Kits below:
 
 #### Starting Kits
 
-Choosing gear can feel overwhelming for new players, especially with limited gold, limited inventory slots and weapons with ability requirements.  
+Balancing your amount of coins and weapon ability requirements can make choosing gear feel overwhelming for new players.  
 Starter kits are suggested gear packs built around familiar types of characters. They include the weapon and armor requirements you’ll need to meet and how much coin you’ll have left.
-
 
 - **Adventurer**: All-purpose explorer with a balance of melee and ranged.  
   Requirements: STR 4+ (Short Sword), AGI 6+ (Shortbow)  
@@ -405,52 +376,53 @@ In the character sheet, your HP is represented as boxes that you tick as you get
 
 ---
 
-## Leveling Up
+## Leveling Up  
 
-Your character levels up whenever the GM decides you’ve reached a narrative milestone (usually about every 3 sessions).
+As your character grows through play, they’ll gain new abilities, toughness, and options. The GM decides when you level up, usually after a narrative milestone (about every three sessions).  
 
-There are a total of 10 PC levels divided into 4 ranks:
+There are **10 total levels**, grouped into **4 ranks**:  
 
-→ Rank 1 encompasses levels 1-2.
-→ Rank 2 encompasses levels 3–5.
-→ Rank 3 encompasses levels 6–8.
-→ Rank 4 encompasses levels 9–10.
+- **Rank 1:** Levels 1–2  
+- **Rank 2:** Levels 3–5  
+- **Rank 3:** Levels 6–8  
+- **Rank 4:** Levels 9–10  
 
-### Gaining a Level
+Each Rank sets the **maximum values** your character can reach in Abilities and Hit Points.  
 
-Whenever your character gains a level, choose one of the following benefits:
+### Gaining a Level  
 
-- +1 Ability Score (and recalculate that Ability’s TN = 20 − new score), or
-- +1 Hit Point slot (add another empty box to your HP track), or
-- +1 Inventory slot, or
-- Broaden a Tag (expand an existing Tag to cover more situations)
+Whenever you gain a level, choose **one** of the following benefits:  
 
-### Reaching a New Rank
+- **Increase an Ability by +1**  
+  - Ability maximums by Rank:  
+    - Rank 1 → 10  
+    - Rank 2 → 12  
+    - Rank 3 → 14  
+    - Rank 4 → 16  
+  - Don’t forget to update that ability’s Target Number (TN = 20 − new score).  
 
-At Level 3, 6, and 9, you advance into a new Rank. This comes with extra rewards:
+- **Gain +1 Hit Point slot**  
+  - Hit Point maximums by Rank:  
+    - Ranks 1–2 → 10  
+    - Rank 3 → 11  
+    - Rank 4 → 12  
+  - Add an empty box to your HP track when this increases.  
 
-First, take note of the new Rank in the character sheet and Update the Defense: Defense = Rank + Armor Bonus
+---
 
-Next, choose one of the following, instead of a normal level-up option:
+### Advancing to a New Rank  
 
-- Gain a new Tag (a fresh specialty, quality, or talent), or
-- Ease a Complication (reduce or resolve one that has burdened you)
+At levels **3, 6, and 9**, your character crosses into a new Rank. This comes with extra rewards:  
 
+1. **Update your sheet**  
+   - Record your new Rank.  
+   - Update Defense: **Defense = Rank + Armor Bonus**.  
 
-### Broadening tags, easing complications
+2. **Choose one additional benefit** (on top of your normal level-up choice):  
+   - **Gain a new Tag** (a fresh specialty, quality, or talent), or  
+   - **Ease a Complication** (reduce or resolve one that has been weighing on you).  
 
-When you broaden a tag, you’re letting it grow with your character’s experiences. A tag that once applied in narrow circumstances can now reach further — but it should still stay flavorful and specific.
-
-- Build on what’s there: Think of situations you’ve actually played through. How has your character’s story stretched this trait?
-- Stay concrete: Don’t turn “Locksmith’s Touch” into “Good with everything.” Instead, you might expand it into “Master of Locks and Mechanisms,” reflecting both doors and traps you’ve worked through in play.
-- Keep the edge: Broadening doesn’t erase limits. A broadened tag should still feel like it applies strongly in some cases and not at all in others.
-
-Examples: 
-
-- “Animal Whisperer” might broaden to “Beast-Bonded”, after the character learns to handle not just horses and hounds, but also wild or magical creatures.
-- “Tracker” might broaden to “Pathfinder”, after the character follows a creature across storm and forest, catching it where others failed.
-- “Crowd Charmer” might broaden to “Voice of the Masses,” after the character rallied an entire town square.
-
+#### Note: Easing complications
 
 When you ease a complication, you’re showing how your character has faced a burden and either learned to manage it or partially resolved it:
 

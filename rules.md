@@ -12,8 +12,6 @@ Each of the five abilities is used in different circumstances (see Ability Check
 | **Insight (INS)** | Perception, detecting lies, tracking, navigation |
 | **Will (WIL)** | Persuasion, charm, intimidation, resisting fear or influence, bending circumstances toward your intent. |
 
-
-
 ### Target Numbers (TNs)
 
 Every Ability Score has its own **Target Number (TN)** — the number a player must meet or beat to succeed in a roll for that ability.
@@ -25,24 +23,27 @@ TN = 20 - Ability Score
 
 ## Ability Checks
 
-When a character attempts something risky, dramatic, or challenging, the GM may call for an ability check. If a relevant tag applies, lower the TN by your Rank. The player then rolls **2d12**: If the result is **equal to or greater than** that ability’s TN, the attempt succeeds.
+When a character attempts something risky, dramatic, or challenging, the GM may call for an ability check. If a relevant tag applies, lower the TN by your Rank. The player then rolls a **d20**: If the result is **equal to or greater than** that ability’s TN, the attempt succeeds.
+
+### Opposition
+
+If two opponents are each trying to overcome the other, whoever is most at risk (usually the character with the lowest relevant Attribute) should roll the relevant ability check.
 
 ### Difficulty
 
 When the GM deems some attempt to be particularly difficult, they can impose a “difficulty modifier”, a number that adds to the Target Number (TN), making it harder to succeed.
 
-Penalties usually range from +2 (hard) up to +4 (extremely hard), but the GM can set it at their discretion.
+Penalties usually range from +1 (hard) up to +4 (extremely hard), set at the GM discretion.
 
 Conversely, if the PC have situational benefits (environmental effects, clever planning, etc), the GM might offer you a negative difficulty modifier, lowering the TN and make success easier to accomplish.
 
+### Critical Success and Failure  
 
-### Automatic Success on Doubles
+Sometimes the dice decide the outcome in dramatic ways.  
 
-If the player rolls **doubles** (both dice showing the exact same number), it is considered an **automatic success**, regardless of whether the total meets the Target Number. Still, higher doubles generally indicate stronger results.
+- **Critical Success (roll of 20):** No matter the Target Number, the action succeeds — and not just barely. It succeeds in an especially powerful, impressive, or advantageous way, as determined by the GM.  
 
-Low Doubles (1s, 2s and 3s): Still a success, but a close call. The GM might determine that it comes with a cost or a consequence, or minor setback alongside the success.
-
-High Doubles (10s, 11s, or 12s): These count as a **critical success**. The action not only succeeds, but does so in an especially powerful, impressive, or advantageous way, determined by the GM.
+- **Critical Failure (roll of 1):** No matter the Target Number, the action fails — and it fails badly. The attempt comes with a cost, consequence, or setback that pushes the story forward.  
 
 ---
 
